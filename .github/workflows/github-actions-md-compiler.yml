@@ -15,10 +15,16 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      
 
       - name: Concat document files
         uses: bayssmekanique/action-md-concat@v1
         with:
-          srcDir: ./keywords/
+          srcDir: ./keywords
           destFile: ./glossary.md
+      - name: List files in the repository
+
+        run: |
+          ls -al ${{ github.workspace }}
+      
+      run: echo "🍏 This job's status is ${{ job.status }}."

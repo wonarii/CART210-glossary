@@ -14,14 +14,11 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: List files in the repository
         run: |
-          ls -al ${{ github.workspace }}
+          ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: echo "${{ github.workspace }}/keywords"
-      
 
       - name: Concat document files
         uses: bayssmekanique/action-md-concat@v1
         with:
-          srcDir: ${{ github.workspace }}/keywords
-          destFile: ${{ github.workspace }}/glossary.md
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+          srcDir: ./keywords
+          destFile: ./glossary.md

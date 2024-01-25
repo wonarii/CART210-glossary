@@ -20,6 +20,6 @@ jobs:
       - name: Concat document files
         uses: bayssmekanique/action-md-concat@v1
         with:
-          srcDir: ./keywords
-          destFile: ./glossary.md
+          srcDir: ${{ github.workspace }}/keywords
+          destFile: ${{ github.workspace }}/glossary.md
       - run: echo "🍏 This job's status is ${{ job.status }}."

@@ -16,6 +16,8 @@ jobs:
         run: |
           ls -al ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: echo "${{ github.workspace }}/keywords"
+      
 
       - name: Concat document files
         uses: bayssmekanique/action-md-concat@v1

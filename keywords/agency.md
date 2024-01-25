@@ -1,3 +1,3 @@
-# Agency
+## Agency
 
-Crucial for life.
+Crucial for enjoying life.

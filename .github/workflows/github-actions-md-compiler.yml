@@ -20,5 +20,5 @@ jobs:
       - name: Concat document files
         uses: bayssmekanique/action-md-concat@v1
         with:
-          srcDir: ./keywords
+          srcDir: ./keywords/
           destFile: ./glossary.md

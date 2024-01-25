@@ -13,9 +13,9 @@ Each student must:
 The glossary will be improved throughout the term, with three sprint deadlines.
 
 ---
-# Agency
+## Agency
 
-Crucial for life.
+Crucial for enjoying life.
 
 
 ## GitHub

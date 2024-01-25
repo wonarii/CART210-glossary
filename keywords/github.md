@@ -1,3 +1,3 @@
 # GitHub
 
-This one is for GitHub. UYUYUY.
+This one is for GitHub. UYUYUY!

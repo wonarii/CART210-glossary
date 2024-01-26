@@ -1,7 +1,8 @@
 # CART210 New media glossary
 This is the repository for the collaborative glossary of the New Media Theory(ies), Art, and Practice class.
 
-## [Check the Glossary here](./glossary.md)
+>[!IMPORTANT]
+>## [Check the Glossary here](./glossary.md)
 
 The glossary is constantly improved by the CART210 community throughout the term, with three sprint deadlines.
 

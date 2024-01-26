@@ -28,7 +28,7 @@ Each student must:
 
 ![Add filename](./images/02-name-file.png)
 
-- add the details of the term they are working on using strict Markdown syntax. The keyword title should be in Heading 2 (`## The term`) and the rest in plain markdown
+- add the details of the term they are working on using [strict Markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). The keyword title should be in Heading 2 (`## The term`) and the rest in plain markdown
 - citations must be added in the same markdown file, as show below
 
 ![Add data](./images/03-add-data.png)

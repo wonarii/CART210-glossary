@@ -6,7 +6,8 @@ Each student is responsible for choosing and maintaining a set of three keywords
 
 For each keyword, cite at least three references. Ensure that at least two of these are from academic sources, such as journal articles, books, or conference papers. Citations must follow the Chicago author-year format.
 
-To commit changes, see the instructions in the repository [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
+[!IMPORTANT]
+To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
 

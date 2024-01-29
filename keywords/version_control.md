@@ -27,11 +27,8 @@ Alternatively, CVCS require a constant connection to the server to have access t
 - Source Code Management (SCM)
 - Revision Control Systems (RCS)
 
----
-Last modified: January 29, 2024
+[^Atlassian-VCS]: Atlassian. Retrieved January 28, 2024. "What is version control?" [https://www.atlassian.com/git/tutorials/what-is-version-control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-[^Atlassian-VCS]: Atlassian, "What is version control?", retrieved January 28, 2024. [https://www.atlassian.com/git/tutorials/what-is-version-control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+[^Gitlab-VCS]: Gitlab. Retrieved January 28, 2024. "What is a centralized version control system." [https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/](https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/)
 
-[^Gitlab-VCS]: Gitlab, "What is a centralized version control system," retrieved January 28, 2024. [https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/](https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/)
-
-[^Zolkifli-VCS]: Zolkifli, Nazatul Nurlisa, and Amir Ngah, and Aziz Deraman, "Version Control System: A Review," *3rd International Conference on Computer Science and Computational Intelligence* (2018): 408-415, [https://www.sciencedirect.com/science/article/pii/S1877050918314819](https://www.sciencedirect.com/science/article/pii/S1877050918314819)
+[^Zolkifli-VCS]: Zolkifli, Nazatul Nurlisa, and Amir Ngah, and Aziz Deraman. 2018. "Version Control System: A Review," *3rd International Conference on Computer Science and Computational Intelligence*: 408-415. [https://www.sciencedirect.com/science/article/pii/S1877050918314819](https://www.sciencedirect.com/science/article/pii/S1877050918314819)

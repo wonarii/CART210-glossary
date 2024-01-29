@@ -10,6 +10,12 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+## API
+The Application Programming Interface (API) is responsible for transimitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what] It gets its information from servers that hosts databases with the information we want.[^dreanfactory2023understanding]
+
+[^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 25, 2024. https://aws.amazon.com/what-is/api/.
+[^mulesoft15what]: MuleSoft Videos. 2015. "What Is an API?" YouTube video, 3:24. Accessed January 25, 2024. https://www.youtube.com/watch?v=s7wmiS2mSXY.
+[^dreanfactory2023understanding]: Nguyen, Spencer. 2023. "Understanding the Connection Between Databases and APIs." Accessed January 25, 2024. https://blog.dreamfactory.com/understanding-the-connection-between-databases-and-apis/#:~:text=APIs%20facilitate%20communication%20between%20applications,layer%20of%20protection%20to%20databases.
 ## Avatar
 
 An avatar is a digital entity or body through which a human being can experience the events within a digital world, giving the user a “subject-position within a simulated environment, a vicarious body through which the player can act as an agent in a fictional world.”[^Castronova03avatar] 
@@ -57,6 +63,11 @@ For example, blockchains are used in the monetary world for crypto currencies su
 
 
 
+## DNS
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses. In order for the browser to find the website we are looking for, it needs to know the IP address. Therefore, the DNS provides the corresponding IP address to the domain name.[^techquickie16dns]
+
+[^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
+[^techquickie16dns]: Techquickie. 2016. "DNS as Fast as Possible." Youtube video, 5:42. Accessed January 25, 2024. https://www.youtube.com/watch?v=Rck3BALhI5c.  
 
 ## GitHub
 GitHub is a web-based platform for version control and collaboration using Git,[^github24wikis] allowing users to manage and share code in various repositories and offering wikis for documentation and collaborative editing. GitHub employs Git software, offering distributed version control, access control, bug tracking, feature requests, task management, continuous integration, and project [wikis](../main/glossary.md#wiki).[^kinsta24what]
@@ -92,6 +103,11 @@ In addition, hashtags can be useful in assisting people in need. During the COVI
 
 [^PublicHealth22Instagram]:  Int J Environ Res Public Health. 2022. "An Instagram Hashtag Fostering Science Education of Vulnerable Groups during the Pandemic". Accessed January 28. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8872541/
 
+## Pantone
+Pantone is a color system used in printing that allows for a universal agreement on specific colors we expect to get from print. There are two color systems, PMS and FHI [^pantone24what]
+
+[^pantone24what]: Pantone. 2024. "What Are Pantone Color Systems?" Accessed January 17, 2024. https://www.pantone.com/color-systems/pantone-color-systems-explained.
+[^paperstreet09when]: PaperStreet. 2009. "When to Use CMYK colors v. Pantone colors." Accessed January 17, 2024. https://www.paperstreet.com/blog/why-you-need-to-know-cmyk-colors-v-pantone-colors/.
 
 ## Wiki
 

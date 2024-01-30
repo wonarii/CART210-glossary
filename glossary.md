@@ -342,6 +342,17 @@ The easiest way to understand this term is to take it literally. The first part 
 [^Lutkevich(n.d)mobilecomputing]: Lutkevich, Ben. n.d. "Mobile Computing," TechTarget Mobile Computing, https://www.techtarget.com/searchmobilecomputing/definition/nomadic-computing.
 
 
+## Natural Language Processing
+Natural Language Processing (NLP) is a broad field driven by both computerized and theoretical approaches to analyze and represent human languages.[^Chowdhary01NPL]
+
+As this topic related to Natural Language Processing (NPL) remains a very active area for research and development, many might acknowledge that a one-size-fits-all approach for definiting this field might not fit all. Altought, a commont central purpose and understanding knowledge remains including the goal of achieving human-like language processing for a various of tasks and application.[^Liddy02NPL]
+
+
+[^Chowdhary01NPL]: Chowdhary, K.R. 2020. *Fundamentals of Artificial Intelligence*. India: Springer Nature: 603-649. doi:10.1007/978-81-322-3972-7.
+
+[^Liddy02NPL]: Liddy, E.D. 2001. *Natural Language Processing*. In Encyclopedia of Library and Information Science, 2nd Ed. NY. Marcel Decker, Inc. 
+
+
 ## Network Security
 
 The first thing to know is that Network Security is an extremely complex term. The first thing to understand Network Security is that it is a sub-term under a huge umbrella being computer secuity. An overall explanation of Network Security would be that it's purpose is to provide privacy and confidentiality on the internet. This goal is achieved with how the security functions. Simply put, the main things that Network Security watches are network monitoring, detects intrusion and completes analyses on digital traffic. [^Marin05networksecurity]

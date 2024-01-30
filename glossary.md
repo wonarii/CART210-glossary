@@ -10,6 +10,23 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+##Telepresence
+
+The word “telepresence” refers to real-time techniques that simulate the presence of a person in another space  using various digital systems.[^lombard97presence]
+Telepresence technology often makes particular use of sound and sight. In particular thanks to sensors such as cameras or microphones
+But it can also include other sensory sources such as touch.[^held92telepresence]
+
+[^held92telepresence] Held, R (1992) on 124th Meeting of the Acoustical Society of America
+https://pubs.aip.org/asa/jasa/article/92/4_Supplement/2458/620791/Telepresence
+
+[^lombard97presence] Lombard, M., & Ditton, T. (1997). At the heart of it all: The concept of presence. Journal of Computer-Mediated Communication,(p0-01) https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1426936 
+
+The wikipedia page of the word telepresence.
+​​https://en.wikipedia.org/wiki/Telepresence 
+
+ChatGPT4 to help me find references and to translate some texts.
+
+
 The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what]
 
 A main advantage of using an API to communicate between the client and the server rather than sending a direct query to the databases is that it protects the database from potential security risks. It also allows developers to keep a similar syntax when requesting data from any type of database. [^dreanfactory2023understanding]

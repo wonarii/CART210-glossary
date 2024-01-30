@@ -187,6 +187,16 @@ Ethernet usually offers faster internet connection than Wi-Fi because of its use
 [^BasuMallick23ethernet]: BasuMallick, Chiradeep. 2023. “What Is Ethernet? Definition, Types, and Uses.” Spiceworks. Accessed January 25. https://www.spiceworks.com/tech/networking/articles/what-is-ethernet/.
 [^BusinessInsider24ethernet]: Business Insider. 2024. “What Is Ethernet? the Wired Network Connection, Explained.” Business Insider. Accessed January 25. https://www.businessinsider.com/guides/tech/what-is-ethernet.
 
+## Firewall
+
+A firewall is like a security gate that controls what comes in and out. It is a network security device that monitors the incoming and outgoing network traffic and decides whether to allow or block them based on a set of defined security rules. 
+There are different types of firewalls, such as proxy, stateful inspection, UTM, next-generation, cloud-native firewalls and more, each with different features and functions. [^Cisco24firewall]
+
+A firewall has many benefits, such as blocking spyware, stopping virus attacks, promoting privacy, and network traffic, and preventing hackers from accessing the network. [^Spiceworks24firewall]
+
+[^Cisco24firewall]:“What Is a Firewall?” n.d. Cisco. Accessed January 29, 2024. https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html.
+[^Spiceworks24firewall]: “What Is a Firewall? Definition, Key Components, and Best Practices.” n.d. Spiceworks (blog). Accessed January 29, 2024. https://www.spiceworks.com/it-security/network-security/articles/what-is-firewall-definition-key-components-best-practices/.
+
 
 ## GitHub
 GitHub is a web-based platform for version control and collaboration using Git,[^github24wikis] allowing users to manage and share code in various repositories and offering wikis for documentation and collaborative editing. GitHub employs Git software, offering distributed version control, access control, bug tracking, feature requests, task management, continuous integration, and project [wikis](../main/glossary.md#wiki).[^kinsta24what]

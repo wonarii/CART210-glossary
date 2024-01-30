@@ -10,6 +10,12 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+## API
+The Application Programming Interface (API) is responsible for transimitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what] It gets its information from servers that hosts databases with the information we want.[^dreanfactory2023understanding]
+
+[^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 25, 2024. https://aws.amazon.com/what-is/api/.
+[^mulesoft15what]: MuleSoft Videos. 2015. "What Is an API?" YouTube video, 3:24. Accessed January 25, 2024. https://www.youtube.com/watch?v=s7wmiS2mSXY.
+[^dreanfactory2023understanding]: Nguyen, Spencer. 2023. "Understanding the Connection Between Databases and APIs." Accessed January 25, 2024. https://blog.dreamfactory.com/understanding-the-connection-between-databases-and-apis/#:~:text=APIs%20facilitate%20communication%20between%20applications,layer%20of%20protection%20to%20databases.
 ## Avatar
 
 An avatar is a digital entity or body through which a human being can experience the events within a digital world, giving the user a “subject-position within a simulated environment, a vicarious body through which the player can act as an agent in a fictional world.”[^Castronova03avatar] 
@@ -26,11 +32,11 @@ The creation and use of avatars began mostly in entertainment media such as vide
 ## Big Data
 Big Data is the use of a large quantity of stored and analyzed information to form accurate understandings and predictions about the world. The wielding of this type of information processing has been accelerated by improvements in technology and the growing amounts of digital connections between people and organizations. [^AsktCite]
 
-Big Data is used in everything from health care to political campaigns. Notably big data was a cornerstone of Barack Obama’s presidential campaigns where personalized messaging and interaction were optimized by the assessment of [potential voter preferences] (http://www.jstor.org/stable/26466778). [^LadonMurraycite] Large-scale data analysis was also used in the NBA to track player shooting accuracy. A sensor placed on the hoop would track and record the player’s shots from different points on the court. It would then be able to suggest where to shoot from to maximize winning potential. [^Ricecite] 
+Big Data is used in everything from health care to political campaigns. Notably big data was a cornerstone of [Barack Obama’s presidential campaigns](http://www.jstor.org/stable/26466778) where personalized messaging and interaction were optimized by the assessment of potential voter preferences. [^LadonMurraycite] Large-scale data analysis was also used in the NBA to track player shooting accuracy. A sensor placed on the hoop would track and record the player’s shots from different points on the court. It would then be able to suggest where to shoot from to maximize winning potential. [^Ricecite] 
 In both of these examples, real-world phenomena were tracked and enumerated. They were then sent through systems and by people who would find patterns that could predict outcomes. 
 
 
-[^LadonMurraycite]: Landon-Murray, Michael. 2016. “Big Data and Intelligence: Applications, Human Capital, and Education.” Journal of Strategic Security 9, no. 2 (2016): 92–121. http://www.jstor.org/stable/26466778.
+[^LadonMurraycite]: Landon-Murray, Michael. 2016. “Big Data and Intelligence: Applications, Human Capital, and Education.” Journal of Strategic Security 9, no. 2: 92–121. doi:10.5038/1944-0472.9.2.1514
 
 [^AsktCite]: Akst, George. 2019. “Sponsor’s Corner: What Is a Data Scientist, Anyway?” Phalanx 52, no. 1 (2019): 58–60. https://www.jstor.org/stable/26627999.
 
@@ -57,6 +63,25 @@ For example, blockchains are used in the monetary world for crypto currencies su
 
 
 
+## Cyberspace
+
+Cyberspace’s current definition according to the CSRC (Computer Security Resource Center) is “The complex environment resulting from the interaction of people, software and services on the Internet by means of technology devices and networks connected to it, which does not exist in any physical form.” [^bussel23wiki]
+
+The term, cyberspace, has always meant a virtual “place” accessed through the internet by machines. When it first appeared in Omni Magazine in 1982, in a short story written by the Canadian-American author William Gibson, it was referred to as a computer network filled with artificial beings. In the same year, the movie Tron was released, depicting a completely digital world. This popularized the idea that computers shared a digital location in which one could interact with digital beings.[^csrc24wiki]
+
+In the 1990s, due to the pop culture popularization of the term, the definition morphed into “The ‘location’ in which people interacted with each other while using the Internet.” It became the “space” where one played online games or interacted on forums and blogs. [^dclark10wiki]
+
+[^bussel23wiki]: Bussell, J., 2023. "cyberspace.", Encyclopedia Britannica. https://www.britannica.com/topic/cyberspace.
+
+[^csrc24wiki]: Editor, CSRC Content. “Cyberspace - Glossary | CSRC.” Accessed January 29, 2024. https://csrc.nist.gov/glossary/term/cyberspace.
+
+[^dclark10wiki]: David Clark, 2010, Characterizing cyberspace: past, present, and future, Accessed January 29, 2024
+
+## DNS
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses. In order for the browser to find the website we are looking for, it needs to know the IP address. Therefore, the DNS provides the corresponding IP address to the domain name.[^techquickie16dns]
+
+[^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
+[^techquickie16dns]: Techquickie. 2016. "DNS as Fast as Possible." Youtube video, 5:42. Accessed January 25, 2024. https://www.youtube.com/watch?v=Rck3BALhI5c.  
 
 ## GitHub
 GitHub is a web-based platform for version control and collaboration using Git,[^github24wikis] allowing users to manage and share code in various repositories and offering wikis for documentation and collaborative editing. GitHub employs Git software, offering distributed version control, access control, bug tracking, feature requests, task management, continuous integration, and project [wikis](../main/glossary.md#wiki).[^kinsta24what]
@@ -75,22 +100,142 @@ GitHub's development process is distributed, allowing developers to collaborate,
 
 ## Hashtag
 
-A hashtag, denoted by the symbol “#”, is a metadata tag commonly use in the Internet culture, particularly on social media. [^Merriam-Webester24Hashtag]  It originated as a feature on a post on Twitterin August 2007 from a product designer named Chris Messina. The primary purpose was to provide user with an easy way to categorize, discover and participate in specific topics on social media.[^Hastags.org12Whatis#] In addition, Tweets containing hashtags can link to a specific timeline of other tweets with the same hashtag. [^WikströmHashtagOnTwitter]
+A hashtag, denoted by the symbol “#”, is a metadata tag commonly use in the Internet culture, particularly on social media.[^Merriam-Webester24Hashtag]  It originated as a feature on a post on Twitterin August 2007 from a product designer named Chris Messina. The primary purpose was to provide user with an easy way to categorize, discover and participate in specific topics on social media.[^Hastags.org12Whatis#] In addition, Tweets containing hashtags can link to a specific timeline of other tweets with the same hashtag.[^WikströmHashtagOnTwitter]
 
-Hashtags have significantly impacted the overall performance of social media content which can help small businesses, influencers, brands and many more to reach a bigger audience. A hashtag can contain multiple word without space, such as #dogLover and may also contain numbers. They can be added to social media posts, bios, comments, and other content. They are utilized across various platform, including Instagram, TikTok, YouTube, Facebook, Twitter and many more.[^SproutSocial23HashtagsWhatAreThey] 
+Hashtags have significantly impacted the overall performance of social media content which can help small businesses, influencers, brands and many more to reach a bigger audience. A hashtag can contain multiple word without space, such as `#dogLover` and may also contain numbers. They can be added to social media posts, bios, comments, and other content. They are utilized across various platform, including Instagram, TikTok, YouTube, Facebook, Twitter and many more.[^SproutSocial23HashtagsWhatAreThey] 
 
 In addition, hashtags can be useful in assisting people in need. During the COVID-19 pandemic, Instagram hashtags helped young people at risk of poverty and social exclusion by fostering scientific education and promoting remote learning.[^PublicHealth22Instagram]
 
 
-[^Merriam-Webester24Hashtag]:	Merriam-Webster. 2024. “Hashtag”. Accessed January 27. https://www.merriam-webster.com/dictionary/hashtag
+[^Merriam-Webester24Hashtag]: Merriam-Webster. 2024. “Hashtag”. Accessed January 27. https://www.merriam-webster.com/dictionary/hashtag
 
-[^Hastags.org12Whatis#]:	Hastags.org. 2012. “What is a (#) Hashtag?”. Accessed January 27. https://www.hashtags.org/how-to/history/what-is-a-hashtag/
+[^Hastags.org12Whatis#]: Hastags.org. 2012. “What is a (#) Hashtag?”. Accessed January 27. https://www.hashtags.org/how-to/history/what-is-a-hashtag/
 
-[^SproutSocial23HashtagsWhatAreThey]:	Sprout Social. 2023. “Hashtags: What they are and how to use them effectively”. Accessed January 27. https://sproutsocial.com/insights/what-is-hashtagging/
+[^SproutSocial23HashtagsWhatAreThey]: Sprout Social. 2023. “Hashtags: What they are and how to use them effectively”. Accessed January 27. https://sproutsocial.com/insights/what-is-hashtagging/
 
 [^WikströmHashtagOnTwitter]: Wikström, Peter. 2014. "#srynotfunny: Communicative Functions of Hashtags on Twitter": 1–44. Accesed January 28. https://www.linguistics.fi/julkaisut/SKY2014/Wikstrom.pdf
 
-[^PublicHealth22Instagram]:  Int J Environ Res Public Health. 2022. "An Instagram Hashtag Fostering Science Education of Vulnerable Groups during the Pandemic". Accessed January 28. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8872541/
+[^PublicHealth22Instagram]: Int J Environ Res Public Health. 2022. "An Instagram Hashtag Fostering Science Education of Vulnerable Groups during the Pandemic". Accessed January 28. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8872541/
+
+## HTTPS
+
+HTTPS is an extension of the HTTP but is more secure as it incorporates encryption, authentication, and integrity checks. It provides a secure method for transmitting data between a web server and a web browser by using encryption technology like SSL or TLS. It operates on a request-response model, it sends a request and awaits the server’s response.[^WhatIsHTTPS24]
+HTTPS safeguards users against any malicious activities such as eavesdroppers and man-in-the-middle attacks. It is relatively easy to impersonate, modify or monitor an HTTP connection since any information is sent as a plain text. Therefore, using HTTPS is more secure and ensure that no attacks can temper with the exchanged information.[^HypertextTransferProtocolSecure22]
+
+### HTTPS Cryptographic protocols
+
+#### Secure Sockets Layer (SSL)
+SSL is the predecessor to the modern encryption, TLS. It was developed by Netscape in 1995[^CloudflareWhatIsSSL24] for ensuring the identity and authentication of a website, enabling a secure HTTP session between the client and the server. However, since SSL 3.0,  developed in 1996, several vulnerabilities have been identified, rendering it unsafe for use. Consequently, most browsers no longer support this protocol.
+
+#### Transport Layer Security (TLS)
+TLS is the successor of SSL and ensures privacy, authenticity and data security while exchanging data over the internet. The key difference between SSL and TLS lies in the handshake process, where a browser authenticates a server’s SSL or TLS certificate. SSL handshake involves an explicit connection and has more steps, while TLS is an implicit one, making it faster.[^AWSDifferenceBetweenSSL]
+
+The term SSL and SSL/TLS both refer to the TLS protocol and certificates, as all version of SSL are now deprecated.
+
+HTTPS contributes to a better overall user experience by providing faster loading times, especially on modern web browsers and prioritize secure connections. Additionally, search engines prioritize websites that use HTTPS in their search results.[^LinkedInHTTPSSEO24] It plays an important role in facilitating secure communication and interaction across various platform, including social media, streaming service and many more website. It does integrate an safety wall for the users navigating the web.
+
+[^WhatIsHTTPS24]: Tushar, Pol. 2024. “What is HTTPS?”.  Accessed January 27. https://www.semrush.com/blog/what-is-https/
+
+[^HypertextTransferProtocolSecure22]: Rahul Awati. 2022. “Hypertext Transfer Protocol Secure (HTTPS)”. Accessed January 27. https://www.techtarget.com/searchsoftwarequality/definition/HTTPS
+
+[^CloudflareWhatIsSSL24]: Cloudflare. 2024. “What is SSL | SSL definition”. Accessed January 27.  https://www.cloudflare.com/learning/ssl/what-is-ssl/
+
+[^AWSDifferenceBetweenSSL&TLS24]: AWS. 2024. “What’s the Difference Between SSL and TLS?”. Accessed January 27. https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=SSL%20is%20technology%20your%20applications,that%20fixes%20existing%20SSL%20vulnerabilities.
+
+[^LinkedInHTTPSSEO24]: LinkedIn. 2024. "Why does HTTPS matter for SEO?". Accessed January 28. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
+
+##Meme
+
+Wikipedia defines a meme (/miːm/ MEEM) as an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. [^wikipedia24meme]
+
+The term meme was introduced by the biologist Richard Dawkins in his book The Selfish Gene. A meme is a unit of culture, such as “tunes, ideas, catch‐phrases, clothes fashions, ways of making pots or building arches”. Dawkins defined memes as small cultural units of transmission, analogous to genes, which are spread from person to person by copying or imitation.  [^Dawkins76meme]
+
+The phrase “Internet meme” is commonly applied to describe the propagation of content items such as jokes, rumors, videos, or websites from one person to others via the Internet. According to this popular notion, an Internet meme may spread in its original form, but it often also spawns user-created derivatives. [^Shifman13meme]
+
+
+
+[^wikipedia24meme]: “Meme.” 2024. Wikipedia. Wikimedia Foundation. January 18, 2024. https://en.wikipedia.org/wiki/Meme. 
+
+[^Dawkins76meme]: Dawkins, Richard. 2016. The Selfish Gene. Oxford: Oxford University Press.  
+
+[^Shifman13meme]: Shifman, Limor. 2013. “Memes in a Digital World: Reconciling with a Conceptual Troublemaker.” Journal of Computer-Mediated Communication 18, no. 3: 362–77. https://doi.org/10.1111/jcc4.12013 
+
+
+
+
+
+## Pantone
+Pantone is a color system used in printing that allows for a universal agreement on specific colors we expect to get from print. There are two color systems, PMS and FHI [^pantone24what]
+
+[^pantone24what]: Pantone. 2024. "What Are Pantone Color Systems?" Accessed January 17, 2024. https://www.pantone.com/color-systems/pantone-color-systems-explained.
+[^paperstreet09when]: PaperStreet. 2009. "When to Use CMYK colors v. Pantone colors." Accessed January 17, 2024. https://www.paperstreet.com/blog/why-you-need-to-know-cmyk-colors-v-pantone-colors/.
+## User
+A user has many definitions, but let’s focus on the concept of an end user within the technology field. An end user is a person who utilizes a product or service such as a computer, software and many more, without involvement in its production or sell. Therefore, they are often referred to as customer and operator[^TheStateOfTheArtInEndUser]. End users typically have user accounts with usernames and passwords to authenticate themselves within a system.[^Chinel23Whatisuser]
+
+The term "user" originates from the Old French word "user," meaning to employ or make use of, and also from Vulgar Latin "usare," which denotes making use of or taking advantage of something. The term "user" in the context of computers was invented in 1967. [^etymolineUser] One of the earliest instances of its use in the context of computing can be traced back to the pioneering work at institutions like the Digital Equipment Computer Users' Society.[^StackExchangeWhyCalledUsers]
+
+Understanding the needs of customers who utilize the product is important for developing the best product tailored for the intended users. In addition, gathering input from users through surveys, interviews, and testing can provide valuable feedback. This feedback can help identify areas for improvement and enable the customization of the user experience to better meet the users’ needs.[^Indeed23WhatIsAnEndUser]
+
+Users interact with technology in various ways, including navigating interfaces, inputting commands, providing data, and receiving outputs. Therefore, user experience (UX) and User Interface (UI) play a crucial role in the success of a product or service. It is important to consider the end-user experience during the developing of the products and services.[^IntuitMailchimp24EndUser]
+
+
+[^TheStateOfTheArtInEndUser]: Ko, Andrew J.; Abraham, Robin; Beckwith, Laura; Blackwell, Alan; Burnett, Margaret; Erwig, Martin; Scaffidi, Chris; Lawrance, Joseph; Lieberman, Henry; Myers, Brad; Rosson, Mary Beth; Rothermel, Gregg; Shaw, Mary; Wiedenbeck, Susan. 2011. "The State of the Art in End-User Software Engineering": 1–44. Accessed January 28. https://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf)
+
+[^Chinel23Whatisuser]: Chinel glossar. 2023 “What Is User? Definition, Types and Role”. Accessed January 27. https://chisellabs.com/glossary/what-is-user/
+
+[^etymolineUser]: Online Etymology Dictionary. 2017. "User (n.)". Accessed January 28. https://www.etymonline.com/word/user
+
+[^StackExchangeWhyCalledUsers]: StackExchange. 2023. "Why were computer customers called "Users"?". Accessed January 28. https://retrocomputing.stackexchange.com/questions/15202/why-were-computer-customers-called-users
+
+[^Indeed23WhatIsAnEndUser]: Indeed. 2023. “What is an End User? Definition, Examples and Tips”. Accessed January 27. https://www.indeed.com/career-advice/career-development/end-user
+
+[^IntuitMailchimp24EndUser]: Intuit Mailchimp. 2024. “End User”. Accessed January 27. https://mailchimp.com/marketing-glossary/end-user/
+
+
+
+
+## Version Control
+
+### Definition
+
+Version Control Systems (VCS) are a type of software used in programming. Their purpose is to help manage code during the development of a project so as to ensure a proper workflow and effort coordination in the development team.
+
+Namely, it keeps track of every change made in the project and by whom, it allows the possibility to protect certain versions of the code from being edited directly, and lets people work on different "branches" of the same code before merging them together, usually after being reviewed by at least another person. It's also useful when trying to find bugs in the code that appear in later versions by comparing it to older ones.[^Atlassian-VCS]
+
+### Types of VCS
+
+Version control systems are split between two distinct categories: Centralized Version Control Systems (CVCS) and Distributed Version Control Systems (DVCS). The main difference between the two is how the file repository is managed, CVCS using a unique centralized server as its name implies, while DVCS have each user keep a local repository on their computers.[^Zolkifli-VCS]
+
+DVCS are the most commonly used, namely because it allows users to work without network connection, altough uploading and sharing the files requires being online, and the decentralized infrastructure allows for remote work from many different locations. Most systems in this category are free and open-source.
+
+Alternatively, CVCS require a constant connection to the server to have access to the project files, and the single connection points means that, should server access be unavailable, work cannot be done and it is possible for changes to be lost. However, it does save space on the programmer's local machine considering they don't need to copy the full code on it, which is useful for complex and heavy projects.[^Gitlab-VCS]
+
+### Examples of version control systems
+
+- Git (DVCS)
+- Bitbucket (DVCS)
+- Mercurial (DVCS)
+- Subversion (CVCS)
+- Perforce (CVCS)
+
+### Alternative names
+
+- Source Code Management (SCM)
+- Revision Control Systems (RCS)
+
+[^Atlassian-VCS]: Atlassian. "What Is Version Control | Atlassian Git Tutorial." Atlassian. Accessed January 28, 2024. [https://www.atlassian.com/git/tutorials/what-is-version-control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+[^Gitlab-VCS]: Gitlab. "What Is A Centralized Version Control System." Gitlab. Accessed January 28, 2024. [https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/](https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/)
+
+[^Zolkifli-VCS]: Zolkifli, Nazatul Nurlisa, Amir Ngah, and Aziz Deraman. 2018. "Version Control System: A Review." *3rd International Conference on Computer Science and Computational Intelligence*: 408-415. [https://www.sciencedirect.com/science/article/pii/S1877050918314819](https://www.sciencedirect.com/science/article/pii/S1877050918314819)
+
+## Virtual Environment
+
+Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 
+
+[^ve1]: “What Are Virtual Environments? | IEEE Journals & Magazine | IEEE Xplore.” n.d. Accessed January 29, 2024. https://ieeexplore.ieee.org/abstract/document/250914.
+[^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”
+[^ve3]: Youngblut, Christine, Rob E Johnston, Sarah H Nash, Ruth A Wienclaw, and CraigA Will. n.d. “REVIEW OF VIRTUAL ENVIRONMENT INTERFACE TECHNOLOGY.”
 
 
 ## Wiki

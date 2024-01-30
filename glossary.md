@@ -10,10 +10,17 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-## API
-The Application Programming Interface (API) is responsible for transimitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what] It gets its information from servers that hosts databases with the information we want.[^dreanfactory2023understanding]
+The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what]
 
-[^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 25, 2024. https://aws.amazon.com/what-is/api/.
+A main advantage of using an API to communicate between the client and the server rather than sending a direct query to the databases is that it protects the database from potential security risks. It also allows developers to keep a similar syntax when requesting data from any type of database. [^dreanfactory2023understanding]
+The purpose of an API is to provide the client, whether a mobile application, website or other software, the information to build their product.
+
+There are APIs for different purposes. For example, if making an application that gives information on the weather, an API for the weather would be used to gather the necessary information. The developer or client would send a request to the API server that would return a response including some data. Using APIs also helps construct flexible applications by allowing developers to add functionalities easily to an existing project.[^aws24what] 
+
+Anyone can easily integrate APIs into their projects by searching for them online. However, they are mostly implemented by programmers since it is not meant to be used by the end-user.[^wiki24api]
+
+[^wiki24api]: Wikipedia. 2024. "API". Accessed January 29, 2024. https://en.wikipedia.org/wiki/API
+[^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 29, 2024. https://aws.amazon.com/what-is/api/.
 [^mulesoft15what]: MuleSoft Videos. 2015. "What Is an API?" YouTube video, 3:24. Accessed January 25, 2024. https://www.youtube.com/watch?v=s7wmiS2mSXY.
 [^dreanfactory2023understanding]: Nguyen, Spencer. 2023. "Understanding the Connection Between Databases and APIs." Accessed January 25, 2024. https://blog.dreamfactory.com/understanding-the-connection-between-databases-and-apis/#:~:text=APIs%20facilitate%20communication%20between%20applications,layer%20of%20protection%20to%20databases.
 ## Avatar
@@ -78,10 +85,10 @@ In the 1990s, due to the pop culture popularization of the term, the definition 
 [^dclark10wiki]: David Clark, 2010, Characterizing cyberspace: past, present, and future, Accessed January 29, 2024
 
 ## DNS
-The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses. In order for the browser to find the website we are looking for, it needs to know the IP address. Therefore, the DNS provides the corresponding IP address to the domain name.[^techquickie16dns]
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.[^techquickie16dns]
 
 [^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
-[^techquickie16dns]: Techquickie. 2016. "DNS as Fast as Possible." Youtube video, 5:42. Accessed January 25, 2024. https://www.youtube.com/watch?v=Rck3BALhI5c.  
+[^techquickie16dns]: Techquickie. 2016. "DNS as Fast as Possible." Youtube video, 5:42. Accessed January 25, 2024. https://www.youtube.com/watch?v=Rck3BALhI5c. 
 
 ## GitHub
 GitHub is a web-based platform for version control and collaboration using Git,[^github24wikis] allowing users to manage and share code in various repositories and offering wikis for documentation and collaborative editing. GitHub employs Git software, offering distributed version control, access control, bug tracking, feature requests, task management, continuous integration, and project [wikis](../main/glossary.md#wiki).[^kinsta24what]

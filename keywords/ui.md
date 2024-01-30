@@ -11,7 +11,10 @@ UI, also known as User Interface, is the human-computer point of contact in any 
 ### Examples
 
 ### Difference Between UX and UI
-
+| UX  | UI  |
+| --- | --- |
+| -   | -   |
+| -   | -   |
 
 
 [^coursera01ui]: Coursera Staff. “What Is Ui Design? Definition, Tips, Best Practices.” Coursera, November 29, 2023. https://www.coursera.org/articles/ui-design. 

@@ -85,6 +85,24 @@ Access,” Social Science Research Network, https://doi.org/10.2139/ssrn.2746044
 
 
 
+## CSS (Cascading Style Sheet)
+### Definition
+
+
+(under construction + placeholder for my sources)
+- [^meyer01css]
+- [^robbins02css]
+
+### Examples
+
+
+
+
+[^meyer01css]:Meyer, Eric A. 2006. "CSS: The Definitive Guide: The Definitive Guide." O'Reilly Media, Inc.
+[^robbins02css]:Robbins, Jennifer Niederst. 2012. "Learning web design: A beginner's guide to HTML, CSS, JavaScript, and web graphics." O'Reilly Media, Inc.
+
+
+
 ## Cyberspace
 
 Cyberspace’s current definition according to the CSRC (Computer Security Resource Center) is “The complex environment resulting from the interaction of people, software and services on the Internet by means of technology devices and networks connected to it, which does not exist in any physical form.” [^bussel23wiki]
@@ -221,6 +239,33 @@ The act of social networking refers to using any form of internet-based social m
 [^Pantic]:Pantic, Igor. 2014. “Online Social Networking and Mental Health.” Cyberpsychology, Behavior, and Social Networking 17 (10): 652–57. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/.
 [^Fenton]:Fenton, Natalie, James Curran, and Des Freedman. (2012) 2012. Misunderstanding the Internet. Routledge: Routledge. https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:15b11af5-7d71-319e-97cb-81ad5a2a547d.
 
+## UI (User Interface)
+### Definition
+
+UI, also known as User Interface, is the human-computer point of contact in any  digital device, application, or software [^coursera01ui].
+
+(under construction + placeholder for my sources)
+- [^harris02ui]
+- [^mckay03ui]
+- [^kristiadi04ui]
+
+### Examples
+
+### Difference Between UX and UI
+| UX  | UI  |
+| --- | --- |
+| -   | -   |
+| -   | -   |
+
+
+[^coursera01ui]: Coursera Staff. 2023. “What Is Ui Design? Definition, Tips, Best Practices.” Coursera. https://www.coursera.org/articles/ui-design. 
+[^harris02ui]: Harris, Patricia. 2017. "What Is User Interface Design?" The Rosen Publishing Group, Inc.
+[^mckay03ui]: McKay, Everett N. 2013. "UI is communication: How to design intuitive, user centered interfaces by focusing on effective communication" Newnes.
+[^kristiadi04ui]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
+
+
+
+
 ## User
 A user has many definitions, but let’s focus on the concept of an end user within the technology field. An end user is a person who utilizes a product or service such as a computer, software and many more, without involvement in its production or sell. Therefore, they are often referred to as customer and operator[^TheStateOfTheArtInEndUser]. End users typically have user accounts with usernames and passwords to authenticate themselves within a system.[^Chinel23Whatisuser]
 
@@ -245,6 +290,26 @@ Users interact with technology in various ways, including navigating interfaces,
 
 
 
+
+## UX (User Experience)
+### Definition
+
+UX, also known as UX design or User Experience, is a concept in the field of human-computer interaction [^yablonski01ux].
+
+(under construction)
+- [^berni02ux]
+
+### Examples
+
+### Difference Between UX and UI
+| UX  | UI  |
+| --- | --- |
+| -   | -   |
+| -   | -   |
+
+
+[^yablonski01ux]: Yablonski, Jon. Laws of UX. 2024. " O'Reilly Media, Inc."
+[^berni02ux]: Berni, Aurora, and Yuri Borgianni. 2021. "From the definition of user experience to a framework to classify its applications in design." Proceedings of the Design Society 1 (2021): 1627-1636.
 
 ## Version Control
 

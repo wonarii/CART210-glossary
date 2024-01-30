@@ -1,7 +1,7 @@
 ## UI (User Interface)
 ### Definition
 
-UI, also known as User Interface, is the human-computer point of contact in any  digital device , application, or software [^coursera01ui].
+UI, also known as User Interface, is the human-computer point of contact in any  digital device, application, or software [^coursera01ui].
 ### Examples
 
 ### Difference Between UX and UI

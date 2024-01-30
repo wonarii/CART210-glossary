@@ -11,7 +11,7 @@
 
 
 
-[^meyer01css]:Meyer, Eric A. CSS: The Definitive Guide: The Definitive Guide. " O'Reilly Media, Inc.", 2006.
-[^robbins02css]:Robbins, Jennifer Niederst. Learning web design: A beginner's guide to HTML, CSS, JavaScript, and web graphics. " O'Reilly Media, Inc.", 2012.
+[^meyer01css]:Meyer, Eric A. 2006. "CSS: The Definitive Guide: The Definitive Guide." O'Reilly Media, Inc.
+[^robbins02css]:Robbins, Jennifer Niederst. 2012. "Learning web design: A beginner's guide to HTML, CSS, JavaScript, and web graphics." O'Reilly Media, Inc.
 
 

@@ -20,6 +20,16 @@ Norman and Young (2006) have suggested that the perception of affordances – an
 
 [^neuro&behavior01affordance]:Osiuraka, François, Yves Rossettic, and Arnaud Badet. "What is an affordance? 40 years later." Neuroscience and Biobehavioral Reviews, volume 77 (2017): pages 403-417.
 
+## Agency 
+
+Agency is the “capacity, condition, or state of acting or of exerting power” or the “person or thing through which an end is achieved” using power. [^MerriamWeb24agency] One’s sense of self-agency - that is the sense that there is an “I” who is generating an action - largely depends on “the degree of discrepancy resulting from comparison between the predicted and actual sensory feedback”. [^Sato05agency]
+
+Agency is felt by degrees: one can feel more or less in control. This variation is particularly clear when using machines: the feeling of control varies between different operator inputs and expected machine response. Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
+
+[^MerriamWeb24agency] “Definition of AGENCY.” 2024. January 28, 2024. https://www.merriam-webster.com/dictionary/agency.
+
+[^Sato05agency] Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” Cognition 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
+
 ## API
 The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what]
 
@@ -203,9 +213,13 @@ Cryptocurrency is a type of digital or virtual currency that uses cryptography f
 
 ## Cultural Determinism
 
-Culture is the sum of attitudes, customs, and beliefs that distinguishes one group of people from another. Determinism is a philosophical position whereby every event has conditions that could not be caused by any other means. Collectively then, cultural determinism is a theory which bases our emotional and behavioral levels upon the culture in which we are raised, meaning that our culture and social influences dominate biological influences.[^feenberg23CD]
+Cultural determinism is a theory that bases our emotions and behaviors upon the culture in which we are raised. It suggests that cultural and social influence dominate biological behavior. Breaking the theory down into two concepts, culture is the sum of attitudes, customs, and beliefs that distinguishes one group of people from another; while determinism is a philosophical position whereby an event has conditions that could not be caused by any other means.  [^feenberg10CD]
 
-[^feenberg23CD] Vancouver, Andrew Feenberg and Anne-Marie Feenberg. September 14 2010. “An Internet of Everything?/Technological and Cultural Determinism - Wikibooks, Open Books for an Open World.” Accessed January 29, 2024. https://en.wikibooks.org/wiki/An_Internet_of_Everything%3F/Technological_and_Cultural_Determinism.
+Cultural determinism may not be all determinant, however. Often we are pressured into following cultural norms without understanding or recognizing those norms. As long as the culture’s coercion remains unconscious, there are few opportunities to act outside of those norms. But it’s not entirely unusual for a person to become aware of their cultural coercion, and act in a different way. [^ketner71CD] Would this resistance to cultural expectations also be a culture-bound decision?
+
+[^feenberg10CD] Feenberg, Andrew and Anne-Marie Feenberg. 2010. “An Internet of Everything?/Technological and Cultural Determinism - Wikibooks, Open Books for an Open World.” Accessed January 29, 2024. https://en.wikibooks.org/wiki/An_Internet_of_Everything%3F/Technological_and_Cultural_Determinism.
+
+[^ketner71CD] Ketner, Kenneth L. 1971. “Concerning Cultural Determinism.” The Journal of American Folklore 84 (334): 444–46. https://doi.org/10.2307/539639.
 
 
 ## Cyberspace
@@ -553,6 +567,16 @@ While the potential of quantum computers is immense and exciting, the practicali
 [^mcmahon08quantum]: McMahon, David. 2008. Quantum Computing explained. Hoboken New Jersey: John Wiley & Sons, Inc. 
 [^rieffel00introduction]: Rieffel, Eleanor,  and Wolfgang Polak. (September 2000). “An Introduction to Quantum Computing for Non-Physicists.” ACM Computing Surveys 32, no. 3: 300–335. https://doi.org/10.1145/367701.367709. 
 [^ibm24quantum]: “What Is Quantum Computing?” IBM. Accessed January 29, 2024. https://www.ibm.com/topics/quantum-computing#:~:text=Two%20superconductors%20placed%20on%20either,insulator%20form%20a%20Josephson%20junction.&text=Our%20quantum%20computers%20use%20Josephson,individual%20units%20of%20quantum%20information. 
+
+## Ransomware
+
+Ransomware is a specific class of malware that demand a payment in exchange for a stolen functionality. The phenomenon first appeared around 2005. Most ransomwares “make an intensive use of file encryption as an extortion means… they encrypt various files on victim’s hard drives before asking for a ransom to get the files decrypted.” [^Gazet10RW]
+
+There are 4 more major types of ransomware: crypto (encrypts data important to victims), locker (locks victims out of their systems), scareware (tricks users into buying or downloading malicious software, often through startling messages), and leakware (threatens to make users data public unless a ransom is paid). [^Razaulla23RW]
+
+[^Gazet10RW] Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” Journal in Computer Virology 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
+
+[^Razaulla23RW] Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” IEEE Access 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
 
 ## Social Networking
 The act of social networking refers to using any form of internet-based social media websites, such as Instagram, Twitter, and Facebook to stay connected with family and friends alike, while also sharing any multiple forms of media[^Kenton] (Kenton, 2023). From the examples listed, they each have different uses, for example, Instagram is a video and picture sharing application where others can like and share the things you upload. Twitter is a communication network, where users can share their thoughts by using hashtags. Lastly, Facebook is an application meant for connecting with friends and distant family members to remain in touch with them. The use of social networking can either be social, to communicate and interact with others online, or business, to talk about your field with likeminded individuals. It has changed “our means of gathering information and communicating with each other and contributing to both these practices through creative production”[^Fenton]. While there are some advantages about social networking there are also some disadvantages such as the spreading of misinformation, anonymity, and cause depressive symptoms, anxiety, and low self-esteem[^Pantic].

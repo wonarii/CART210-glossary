@@ -10,23 +10,6 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-##Telepresence
-
-The word “telepresence” refers to real-time techniques that simulate the presence of a person in another space  using various digital systems.[^lombard97presence]
-Telepresence technology often makes particular use of sound and sight. In particular thanks to sensors such as cameras or microphones
-But it can also include other sensory sources such as touch.[^held92telepresence]
-
-[^held92telepresence] Held, R (1992) on 124th Meeting of the Acoustical Society of America
-https://pubs.aip.org/asa/jasa/article/92/4_Supplement/2458/620791/Telepresence
-
-[^lombard97presence] Lombard, M., & Ditton, T. (1997). At the heart of it all: The concept of presence. Journal of Computer-Mediated Communication,(p0-01) https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1426936 
-
-The wikipedia page of the word telepresence.
-​​https://en.wikipedia.org/wiki/Telepresence 
-
-ChatGPT4 to help me find references and to translate some texts.
-
-
 ## Affordance
 
 Gibson (1977, 1979) coined the term “affordance” to describe what the environment “offers the individual, what it provides or furnishes, either for good or ill” .Affordances can be viewed as animal-relative properties of the environment. They correspond to the action possibilities offered to an animal by the environment with reference to the individual’s action capabilities. For example, a leaf provides support for a wasp but not for a dog. Here, the support-ability of the leaf is an affordance for the wasp. Affordances can vary not only between species but also between the individuals of the same species. A 30-cm stair is climb-able for an adult but not for a child. In sum, affordances are neither objective nor subjective, but both. They are objective because they exist independently of the act of perception. But, they are also subjective because the frame of reference is the individual’s action capabilities. 
@@ -536,6 +519,23 @@ Software is a collection of commands or instructions that tell a computer how to
 [^software1]: “Software | Definition, Types, & Facts | Britannica.” n.d. Accessed January 29, 2024. https://www.britannica.com/technology/software.
 [^software2]: Osterweil, Leon. 2018. “What Is Software?:” In , 59–76. https://doi.org/10.1007/978-3-319-73897-0_4.
 [^software3]: “What Is Software? Definition, Types, Examples, and More.” n.d. Accessed January 29, 2024. https://www.geeksforgeeks.org/software-and-its-types/.
+
+##Telepresence
+
+The word “telepresence” refers to real-time techniques that simulate the presence of a person in another space  using various digital systems.[^Lombard97presence]
+Telepresence technology often makes particular use of sound and sight. In particular thanks to sensors such as cameras or microphones
+But it can also include other sensory sources such as touch.[^Held92telepresence]
+
+[^Held92telepresence] Held, R (1992) on 124th Meeting of the Acoustical Society of America
+https://pubs.aip.org/asa/jasa/article/92/4_Supplement/2458/620791/Telepresence
+
+[^Lombard97presence] Lombard, M., & Ditton, T. (1997). At the heart of it all: The concept of presence. Journal of Computer-Mediated Communication,(p0-01) https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1426936 
+
+The wikipedia page of the word telepresence.
+​​https://en.wikipedia.org/wiki/Telepresence 
+
+ChatGPT4 to help me find references and to translate some texts.
+
 
 ## UI (User Interface)
 ### Definition

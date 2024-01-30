@@ -15,5 +15,5 @@ UX, also known as UX design or User Experience, is a concept in the field of hum
 | -   | -   |
 
 
-[^yablonski01ux]: Yablonski, Jon. Laws of UX. " O'Reilly Media, Inc.", 2024.
-[^berni02ux]: Berni, Aurora, and Yuri Borgianni. "From the definition of user experience to a framework to classify its applications in design." Proceedings of the Design Society 1 (2021): 1627-1636.
+[^yablonski01ux]: Yablonski, Jon. Laws of UX. 2024. " O'Reilly Media, Inc."
+[^berni02ux]: Berni, Aurora, and Yuri Borgianni. 2021. "From the definition of user experience to a framework to classify its applications in design." Proceedings of the Design Society 1 (2021): 1627-1636.

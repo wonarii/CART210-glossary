@@ -9,7 +9,10 @@ UX, also known as UX design or User Experience, is a concept in the field of hum
 ### Examples
 
 ### Difference Between UX and UI
-
+| UX  | UI  |
+| --- | --- |
+| -   | -   |
+| -   | -   |
 
 
 [^yablonski01ux]: Yablonski, Jon. Laws of UX. " O'Reilly Media, Inc.", 2024.

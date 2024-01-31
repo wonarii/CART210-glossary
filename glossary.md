@@ -26,9 +26,9 @@ Agency is the “capacity, condition, or state of acting or of exerting power”
 
 Agency is felt by degrees: one can feel more or less in control. This variation is particularly clear when using machines: the feeling of control varies between different operator inputs and expected machine response. Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
 
-[^MerriamWeb24agency] “Definition of AGENCY.” 2024. January 28, 2024. https://www.merriam-webster.com/dictionary/agency.
+[^MerriamWeb24agency]: “Definition of AGENCY.” 2024. January 28, 2024. https://www.merriam-webster.com/dictionary/agency.
 
-[^Sato05agency] Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” Cognition 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
+[^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” <i>Cognition</i> 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
 
 ## API
 The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what]
@@ -217,9 +217,9 @@ Cultural determinism is a theory that bases our emotions and behaviors upon the 
 
 Cultural determinism may not be all determinant, however. Often we are pressured into following cultural norms without understanding or recognizing those norms. As long as the culture’s coercion remains unconscious, there are few opportunities to act outside of those norms. But it’s not entirely unusual for a person to become aware of their cultural coercion, and act in a different way. [^ketner71CD] Would this resistance to cultural expectations also be a culture-bound decision?
 
-[^feenberg10CD] Feenberg, Andrew and Anne-Marie Feenberg. 2010. “An Internet of Everything?/Technological and Cultural Determinism - Wikibooks, Open Books for an Open World.” Accessed January 29, 2024. https://en.wikibooks.org/wiki/An_Internet_of_Everything%3F/Technological_and_Cultural_Determinism.
+[^feenberg10CD]: Feenberg, Andrew and Anne-Marie Feenberg. 2010. “An Internet of Everything? Technological and Cultural Determinism". <i>Wikibooks, Open Books for an Open World</i>. Accessed January 29, 2024. https://en.wikibooks.org/wiki/An_Internet_of_Everything%3F/Technological_and_Cultural_Determinism.
 
-[^ketner71CD] Ketner, Kenneth L. 1971. “Concerning Cultural Determinism.” The Journal of American Folklore 84 (334): 444–46. https://doi.org/10.2307/539639.
+[^ketner71CD]: Ketner, Kenneth L. 1971. “Concerning Cultural Determinism.” <i>The Journal of American Folklore</i> 84 (334): 444–46. https://doi.org/10.2307/539639.
 
 
 ## Cyberspace
@@ -588,9 +588,9 @@ Ransomware is a specific class of malware that demand a payment in exchange for 
 
 There are 4 more major types of ransomware: crypto (encrypts data important to victims), locker (locks victims out of their systems), scareware (tricks users into buying or downloading malicious software, often through startling messages), and leakware (threatens to make users data public unless a ransom is paid). [^Razaulla23RW]
 
-[^Gazet10RW] Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” Journal in Computer Virology 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
+[^Gazet10RW]: Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” <i>Journal in Computer Virology</i> 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
 
-[^Razaulla23RW] Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” IEEE Access 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
+[^Razaulla23RW]: Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” <i>IEEE Access</i> 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
 
 ## Social Networking
 The act of social networking refers to using any form of internet-based social media websites, such as Instagram, Twitter, and Facebook to stay connected with family and friends alike, while also sharing any multiple forms of media[^Kenton] (Kenton, 2023). From the examples listed, they each have different uses, for example, Instagram is a video and picture sharing application where others can like and share the things you upload. Twitter is a communication network, where users can share their thoughts by using hashtags. Lastly, Facebook is an application meant for connecting with friends and distant family members to remain in touch with them. The use of social networking can either be social, to communicate and interact with others online, or business, to talk about your field with likeminded individuals. It has changed “our means of gathering information and communicating with each other and contributing to both these practices through creative production”[^Fenton]. While there are some advantages about social networking there are also some disadvantages such as the spreading of misinformation, anonymity, and cause depressive symptoms, anxiety, and low self-esteem[^Pantic].

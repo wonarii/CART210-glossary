@@ -49,4 +49,4 @@ When committing your changes, add a meaningful message (e.g., ”Fix: Typo in th
 >[!IMPORTANT]
 > To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environment (e.g., CLI or IDE), can also use those.
 
-When committing your changes, add a meaningful message (e.g., ”Fix: Typo in the description.”, ”Add: New definition from Steyerl, H. (2016).”)
+When committing your changes, add a meaningful message (e.g., ”Add: Visual collage for virtuality.”

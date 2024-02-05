@@ -634,7 +634,7 @@ Software is a collection of commands or instructions that tell a computer how to
 [^software2]: Osterweil, Leon. 2018. “What Is Software?:” In , 59–76. https://doi.org/10.1007/978-3-319-73897-0_4.
 [^software3]: “What Is Software? Definition, Types, Examples, and More.” n.d. Accessed January 29, 2024. https://www.geeksforgeeks.org/software-and-its-types/.
 
-##Telepresence
+## Telepresence
 
 The word “telepresence” refers to real-time techniques that simulate the presence of a person in another space  using various digital systems.[^Lombard97presence]
 Telepresence technology often makes particular use of sound and sight. In particular thanks to sensors such as cameras or microphones

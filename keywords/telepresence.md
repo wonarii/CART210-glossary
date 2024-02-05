@@ -1,4 +1,4 @@
-##Telepresence
+## Telepresence
 
 The word “telepresence” refers to real-time techniques that simulate the presence of a person in another space  using various digital systems.[^Lombard97presence]
 Telepresence technology often makes particular use of sound and sight. In particular thanks to sensors such as cameras or microphones

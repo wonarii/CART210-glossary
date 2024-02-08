@@ -38,3 +38,27 @@ Each student must:
 > To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environment (e.g., CLI or IDE), can also use those.
 
 When committing your changes, add a meaningful message (e.g., ”Fix: Typo in the description.”, ”Add: New definition from Steyerl, H. (2016).”)
+
+## Adding images
+
+- add images to the `images` folder of this repository
+- if using the GitHub UI, contributors can create new files as shown in the image
+
+![Add data](./images/04-upload-files.png)
+
+>[!IMPORTANT]
+> To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environment (e.g., CLI or IDE), can also use those.
+
+When committing your changes, add a meaningful message (e.g., ”Add: Visual collage for virtuality.”
+
+## Submitting pull request
+
+By default, you don't have access to make changes to the `main` branch of this repository. Therefore, when doing a commit you must choose `Create a new branch for this commit` as seen in the image:
+
+
+<img src="./images/05-create-new-branch.png" width="300">
+
+
+And then, `Create  a pull request` to the main branch of this repository:
+
+<img src="./images/06-create-pull-request.png" width="400">

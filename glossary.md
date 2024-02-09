@@ -787,6 +787,7 @@ Virtual environments are the technology which facilitates interactions between u
 
 
 ![Virtual environment](https://github.com/concordia-dcart/CART210-glossary/blob/main/images/virtualenvironment-vigliensoni.png)
+![Virtual environment](../images/virtualenvironment-vigliensoni.png)
 
 
 

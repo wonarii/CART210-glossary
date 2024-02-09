@@ -74,13 +74,13 @@ And then, `Create  a pull request` to the main branch of this repository:
 
 ## Rendering your image in the glossary (Optional for now): 
 
-So far, you have just uploaded your image to the repository. To be displayed, you must link it from the file of your word.
+So far, you have just uploaded your image to the repository. To be displayed, the image has to be linked from your keyword file.
 
-For example, if I want to link the image I made for `virtual-environment`, I will add the following line in the file `virtual-environment.md` inside the `keywords` folder:
+For example, if I want to display the image I made for the keyword `virtual-environment`, I will add the following line to the file `virtual-environment.md` located inside the `keywords` folder:
 
 ```![Virtual environment](images/virtualenvironment-vigliensoni.png)```
 
-That link will the following image:
+That link will display this image:
 
 ![Virtual environment](images/virtualenvironment-vigliensoni.png)
 

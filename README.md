@@ -46,6 +46,7 @@ When committing your changes, add a meaningful message (e.g., ”Fix: Typo in th
 ![Add data](./images/07-fork-repo-1.png)
 
 and then, 
+
 ![Add data](./images/07-fork-repo-2.png)
 
 - Once you have a fork of the repo in your account, you have full control of your copy
@@ -69,3 +70,18 @@ By default, you don't have access to make changes to the `main` branch of this r
 And then, `Create  a pull request` to the main branch of this repository:
 
 <img src="./images/06-create-pull-request.png" width="400">
+
+
+## Rendering your image in the glossary (Optional for now): 
+
+So far, you have just uploaded your image to the repository. To be displayed, you must link it from the file of your word.
+
+For example, if I want to link the image I made for `virtual-environment`, I will add the following line in the file `virtual-environment.md` inside the `keywords` folder:
+
+```![Virtual environment](images/virtualenvironment-vigliensoni.png)```
+
+That link will the following image:
+
+![Virtual environment](images/virtualenvironment-vigliensoni.png)
+
+

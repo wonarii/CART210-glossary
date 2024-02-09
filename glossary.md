@@ -10,12 +10,53 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-## API
-The Application Programming Interface (API) is responsible for transimitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what] It gets its information from servers that hosts databases with the information we want.[^dreanfactory2023understanding]
+## Affordance
 
-[^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 25, 2024. https://aws.amazon.com/what-is/api/.
-[^mulesoft15what]: MuleSoft Videos. 2015. "What Is an API?" YouTube video, 3:24. Accessed January 25, 2024. https://www.youtube.com/watch?v=s7wmiS2mSXY.
+Gibson (1977, 1979) coined the term “affordance” to describe what the environment “offers the individual, what it provides or furnishes, either for good or ill” .Affordances can be viewed as animal-relative properties of the environment. They correspond to the action possibilities offered to an animal by the environment with reference to the individual’s action capabilities. For example, a leaf provides support for a wasp but not for a dog. Here, the support-ability of the leaf is an affordance for the wasp. Affordances can vary not only between species but also between the individuals of the same species. A 30-cm stair is climb-able for an adult but not for a child. In sum, affordances are neither objective nor subjective, but both. They are objective because they exist independently of the act of perception. But, they are also subjective because the frame of reference is the individual’s action capabilities. 
+Gibson also assumed that affordance perception does not need information processing or internal representations. Rather, affordance perception is direct, corresponding to a learning process based on the extraction of invariants. An animal perceives walk-ability if it sees a flat, extended, rigid, horizontal surface, because this combination of invariants affords support.
+Physical versus learned affordance (Norman, 2002) 
+Norman was inspired by the dichotomy between the ventral system and the dorsal system and drew a close parallel between the functions of the dorsal system and affordances. Specifically, he stressed that some statements made by Gibson were somewhat equivocal. For example, Gibson (1979) wrote that: “the ‘values’ and ‘meanings’ of things in the environment can be directly perceived” or “postboxes afford letter mailing”. Norman (2002) proposed that only “physical affordances” are perceived by the dorsal system. So, in the aforementioned example of the postboxes, “it would be better to say that slot in the mailbox affords inserting an object of appropriate size and shape”. By contrast, the ventral system is in charge to assign meanings to things, and particularly to provide information about the conventional uses of familiar tools (i.e., familiar tool use). In this case, Norman suggested the notion of “learned affordance”. The physical versus learned affordance dichotomy mirrors the novel versus familiar tool use opposition, respectively. In this view, both types of affordances can contribute to tool use, even though the ability to perform familiar tool use might be one of the properties of the ventral system. Importantly, this dichotomy also implies that the perception of physical affordances (dorsal system) guides not only body actions within a hand-centered frame of reference (e.g., reaching, grasping) but also novel tool use, namely, actions involving a toolcentered frame of reference. We see a contradiction in Norman’s argument as he also suggested that the transformation of visual information into a tool-centered framework (called allocentric by Norman) is the specific function of the ventral system (i.e., learned affordance). By contrast, the dorsal system is responsible for the transformation of “visual information into an egocentric framework allowing the actor to grasp or otherwise bodily manipulate the object” 
+Norman and Young (2006) have suggested that the perception of affordances – and more specifically of physical affordances for Norman – might be supported by the dorsal system. The same theoretical rapprochement may be envisaged between the dorsal system and the affordance route to action. Nevertheless, Yoon and Humphreys (2007) argued that such a rapprochement remains to be demonstrated, notably because of studies indicating that action decision tasks can activate the left inferior temporal lobe (i.e., the ventral system).[^neuro&behavior01affordance]
+
+[^neuro&behavior01affordance]:Osiuraka, François, Yves Rossettic, and Arnaud Badet. "What is an affordance? 40 years later." Neuroscience and Biobehavioral Reviews, volume 77 (2017): pages 403-417.
+
+## Agency 
+
+Agency is the “capacity, condition, or state of acting or of exerting power” or the “person or thing through which an end is achieved” using power. [^MerriamWeb24agency] One’s sense of self-agency - that is the sense that there is an “I” who is generating an action - largely depends on “the degree of discrepancy resulting from comparison between the predicted and actual sensory feedback”. [^Sato05agency]
+
+Agency is felt by degrees: one can feel more or less in control. This variation is particularly clear when using machines: the feeling of control varies between different operator inputs and expected machine response. Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
+
+[^MerriamWeb24agency]: “Definition of AGENCY.” 2024. January 28, 2024. https://www.merriam-webster.com/dictionary/agency.
+
+[^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” <i>Cognition</i> 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
+
+## API
+The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.
+
+A main advantage of using an API to communicate between the client and the server rather than sending a direct query to the databases is that it protects the database from potential security risks. It also allows developers to keep a similar syntax when requesting data from any type of database. [^dreanfactory2023understanding]
+The purpose of an API is to provide the client, whether a mobile application, website or other software, the information to build their product.
+
+There are APIs for different purposes. For example, if making an application that gives information on the weather, an API for the weather would be used to gather the necessary information. The developer or client would send a request to the API server that would return a response including some data. Using APIs also helps construct flexible applications by allowing developers to add functionalities easily to an existing project.[^aws24what] 
+
+Anyone can easily integrate APIs into their projects by searching for them online. However, they are mostly implemented by programmers since it is not meant to be used by the end-user.[^wiki24api]
+
+[^wiki24api]: Wikipedia. 2024. "API". Accessed January 29, 2024. https://en.wikipedia.org/wiki/API
+[^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 29, 2024. https://aws.amazon.com/what-is/api/.
 [^dreanfactory2023understanding]: Nguyen, Spencer. 2023. "Understanding the Connection Between Databases and APIs." Accessed January 25, 2024. https://blog.dreamfactory.com/understanding-the-connection-between-databases-and-apis/#:~:text=APIs%20facilitate%20communication%20between%20applications,layer%20of%20protection%20to%20databases.
+## Asset
+
+The definition of asset in a general context is rooted in the business and economics. In a paper on the definition of a brand asset, the term is defined as a symbol that helps identify goods or services that differentiates it from its competitors.[^tollington98asset]
+
+An asset defined more in lined with traditional media assets, whether that be an audio asset or some form of visual imagery, relates more to the term new media. 
+
+Beyond this general definition, an asset can be defined as the relationship between the computer and the asset.[^mateas05asset] Instead of merely being a playback of sorts, it is defined by the “ratio of computation to the size of the media.” Chris Crawford coins the term “crunch per bit” as the process intensity of the computation. 
+
+Outside of a definition of bits, an asset can also be described as an “intangible asset” as it relates to new media arts.[^tsortanidou19asset] It can play a role in defining an aesthetic or the artistic process. 
+
+[^tollington98asset]: Tollington, Tony. 1998. “Brands: The Asset Definition and Recognition Test.” Journal of Product &#38; Brand Management 7 (3): 180–92. https://doi.org/10.1108/10610429810222822.
+[^mateas05asset]: Mateas, Michael. 2005. “Procedural Literacy: Educating the New Media Practitioner.” On the Horizon 13 (2): 101–11. https://doi.org/10.1108/10748120510608133.
+[^tsortanidou19asset]: Tsortanidou, Xanthippi, Thanasis Daradoumis, and Elena Barberá. 2019. “Connecting Moments of Creativity, Computational Thinking, Collaboration and New Media Literacy Skills.” Information and Learning Sciences 120 (11–12): 704–22. https://doi.org/10.1108/ILS-05-2019-0042.
+
 ## Avatar
 
 An avatar is a digital entity or body through which a human being can experience the events within a digital world, giving the user a “subject-position within a simulated environment, a vicarious body through which the player can act as an agent in a fictional world.”[^Castronova03avatar] 
@@ -63,6 +104,137 @@ For example, blockchains are used in the monetary world for crypto currencies su
 
 
 
+## Blog
+
+Blogs are similar to personal journals that are shared on the internet through a website of choice. They are updated often and are aimed for public consumption. 
+Blogs tend to follow a specific format where posts are arranged in reverse chronological order. They also allow for easy interaction with others online, people 
+can share their ideas and comments instantly for others to engage back.[^andrews07blog]
+
+Blogs represent many things for many different users. It can a way to present introspective thinking, a record of daily events, a tool for political mobilization, 
+a journalistic project, an open-ended literary experiment, a constant exhibition of images and/or videos, or often enough, is a different combination of things listed 
+above. An early study of blogs summarize them as providing a large variety of expression within the restrictions of the simplicity of the format.[^siles11blog]
+
+Blogs usually tend to have a header, sidebar and footer as well as the main content area. A header can include navigation or menu items, and the sidebar could include 
+favourites, masterlists and more. A footer can also be included depending on what kind of blog, and it tends to show contact information.[^greatcontent22blog] However, this does not mean blogs 
+are limited to follow this format, it is just commonly follows it. Blogs allow for a lot of customization, this included the format, as well as the aesthetics. 
+
+Blogs are convenient because they allow anyone to curate a space for pretty much anything. It makes it easy for people to share their own content and thoughts, you can easily 
+start posting your own writing or art no matter how niche it is.
+
+[^andrews07blog]: Andrews, Michael. “What Is a Blog?” Essay. In Business Law Today 16, 3rd ed., 16:51–51. American Bar Association, 2007. https://www.jstor.org/stable/23296739.
+
+[^siles11blog]: Siles, Ignacio. “From Online Filter to Web Format: Articulating Materiality and Meaning in the Early History of Blogs.” Essay. In Social Studies of Science 41, 5th ed., 41:737–58. Sage Publications, 2011. https://www.jstor.org/stable/41301958. 
+
+[^greatcontent22blog]: GreatContent. “What Is Blogging & How to Start It?” GreatContent, November 8, 2022. https://greatcontent.com/pillar/what-is-blogging/. 
+
+## CMYK
+
+CMYK is a color model used in printing. It is an abbreviation of **C**yan, **M**agenta, **Y**ellow, and **K**ey (black, which refers to printing plates being keyed or aligned to the black printing plates) which provides a more reliable reproduction of images that RGB cannot provide. It is also used quite a bit thanks to its incredible accuracy that it can hold. While it is not the most accurate with darker tones (leading it to become lighter in rare cases) it still holds up to be the most accurate.
+
+While it has many uses, the most used ways are in medicine and printing processes. 
+
+For medical use, it is used as an analysis tool as you can adapt the CMYK models for use to find certain stains in the cells. For example, in a study conducted to attempt to be able to find IHC (immunohistochemistry) stains, researchers edited the CMYK model to be able to read better the IHC as well as being able to tell STAT3 levels easier thanks to the better Yellow channel.
+
+For printing, as it’s most common usage. It is used side by side with Pantone as they are the two printing styles that offer the most accurate version of the original image/as the creator intends. As screens normally use RGB, most software defaults with RGB which makes it so that printers normally turn the image into CMYK for easier printing.
+
+[^pham07cmyk]: Pham, Nhu-An, Andrew Morrison, Joerg Schwock, Sarit Aviel-Ronen, Vladimir Iakovlev, Ming-Sound Tsao, James Ho, and David W Hedley. “Quantitative Image Analysis of Immunohistochemical Stains Using a CMYK Color Model.” Diagnostic Pathology, February 27, 2007. https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-2-8. 
+
+[^liu19cmyk]: Liu, Qiang, Zheng Huang, Michael R. Pointer, and M. Ronnier Luo. “Optimizing the Spectral Characterisation of a CMYK Printer with Embedded CMY Printer Modelling.” MDPI, December 5, 2019. https://www.mdpi.com/2076-3417/9/24/5308. 
+
+[^plumgrove07cmyk]: “What Is CMYK Color?” Plum Grove, January 21, 2022. https://plumgroveinc.com/what-is-cmyk-color/. 
+
+
+
+## Codec
+
+A "codec," which stands for "coder-decoder" or "compressor-decompressor," is a type of technology primarily used in digital media for encoding and decoding audio and video streams. The primary purpose of a codec is to compress large multimedia files to reduce their size for more efficient storage and faster transmission over networks, which is particularly vital in applications like webcasting, video conferencing, and online streaming.
+
+Codecs work by compressing (coding) a media file when it is saved or transmitted and then decompressing (decoding) it for playback or editing. This process involves removing redundant or unnecessary data, and in some cases, data that is less perceivable to human senses, such as inaudible sounds in audio (as seen in MP3 codecs). The level of compression can vary, with some codecs prioritizing higher compression rates to save on bandwidth and storage, while others focus on retaining higher quality with less compression.
+
+Different codecs are optimized for specific types of data. For instance, some are tailored for human speech, making them ideal for voice calls or audio books, while others are designed for high-fidelity music or complex video sequences[^kerdranvat20codec]. The effectiveness of a codec is a balance between the processing power required for compression and decompression, and the level of compression achieved. More efficient codecs that achieve higher compression rates typically require more processing power, which can be a consideration for devices with limited computational resources.
+
+The development and evolution of codecs have played a pivotal role in shaping the handling of multimedia on the Internet[^chen18codec]. For example, the introduction of the MP3 format revolutionized the music industry by allowing for the easy digital distribution of music, albeit raising significant copyright issues. Similarly, advancements in video codecs, such as AV1, HEVC, and AVC, have significantly impacted online video streaming, providing high-quality video at lower bandwidths.
+
+In the realm of visual arts, the artistic exploration of codecs is exemplified by German artist Thomas Ruff's JPEGs series. Starting in 2002, Ruff used digital photographs taken by himself and from the web, compressed using the maximum rate, and then decompressed into large-scale prints. This method of hypercompression and enlargement highlights the mathematical infrastructure of the JPEG image, exposing the pixel blocks into which the image is split during the compression process. Ruff's work turns a digital artifact (pixelation) into a default aesthetic, reflecting how JPEG has become the modern default mode of viewing images online and on-screen. This illustrates a shift from geometric projection to algorithmic processing in image creation, emphasizing that 'photographic' now denotes a specific mode of image processing, with the mathematical matrix used during compression as the new 'architectural order' of the image[^hoelzl13codec].
+
+The ongoing innovation in codec technology, including the development of both proprietary and open-source variants, continues to be integral to enhancing multimedia experiences on the Internet. This is especially evident in the increasing demand for codecs that can provide high video compression efficiency in the face of rising video data traffic, balancing the need for quality, bandwidth availability, and processing capability.
+
+[^kerdranvat20codec]: Kerdranvat, Michel, Ya Chen and Rémi Jullian. 2020. "The Video Codec Lanscape in 2020." 
+
+[^chen18codec]: Chen, Yue, Debargha Murherjee and Jingning Han. 2018. "An Overview of Core Coding Tools in the AV1 Video Codec."
+
+[^hoelzl13codec]: Hoelzl, Ingrid and Remi Marie. 2013. "CODEC: on Thomas Ruff's JPEGs."
+
+
+
+
+
+
+## Copyright
+
+Copyright is a right that allows people to copy or recreate a work, ranging from artistic creations to a computer program. A person who owns the copyright of a certain work owns all the rights to it. It is used to protect it's creators from having their work copied, sold or posted online without their permission. Creators can extend the copyright to another person if they choose to do so.[^govcan23copyright] The laws of copyright vary from country to country, with some laws being stricter than others.
+
+The first copyright law passed in America was in 1790 in the United States, which initially protectected books, maps and charts. In the 1800s, other mediums were added such as published music, dramatic works and works of art. Motion pictures were added as early as 1912 and computer programs joined the list in the late 80s. With the arrival of VHS tapes, the laws were updated to prevent private recordings from being sold.[^davidson00copyright]
+
+Copyright can expire after a certain amount of years. The time it takes for it to expire may vary on the country. It would then fall into the public domain, where it becomes available to be used, distributed or reworked freely.[^dulongmartin12copyright]
+
+[^govcan23copyright]: Government of Canada. "A guide to copyright." Government of Canada. Last modified January 10, 2023. https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright.
+[^davidson00copyright]: Davidson, Mary Wallace. 2000. "Copyright." *Notes 56*, no. 3 (March): 598-604. doi: https://www.jstor.org/stable/899643
+[^dulongmartin12copyright]: Dulong de Rosenay, Melanie, and Juan Carlos De Martin. 2012. *The Public Domain Manifesto*. 1st ed. Open Book Publishers. https://www.jstor.org/stable/j.ctt5vjsx3.6
+
+## Creative Commons
+
+In an easy way to understand, Creative Commons is basically a fancy law regarding copyright. Essentially, why Creative Commons are so particular is because they are a more globally known copyright law which easier to use and more common. In simple terms, when an author uses Creative Commons on his work he's allowing users/readers to reuse their work on another.[^Harington20creativecommons] Moreover, the praticality of Creative Commons is also really important to know. In fact, when Creative Commons are used appropriately users don't have any financial, legal or politcal constraints. Basically, a worry-free enviornment for using people's content. [^Margoni16creativecommons]
+
+With the concept now explained it's important to also know the format/protocols authors need to follow to apply Creative Commons licenses. To use these licenses there are four conditions that have to be met. These conditions can be mixed into six different licenses. To grasp this idea I recommend watching the following Youtube video. [^CreativeCommons17creativecommons] The last thing to remember from this is that at the end of the day the Creative Commons licenses come in three formats which are machine-readable, lawyer-readable and human-readable. 
+
+
+
+[^Harington20creativecommons]: Harington, Robert. 2020. "Copyright, Creative Commons, and Consufion." The Scholarly Kitchen, https://scholarlykitchen.sspnet.org/2020/04/20/copyright-creative-commons-and-confusion/.
+[^Margoni16creativecommons]: Margoni, Thomas., and Peters, D.M., 2016. “Creative Commons Licenses: Empowering Open 
+Access,” Social Science Research Network, https://doi.org/10.2139/ssrn.2746044.![image](https://github.com/concordia-dcart/CART210-glossary/assets/70153178/c7fba4af-67d4-40cb-bfa4-763a57a7dd27)
+[^CreativeCommons17creativecommons]:Creative Commons. 2017. “Breaking down the CC Licenses - Creative Commons,” https://creativecommons.org/get-cc-savvy/breaking-cc-licenses/.![image](https://github.com/concordia-dcart/CART210-glossary/assets/70153178/2a5b03b9-e25b-45de-8f10-a53b0ea5d29f)
+
+
+
+## Cryptocurrency
+Cryptocurrency is a type of digital or virtual currency that uses cryptography for security. Unlike traditional currencies used by governments and centralized banks, the main idea is that cryptocurrencies attempt to operate on decentralized networks founded on blockchain technology. Cryptocurrencies rely on secure distributed ledger data structures; where mining is an integral part of Proof-of-Work systems. Mining requires the use of computer power to solve complex mathematical problems (encrypted transaction keys), validate transactions, and add them to the blockchain. A successful miner is rewarded with newly created cryptocurrency as an incentive.[^watorek21cryptocurrency] Other systems also exist such as Proof-of-Stake or PoS for short.[^mukhopadhyay16cryptocurrency] PoS relies on participants holding a certain amount of cryptocurrency to validate transactions and create new blocks, eliminating the need for intensive computational work. Cryptocurrency can typically be bought on trading exchanges such as Binance or Coinbase, but can also be bought and sold via peer-to-peer methods.[^wu21cryptocurrency] Digital currencies can also be stored on software-wallets and hardware-wallets. In most cases, the singular term cryptocurrency can mean a token. Some notable cryptocurrencies are Bitcoin, Ethereum, and Cardano. Any cryptocurrency that is not Bitcoin, is considered as an Altcoin. As the cryptocurrency landscape evolves, new projects, cryptocurrencies, altcoins, systems, and use cases are being implemented.
+
+[^mukhopadhyay16cryptocurrency]: Mukhopadhyay, Ujan, Anthony Skjellum, Oluwakemi Hambolu, Jon Oakley, Lu Yu, and Richard Brooks. "A brief survey of cryptocurrency systems." In 2016 14th annual conference on privacy, security and trust (PST), pp. 745-752. IEEE, 2016.
+
+[^watorek21cryptocurrency]: Watorek, M., Drożdż, S., Kwapień, J., Minati, L., Oświęcimka, P., & Stanuszek, M. (2021). Multiscale characteristics of the emerging global cryptocurrency market. Physics Reports, 901, 1-82.
+
+[^wu21cryptocurrency]: Wu, Jiajing, Jieli Liu, Yijing Zhao, and Zibin Zheng. "Analysis of cryptocurrency transactions from a network perspective: An overview." Journal of Network and Computer Applications 190 (2021): 103139.
+
+## CSS (Cascading Style Sheet)
+### Definition
+
+
+(under construction + placeholder for my sources)
+- [^meyer01css]
+- [^robbins02css]
+
+### Examples
+
+
+
+
+[^meyer01css]:Meyer, Eric A. 2006. "CSS: The Definitive Guide: The Definitive Guide." O'Reilly Media, Inc.
+[^robbins02css]:Robbins, Jennifer Niederst. 2012. "Learning web design: A beginner's guide to HTML, CSS, JavaScript, and web graphics." O'Reilly Media, Inc.
+
+
+
+## Cultural Determinism
+
+Cultural determinism is a theory that bases our emotions and behaviors upon the culture in which we are raised. It suggests that cultural and social influence dominate biological behavior. Breaking the theory down into two concepts, culture is the sum of attitudes, customs, and beliefs that distinguishes one group of people from another; while determinism is a philosophical position whereby an event has conditions that could not be caused by any other means.  [^feenberg10CD]
+
+Cultural determinism may not be all determinant, however. Often we are pressured into following cultural norms without understanding or recognizing those norms. As long as the culture’s coercion remains unconscious, there are few opportunities to act outside of those norms. But it’s not entirely unusual for a person to become aware of their cultural coercion, and act in a different way. [^ketner71CD] Would this resistance to cultural expectations also be a culture-bound decision?
+
+[^feenberg10CD]: Feenberg, Andrew and Anne-Marie Feenberg. 2010. “An Internet of Everything? Technological and Cultural Determinism". <i>Wikibooks, Open Books for an Open World</i>. Accessed January 29, 2024. https://en.wikibooks.org/wiki/An_Internet_of_Everything%3F/Technological_and_Cultural_Determinism.
+
+[^ketner71CD]: Ketner, Kenneth L. 1971. “Concerning Cultural Determinism.” <i>The Journal of American Folklore</i> 84 (334): 444–46. https://doi.org/10.2307/539639.
+
+
 ## Cyberspace
 
 Cyberspace’s current definition according to the CSRC (Computer Security Resource Center) is “The complex environment resulting from the interaction of people, software and services on the Internet by means of technology devices and networks connected to it, which does not exist in any physical form.” [^bussel23wiki]
@@ -77,11 +249,78 @@ In the 1990s, due to the pop culture popularization of the term, the definition 
 
 [^dclark10wiki]: David Clark, 2010, Characterizing cyberspace: past, present, and future, Accessed January 29, 2024
 
+# Digitization:
+
+Digitization is a process or a creation of a physical object that becomes photographed, processed into the computer using descriptive coding and then fully becomes a digital media that can be viewed across any search engine.[^mallison23digitization] Digitization entails any physical object or in-person sound that was scanned or recorded and uploaded to a computer to then be showcased within the digital realm. By digitizing data and services, it allows things like energy transformation, mobility and logistic sectors, and enhanced health care to be possible.[^kagermann15digitization] 
+
+An example of digitization is taking a photo with a camera of something and then uploading it onto the computer to edit it, just by uploading it or scanning it, within the computer the image is being hardcoded to now be a digital image able to be manipulated unlike the actual object itself. Another example can be written text as well as typewritten text when written on the computer turns the process digital. The process of converting music from a VHS tape and making it into an LP or video is also a form of digitization. Digitization ultimately becomes the idea that all the analog elements as well as physical elements that are then hardcoded into a computer using ones and zeros are now a digitized version of them.[^bloomberg18digitization]
+
+[^bloomberg18digitization]: Bloomberg, Jason. *Digitization, Digitalization, And Digital Transformation: Confuse Them At Your Peril*. Monique Babin. https://moniquebabin.com/wp-content/uploads/articulate_uploads/Going-Digital4/story_content/external_files/Digitization%20Digitalization%20and%20Digital%20Transformation%20Confusion.pdf.
+
+
+[^kagermann15digitization]: Kagermann, Henning. 2015. “Change Through Digitization—Value Creation in the Age of Industry 4.0.” *Springer Link*, (December): 23-45, https://link.springer.com/chapter/10.1007/978-3-658-05014-6_2#citeas
+
+[^mallison23digitization]: Mallison, Theodore, “Digitization,” Georgetown University. Last modified November 29, 2023. https://guides.library.georgetown.edu/c.php?g=1347959&p=9946942
+
 ## DNS
-The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses. In order for the browser to find the website we are looking for, it needs to know the IP address. Therefore, the DNS provides the corresponding IP address to the domain name.[^techquickie16dns]
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.
 
 [^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
-[^techquickie16dns]: Techquickie. 2016. "DNS as Fast as Possible." Youtube video, 5:42. Accessed January 25, 2024. https://www.youtube.com/watch?v=Rck3BALhI5c.  
+## E-commerce
+E-commerce, short for electronic commerce, refers to buying and selling goods and services on the internet. It is part of a bigger industry called e-business which includes all the processes that are needed to run an online company.[^Bloomental23ecommerce] Consumers can buy almost everything at any time of the day through ecommerce.[^Forbes23ecommerce]
+
+The history of e-commerce dates back to even before the creation of the Internet. It started with the electronic system called EDI in the 1960s, which allowed document transfers. The first online transaction happened in 1994 when a CD was sold through an online market called NetMarket. Since then, the industry has grown and given rise to today’s popular platforms such as Amazon, eBay, Shopify, etc.[^Bloomental23ecommerce]
+
+
+
+[^Bloomental23ecommerce]: Bloomenthal, Andrew. 2023. “E-commerce Defined: Types, History, and Examples.” Investopedia. Accessed January 25. https://www.investopedia.com/terms/e/ecommerce.asp.
+[^Forbes23ecommerce]: Forbes Advisor. 2023. “What Is E-Commerce? Definition, Types & Getting Started.” Forbes. Accessed January 25. https://www.forbes.com/advisor/business/what-is-ecommerce/.
+
+## Embodiment 
+
+As an overall term, embodiment deals with physical representations of other subjects both real and abstract. For example, "She is the embodiment of anger!", this is simple enough to understand. 
+
+However, depending on context the definition of the term shifts.  In computation and media, embodiment is a discourse that can be deeply philosophical and has a rich history. Within the body itself, the early 4EA (Embodied, Embedded, Extended, Enacted, Affective) cognitive science movement questioned the notion of computation related to an organism. Today, there remains three schools of thought to consider: body conservationism, body functionalism and body enactivism. The latter of which states that cognition arises from the dynamic interaction between an organism, its body, and its environment [^kiverstein05wiki].
+
+Regarding the social aspect of media use, avatars are an emphatical part of online and offline embodiment as well as personas [^kleyjer01wiki].  Other things to consider are human interaction with the computer [^chen02wiki], immersion [^dyson03wiki], cyborgs [^haddow04wiki] and more.
+
+[^chen02wiki]:Chen, Jessie YC, and Gino Fragomeni. Virtual, Augmented and Mixed Reality: Interaction, Navigation, Visualization, Embodiment, and Simulation: 10th International Conference, VAMR 2018, Held as Part of HCI International 2018, Las Vegas, NV, USA, July 15-20, 2018, Proceedings, Part I. Vol. 10909. Springer, 2018.
+[^dyson03wiki]:Dyson, Frances. Sounding New Media: Immersion and Embodiment in the Arts and Culture. Univ of California press, 2009.
+[^haddow04wiki]:Haddow, Gill. “Embodiment and Everyday Cyborgs: Technologies That Alter Subjectivity,” 2021.
+[^kiverstein05wiki]:Kiverstein, Julian. “The Meaning of Embodiment.” Topics in Cognitive Science 4, no. 4 (2012): 740–58.
+[^kleyjer01wiki]:Klevjer, Rune. “What Is the Avatar? Fiction and Embodiment in Avatar-Based Singleplayer Computer Games,” 2006.
+
+## Ethernet 
+
+Ethernet is a wired network technology that connects computers to other devices using cables and protocols. It was invented in the early 1970s by Xerox and became a standard in 1983.
+It has different types and speeds depending on the cable and device used. The most common types are twisted pair, coaxial, and fiber optic cables. The most common speeds are 10 Mbps, 100 Mbps, 1 Gbps, and 10 Gbps. [^BasuMallick23ethernet]
+
+Ethernet usually offers faster internet connection than Wi-Fi because of its use of cables rather than radio waves which can be less stable and secure.[^BusinessInsider24ethernet]
+
+
+[^BasuMallick23ethernet]: BasuMallick, Chiradeep. 2023. “What Is Ethernet? Definition, Types, and Uses.” Spiceworks. Accessed January 25. https://www.spiceworks.com/tech/networking/articles/what-is-ethernet/.
+[^BusinessInsider24ethernet]: Business Insider. 2024. “What Is Ethernet? the Wired Network Connection, Explained.” Business Insider. Accessed January 25. https://www.businessinsider.com/guides/tech/what-is-ethernet.
+
+## Facial Recognition
+
+Facial recognition is a recognition system that utilizes biometrics to detect, analyze, and recognize faces.[^kaur20facial] The process can be broken down into three technologies: detection, analysis, and recognition. Detection infers the training of an algorithm to recognize faces; The detected faces are then mapped and converted into a “faceprint”[klosowski20facial]. Finally, and most notably, faceprints are compared to individuals in a database to find their closest match.[klosowski20facial]
+
+This software can be traced back to the 1960s. A system developed by Woodrow Wilson Bledsoe in which an "unknown face is compared against data points of previously entered pictures".[klosowski20facial]
+
+[^kaur20facial]: Kaur, Paramjit, Kewal Krishan, Suresh K Sharma, and Tanuj Kanchan. 2020. “Facial-Recognition Algorithms: A Literature Review.” Medicine, Science and the Law 60 (2): 131–39. https://doi.org/10.1177/0025802419893168.
+
+[klosowski20facial]: Klosowski, Thorin. “Facial Recognition Is Everywhere. Here’s What We Can Do about It.” The New York Times, July 15, 2020. https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/. 
+
+## Firewall
+
+A firewall is like a security gate that controls what comes in and out. It is a network security device that monitors the incoming and outgoing network traffic and decides whether to allow or block them based on a set of defined security rules. 
+There are different types of firewalls, such as proxy, stateful inspection, UTM, next-generation, cloud-native firewalls and more, each with different features and functions. [^Cisco24firewall]
+
+A firewall has many benefits, such as blocking spyware, stopping virus attacks, promoting privacy, and network traffic, and preventing hackers from accessing the network. [^Spiceworks24firewall]
+
+[^Cisco24firewall]:“What Is a Firewall?” n.d. Cisco. Accessed January 29, 2024. https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html.
+[^Spiceworks24firewall]: “What Is a Firewall? Definition, Key Components, and Best Practices.” n.d. Spiceworks (blog). Accessed January 29, 2024. https://www.spiceworks.com/it-security/network-security/articles/what-is-firewall-definition-key-components-best-practices/.
+
 
 ## GitHub
 GitHub is a web-based platform for version control and collaboration using Git,[^github24wikis] allowing users to manage and share code in various repositories and offering wikis for documentation and collaborative editing. GitHub employs Git software, offering distributed version control, access control, bug tracking, feature requests, task management, continuous integration, and project [wikis](../main/glossary.md#wiki).[^kinsta24what]
@@ -97,6 +336,39 @@ GitHub's development process is distributed, allowing developers to collaborate,
 [^github24wikis]: GitHub Docs. 2024. “About wikis.” Accessed January 2. https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis.
 
 [^kinsta24what]: Kinsta. 2024. ”What Is GitHub? A Beginner's Introduction to GitHub.” Accessed January 2. https://kinsta.com/knowledgebase/what-is-github/.
+
+
+## GUI (Graphical User Interface)
+
+
+## Haptics
+
+The word “haptics” means ‘concerned with the sense of touch’ [^haptics1]. It is believed to have come from the Greek word “hapthesthai” [^haptics1]. In psychology and medicine, haptics refers to the study of how humans process sensory touch input through the body’s touch receptors [^haptics1]. In the late twentieth century, the definition had to be broadened because emergent technologies such as robots, video game consoles and virtual reality are all capable of creating touch sensations [^haptics2]. Thus, in the context of new media, haptics is defined as physical sensations—such as pushes or vibrations—that a user experiences while using an electronic device [^haptics3].
+
+[^haptics1]: Hannaford, Blake, and Allison M. Okamura. 2016. “Haptics.” In Springer Handbook of Robotics, edited by Bruno Siciliano and Oussama Khatib, 1063–84. Springer Handbooks. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-32552-1_42.
+[^haptics2]: Srinivasan, Mandayam A. n.d. "What is Haptics?" Accessed January 29, 2024. https://www.merriam-webster.com/dictionary/haptics 
+[^haptics3]: “Definition of HAPTICS.” n.d. Accessed January 29, 2024. https://www.merriam-webster.com/dictionary/haptics.
+
+## Hash Functions
+
+A hash function, used within code, is meant to turn numerical or string instances, or "keys", into usable buckets of data, known as "hashes". When you hash a message, it takes your file or message of any size, runs it through a mathematical algorithm, and spits out an output of a fixed length. 
+Usually implemented to fulfill a form of a hash table, it operates three various functions within itself:
+- It converts the keys into fixed lengths using ADD or XOR
+- It rearranges the bits to uniformly disturbute them over the keyspace
+- Generate a hash that is equal to or less than the network's target hash [^Frankenfield23whatishash]
+
+
+
+In laymans terms, it stores each value into a book of sorts, storing it then in a bookshelf for easy keeping, by assigning the often times complex wording scheme into a simple letter, less than or equal to the amount of space the bookshelf has.
+
+Used in other languages such  as C#, PHP, Java, and Python, it is often times implemented by default for a variety of those listed above, and can be overridden to suit the users needs for that specific program or project.
+
+As well, it is used in certain types of modern cryptography, mostly within banks for making sure no fraudulance can happen within. Based on the Security by Obscurity Approach, the whole cryptosystem is communicating securely while maintaining a high level of privacy. [^Ahmed22hashfunctionapplications] Even though hash functions have many applications in modern cryptography, they
+are perhaps best known for the important role they play in the practical use of digital signatures. [^Paar70hashfunction]
+
+[^Frankenfield23whatishash]:Frankenfield, Jake. “What Is a Hash? Hash Functions and Cryptocurrency Mining.” Investopedia, Investopedia, 28 May 2023, www.investopedia.com/terms/h/hash.asp. 
+[^Paar70hashfunction]:Paar, Christof, and Jan Pelzl. “Hash Functions.” SpringerLink, Springer Berlin Heidelberg, 1 Jan. 1970, link.springer.com/chapter/10.1007/978-3-642-04101-3_11. 
+[^Ahmed22hashfunctionapplications]:Ahmed, Haifaa. “A review of hash function types and their applications.” Wasit Journal of Computer and Mathematics Science, vol. 1, no. 3, 30 Sept. 2022, pp. 75–88, https://doi.org/10.31185/wjcm.52. 
 
 ## Hashtag
 
@@ -144,11 +416,291 @@ HTTPS contributes to a better overall user experience by providing faster loadin
 
 [^LinkedInHTTPSSEO24]: LinkedIn. 2024. "Why does HTTPS matter for SEO?". Accessed January 28. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
 
+## Hypertext
+
+Ted Nelson first introduces the term in his 1965 paper “A File Structure for the Complex, the changing and the indeterminate”, describing it as “a body of written or pictorial material interconnected in such a complex way that it could not conveniently be presented or represented on paper”.[^TedNelson1965]
+
+Hypertext is a digital form of writing text, exploiting the use of hyperlinks. Commonly found in webpages, documents or files, hyperlinks are clickable & link to other webpages/texts/media on the internet (commonly known as “links”). [The Oxford Advanced Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/) defines hypertext as “text stored in a computer system that contains links that allow the user to move from one piece of text or document to another”.[^OxfordHypertext]
+
+Hypertext allows people to easily access information from multiple sources and navigate through and between multiple documents from different sources on the web. As a form of information management, hypertext allows for a non-linear, and less restrictive exploration of digital content & information.[^JSMERP16] 
+
+[^TedNelson1965]: Nelson, Theodor H. 1965. “Complex Information Processing: A File Structure for the Complex, the Changing, and the Indeterminate.” In ACM’65 Proceedings of the 1965 20th National Conference, 84-100.
+[^OxfordHypertext]: Oxford University Press. Oxford Advanced Learner’s Dictionary. “Hypertext”. Accessed January 28, 2024. https://www.oxfordlearnersdictionaries.com/definition/english/hypertext
+[^JSMERP16]: Koskinen, Jussi., Salminen, Airi. and Paakki, Jukka. May 1, 2004. Hypertext support for the information needs of software maintainers. Journal of Software Maintenance and Evolution: Research and Practice vol. 16. 187-215. https://doi-org.lib-ezproxy.concordia.ca/10.1002/smr.292
+
+
+## Information Architecture 
+
+
+Information architecture is an area within the field of library and information science. [^dillon05information_architecture] It is the practice of making information easily accessible and understandable.[^usibility19information_architecture]
+Thus, it involves processes such as searching, categorizing, and presenting relevant information to help individuals understand how to access the things that they are looking to find. [^rosenfeld98information_architecture]
+
+Nowadays, the term has become mostly associated with web design as it is quite useful to create a comprehensible and easily navigated website.[^dillon05information_architecture]
+But it is important to remember that the fundamental aspects of information architecture can be easily applied to the physical world and not only to the World Wide Web.[^dillon05information_architecture]
+For instance, it is put into use in most public spaces such as department stores and museums. We know exactly that we will be able to find our favorite ice cream flavor in the frozen food aisle just as we know that we will find the Egyptian sarcophagi in the wing of the museum that is dedicated to Egyptian art and artifacts.
+
+In the context of creating a website, information architecture is about setting up a framework such that the user has a cohesive, coherent, and consistent experience. 
+The word “architecture” is a fitting metaphor because to achieve such an endeavor of creating a sustainable experience for the user—to create the larger picture—it is important to understand underlying factors and the ways in which they relate to each other within these complex multidimensional information spaces.[^rosenfeld98information_architecture]
+
+Information architecture is more and more significant because we live in a world where information is never-ending.[^usibility19information_architecture]
+
+[^dillon05information_architecture]: Dillon, Andrew, and Don Turnbull. 2005. “Information Architecture.” Repository.arizona.edu. New York: Marcel Dekker. 2005.
+[^rosenfeld98information_architecture]: Rosenfeld, Louis, and Peter Morville. 1998. Information Architecture for the World Wide Web. Beijing: O’reilly. 1998.
+[^usibility19information_architecture]: Usability.gov. 2019. “Information Architecture Basics .” Usability.gov. 2019. 
+
+
+## Internet
+
+The Internet is a global network of interconnected computer networks that enables individuals around the world to communicate and exchange information. [^Zare24internet1] 
+
+The word internetted was used as early as 1849, meaning interconnected or interwoven. The word Internet was used in 1945 by the United States War Department in a radio operator's manual, and in 1974 as the shorthand form of Internetwork. Today, the term Internet most commonly refers to the global system of interconnected computer networks, though it may also refer to any group of smaller networks.[^Zare24internet2] 
+The term internet (or internetwork) is simply a contraction of the phrase inter-network. However, when written with a capital "I," the Internet refers to a global network of interconnected systems. [^Zare24internet3]
+
+The Internet functions as an interactive medium, linking millions of devices and people. It facilitates data transmission, communication across several platforms, and access to a wide range of information. The Internet is naturally interactive, allowing computer users to communicate across networks. [^Zare24internet4] 
+
+The Internet has empowered ordinary citizens by making it easier for them to produce and distribute information to a variety of audiences. This transformation has caused a fundamental shift in the traditional media landscape. [^Zare24internet5]
+
+
+
+[^Zare24internet1]: "What Is the Internet?" Spiceworks. Accessed January 28, 2024. https://www.spiceworks.com/tech/networking/articles/what-is-the-internet/.
+
+[^Zare24internet2]: Oxford English Dictionary. "Internetted." Online edition. Oxford University Press. (Subscription or participating institution membership required.) Nineteenth-century use as an adjective.
+
+[^Zare24internet3]: Goswami, S. "The Internet Protocol." In Internet Protocols, published by Springer, Boston, MA, 2003. https://doi.org/10.1007/978-1-4615-0385-9_2.
+
+[^Zare24internet4]: Rust, Roland T., and Sajeev Varki. "Rising from the ashes of advertising." Journal of Business Research 37, no. 3 (1996): 173-181. https://doi.org/10.1016/S0148-2963(96)00067-7.
+
+[^Zare24internet5]: Jenkins, Henry, Ravi Purushotma, Margaret Weigel, Katie Clinton, and Alice J. Robison. Confronting the Challenges of Participatory Culture: Media Education for the 21st Century. The MIT Press, 2009. DOI: https://doi.org/10.7551/mitpress/8435.001.0001. ISBN electronic: 9780262258951.
+
+##Lossless
+Lossless is when there is no loss in data. When compressing a file, we want to store fewer bits all while preserving the original content [^crashcourse2017lossless], this is so that data is easier to store or transmit more efficiently[^lu2016lossless]. Lossless compression occurs when the decompressed data is the same as before the compression occurred[^crashcourse2017lossless]. For example, PNG is a lossless compression [^brian2022lossless] because the compression does not affect the quality of the image.
+
+Techniques used are called dictionary code and run length encoding. Run length encoding is where redundant data is represented differently to save space. For example, if an image contains 7 yellow pixels instead of storing each yellow pixel 7 time it would be better to say there 7 yellow pixels and would only need to mention that there a yellow pixel one time.[^crashcourse2017lossless]
+
+In our contemporary world, lossless compression is important because we live in a digital era, where more often than not we are constantly sharing information online to our friends, peers and colleagues. Whether it’s images or text files, lossless compression plays a crucial role since it important to be able to send out information quickly and efficiently without losing any of that data.
+
+[^crashcourse2017lossless]CrashCourse. 2017.“Compression: Crash Course Computer Science #21.” YouTube. https://youtu.be/OtDxDvCpPL4?si=N7dJNUot4i-9CwiZ. 
+[^lu2016lossless]Lu, Zhe-Ming, and Shi-Ze Guo. 2016. Lossless information hiding in images. Elsevier Science. https://www.overdrive.com/media/3040124/lossless-information-hiding-in-images. 
+[^brian2022lossless]Pickle, Brian, and Per Christensson. 2022. “Lossless.” Definition - What is lossless compression?. https://techterms.com/definition/lossless. 
+
+##Meme
+
+Wikipedia defines a meme (/miːm/ MEEM) as an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme. [^wikipedia24meme]
+
+The term meme was introduced by the biologist Richard Dawkins in his book The Selfish Gene. A meme is a unit of culture, such as “tunes, ideas, catch‐phrases, clothes fashions, ways of making pots or building arches”. Dawkins defined memes as small cultural units of transmission, analogous to genes, which are spread from person to person by copying or imitation.  [^Dawkins76meme]
+
+The phrase “Internet meme” is commonly applied to describe the propagation of content items such as jokes, rumors, videos, or websites from one person to others via the Internet. According to this popular notion, an Internet meme may spread in its original form, but it often also spawns user-created derivatives. [^Shifman13meme]
+
+
+
+[^wikipedia24meme]: “Meme.” 2024. Wikipedia. Wikimedia Foundation. January 18, 2024. https://en.wikipedia.org/wiki/Meme. 
+
+[^Dawkins76meme]: Dawkins, Richard. 2016. The Selfish Gene. Oxford: Oxford University Press.  
+
+[^Shifman13meme]: Shifman, Limor. 2013. “Memes in a Digital World: Reconciling with a Conceptual Troublemaker.” Journal of Computer-Mediated Communication 18, no. 3: 362–77. https://doi.org/10.1111/jcc4.12013 
+
+
+
+
+
+## Mobile Computing
+
+A quick defintion of mobile computing is basically a service that allows users to send anything electronic related with other users. It is important to know that mobile computing allows fast in real time exchanges between people across the world. The key element to know is that it allows users to interact with each other without wires. Also, this concept allows users to access any network at any time or location. With this brief explanation it's easy to link where mobile computing comes into our daily lives. For example, mobile phones are a perfect demonstration of what mobile computing is because phones permit people to chat or access the net anywhere at anytime.[^Sharma22mobilecomputing]
+
+It's important to realize with Mobile Computing that it isn't only linked to portable devices like phones. The concept expands much further, mobile computing also focuses on creating or merging communication and the Internet. Meaning, the ultimate goal of mobile computing is to create portable and powerful tools/mediums combining ways of communication and technology that can ease our daily tasks.[^Currie(n.d)mobilecomputing].
+
+The easiest way to understand this term is to take it literally. The first part being mobile which means something that can be in motion and not constrained by location or time. The second part being computing meaning a form of technology or something that processes and inputs and outputs something.[^Lutkevich(n.d)mobilecomputing]
+
+
+
+
+
+
+
+
+[^Sharma22mobilecomputing]: Sharma, Rohini. 2022. “A Review Paper on Mobile Computing,” Journal University of Shanghai for Science and Technology, https://jusst.org/wp-content/uploads/2022/04/A-Review-MOBILE-COMPUTING.pdf![image](https://github.com/Arianna19/CART210-glossary/assets/70153178/21bdc9ae-bde6-4289-a3f3-a330193b058e)
+[^Currie(n.d)mobilecomputing]: Currie, Collin. n.d. "Impact of Mobile Computing - Anticipating the Effects on the Campus," Society for College and Univerity Planning. http://webmedia.jcu.edu/institutionaleffectiveness/files/2016/04/PHEV41N2_Article_Impact-Mobile-Computing.pdf.
+[^Lutkevich(n.d)mobilecomputing]: Lutkevich, Ben. n.d. "Mobile Computing," TechTarget Mobile Computing, https://www.techtarget.com/searchmobilecomputing/definition/nomadic-computing.
+
+
+## Natural Language Processing
+Natural Language Processing (NLP) is a broad field driven by both computerized and theoretical approaches to analyze and represent human languages.[^Chowdhary01NPL]
+
+As this topic related to Natural Language Processing (NPL) remains a very active area for research and development, many might acknowledge that a one-size-fits-all approach for definiting this field might not fit all. Altought, a commont central purpose and understanding knowledge remains including the goal of achieving human-like language processing for a various of tasks and application.[^Liddy02NPL]
+
+
+[^Chowdhary01NPL]: Chowdhary, K.R. 2020. *Fundamentals of Artificial Intelligence*. India: Springer Nature: 603-649. doi:10.1007/978-81-322-3972-7.
+
+[^Liddy02NPL]: Liddy, E.D. 2001. *Natural Language Processing*. In Encyclopedia of Library and Information Science, 2nd Ed. NY. Marcel Decker, Inc. 
+
+
+## Network Security
+
+The first thing to know is that Network Security is an extremely complex term. The first thing to understand Network Security is that it is a sub-term under a huge umbrella being computer secuity. An overall explanation of Network Security would be that it's purpose is to provide privacy and confidentiality on the internet. This goal is achieved with how the security functions. Simply put, the main things that Network Security watches are network monitoring, detects intrusion and completes analyses on digital traffic. [^Marin05networksecurity]
+
+It's important to realize that Network Security was created due to the rapid evolution of technology and how easily information is accessible today. With that being said, this creation of internet being in all of our lives and at the tip of our fingers raises risks of invasion of privacy of anyone using it. Now, this is where Network Security comes handy because it's ultimate goal is protect the rights and interests of citizens using technology.[^Sun20networksecurity]
+
+After all that, a really easy way to understand Network Security is fueled by some main goals. These can be, protection against cyberattacks, security breaches and provide users with a secure way of getting any type of resources at anytime. Now this is achieved in multiple ways thanks to Network Security. Protection is achieved through firewalls, network access control, intrustion detection and prevention systems, virtual private networkds, application security and email security.[^WhatIs(n.d)networksecurity] (To understand each and their function/purpose I recommend visiting the cited website) 
+
+
+
+
+
+
+[^Marin05networksecurity]: Marin, Gerald A. 2005. "Network Security Basics." IEEE Secutiry & Privacy 3, https://ieeexplore.ieee.org/abstract/document/1556540. 
+[^Sun20networksecurity]: Sun, Jiaqi. 2020. "Computer Network Security Technology and Prevention Strategy Analysis." Procedia Computer Science, https://www.sciencedirect.com/science/article/pii/S1877050922015204.
+[^WhatIs(n.d)networksecurity]: "What is Network Security | IMB," n.d., https://www.ibm.com/topics/network-security.
+
+
+## Neural Networks
+
+Neural networks are computational frameworks that mimic the brain's structure consisting of layers of interconnected nodes (neurons). These networks, through training, learn to perform tasks by adjusting connections based on input data, improving accuracy over time without explicit task-specific programming. They are fundamental in fields like image recognition, natural language processing, and more, due to their ability to learn from vast amounts of data and identify patterns that are not easily discernible by humans. [^NeuralNetworksHerve] . Neural networks are advanced tools for solving specific problems in areas like pattern recognition and data analysis due to their high speed and learning capabilities from examples (training data sets). [^NeuralNetworksBishop] . 
+
+Overall, Neural network research explores how computers can mimic the brain's way of processing information, moving away from traditional step-by-step computing to more interconnected and simultaneous methods. Researchers are trying to simplify and understand how these brain-like systems can solve complex tasks by focusing on neurons, which are like tiny processing units influenced by their connections' strengths. They also look into how these networks learn and improve through a process called backpropagation. [^BasicIdeasInNeuralNetworks] .
+
+[^NeuralNetworksHerve]:Abdi, Hervé. 1999. "Neural Networks." Quantitative Applications in the Social Sciences Series, no-07-124, Sage Publications.
+
+[^NeuralNetworksBishop]:Bishop, Chris. 1994. "Neural networks and their applications."  Rev. Sci. Instrum, 65, 1803–1832, AIP Publishing.
+
+[^BasicIdeasInNeuralNetworks]:Rumelhart, David E., Bernard Widrow, and Michael A. Lehr. "The basic ideas in neural networks." Communications of the ACM, March 1994, 87+. Gale Academic OneFile (accessed January 29, 2024). https://link.gale.com/apps/doc/A15061351/AONE?u=anon~d019914e&sid=googleScholar&xid=256644c0.
+
+## NFT 
+
+A Non-Fungible Token, or NFT, is a unique digital identifier that gets stored on a Blockchain[^opensea22nft]. Essentially, it’s a completely unique link representing a digital item that gets added to an ever-growing and immutable list, serving as a publicly accessible record. 
+
+
+[^christain22nft]: Christian Pinto-Gutiérrez, Sandra Gaitán, Diego Jaramillo, and Simón Velasquez. 2022. The Nft Hype: What Draws Attention to Non-Fungible Tokens? 10 (335): 335–335. https://doi.org/10.3390/math10030335.
+
+[^fortnow22nft]: Fortnow, Matt, Quharrison Terry, and Kendrick Nguyen. 2022. The Nft Handbook: How to Create, Sell and Buy Non-Fungible Tokens. *Hoboken, New Jersey: John Wiley & Sons*. 
+
+[^opensea22nft]: Opensea. “NFTs Explained: What They Are,” August 26, 2022. https://opensea.io/learn/nft/what-are-nfts.
+
+
+## Open Source
+
+Open source refers to software with source code made accessible to the public to view, modify, and distribute. It centers around community collaboration, the importance of peer review, and process transparency. [^osi01Wiki] Open source software is typically available for no charge and prevents entities from having total market control over source code. [^diffingo02Wiki]
+
+Software sharing was integral throughout software’s early history, but as software became less tied to specific hardware and more monetizable, proprietary software became more appealing to companies. The free software movement arose in response to this through important figures such as Richard Stallman. With ambiguity surrounding the word “free”, the idea of open source was proposed. [^producingOSS03wiki] The history of the free software movement and the open-source-software movement are closely interlinked but remain separate movements. 
+
+Some popular examples of open source software include the Linux operating system, the Mozilla Firefox browser, and LibreOffice.
+
+[^producingOSS03wiki]: Fogel, Karl. 2022. *Producing Open Source Software*. https://producingoss.com/.
+
+[^osi01Wiki]: “The Open Source Definition.” 2006. Open Source Initiative. July 7, 2006. https://opensource.org/osd/.
+
+[^diffingo02Wiki]: “What Is Open Source Software.” n.d. Diffingo Solutions Inc. Accessed January 29, 2024. https://diffingo.com/oss/whyoss.
+
 ## Pantone
-Pantone is a color system used in printing that allows for a universal agreement on specific colors we expect to get from print. There are two color systems, PMS and FHI [^pantone24what]
+Pantone is a color system used in printing that allows for a universal agreement on specific colors we expect to get from print.
+
+There are two color systems that designers can work with depending on their needs, the Pantone Matching System and the Pantone Fashion, Home + Interior System.  [^pantone24what]
+
+#### Pantone Matching System (PMS):
+This system is meant for designers who work on print projects such as editorial, packaging, digital and screenprinting.[^pantone24what]
+
+#### Pantone Fashion, Home + Interior System (FHI):
+This system is useful for projects a variety of projects unrelated to prints. It is often used by fashion designers and interior designers when working with apparel, fabrics, soft goods, cosmetics, paints, leather and accessories. [^pantone24what]
+
+The purpose of having two color systems is to better control the appearance of color depending on the material the designer works with. Some colors can not be produced on certain materials. The Pantone system helps designers guarantee that the end product will match the exact Pantone color swatch they chose during production.
+
+### Pantone vs CMYK
+Pantone is more costly than printing in CMYK since it requires more labor. The print technician must follow color mix specifications to achieve the exact Pantone swatch requested. This process creates a color that is solid and saturated. On the other hand, CMYK in printing separates the file into cyan, magenta, yellow and black. Dots of each colors are printed on the surface to reach the final product. This can sometimes create variations in color differing from what is seen on the computer screen.[^paperstreet09when]
+
+Using the Pantone system is good for printing projects that do not have many colors. It also allows designers to print colors unachievable with CMYK such as gold, silver and neon colors. However, CMYK can also do a decent print job, especially for projects with color photography. It is up to the designer to decide which system better suits their project.
 
 [^pantone24what]: Pantone. 2024. "What Are Pantone Color Systems?" Accessed January 17, 2024. https://www.pantone.com/color-systems/pantone-color-systems-explained.
 [^paperstreet09when]: PaperStreet. 2009. "When to Use CMYK colors v. Pantone colors." Accessed January 17, 2024. https://www.paperstreet.com/blog/why-you-need-to-know-cmyk-colors-v-pantone-colors/.
+## Pattern Recognition
+
+Pattern Recogntion is a machine learning process in which the computer is fed a large pool of data that they will attempt to find regularities in order to automatically recognise the content. This recognition can be applied to any form of media whether it be text, images, sounds and much more. It is also expected that the algorithm can "recognize and classify unfamiliar objects, recognize shapes and objects from different angles, and identify patterns and objects even if they’re partially obscured."[^citation1]
+
+Scientific innovations such as prostehtic arms can use this technology to their advantage by applying Electromyographic (EMG) pattern recognition which is a recognition system "constructed for real-time control of a prosthetic arm through precise identification of motion and speed command" [^citation3]. This method uses an accumulation of data such as distances recorded with the help aritificial intelligence and multiple reference paremeters.  [^citation2]
+
+Other practical applications of pattern recognition can be found in every day life such as speech and fingerprint recognition used by your smartphone, image recognition that can define contrasts in a photo as well as more professional fields such as the medicine and economy which uses it for medical imaging and data analysis to predict the market fluctuations. [^citation1]
+
+[^citation1]: "Pattern Recognition", arm, accessed Janurary 30, 2024, https://www.arm.com/glossary/pattern-recognition
+[^citation2]: Park, Sang-Hui, and Seok-Pil Lee. "EMG pattern recognition based on artificial intelligence techniques." IEEE transactions on Rehabilitation Engineering 6, no. 4 (1998): 400-405.
+[^citation3]: Lee, Sukhan, and G. Saridis. "The control of a prosthetic arm by EMG pattern recognition." IEEE Transactions on automatic control 29, no. 4 (1984): 290-302.
+
+## Quantum Computing
+Quantum Computing is an emerging type of computing that utilizes principles of quantum mechanics to expedite certain processes and calculations, faster than classical computing. A key principle in the difference between quantum and classical computing is qubits. Like bits, a qubit can be in 2 states, a 0 or a 1. However, operating under quantum mechanics, a qubit can be in a third state called superposition. This essentially means that, before being measured, a qubit exists in the states of 0 and 1 simultaneously[^mcmahon08quantum]. This allows the quantum computers to process multiple calculations concurrently and sort databases with optimized algorithms which accelerates the processing speed. This function is called parallelism[^gruska99quantum]. 
+Another quantum mechanic property that qubits posses is entanglement. This is the concept of two or more particles (or qubits) become entwined where the state of one particle determines the state of the other particle (and vice-versa) regardless of distance[^rieffel00introduction]. This principle permits qubits to execute specific quantum algorithms that enhance information processing as well as perform parallelism tasks instantly through intertwined qubits. These operations of the qubits are all manipulated through quantum gates, which are the foundational element of quantum computing[^mcmahon08quantum]. Sequences quantum gates are used to create quantum circuits, which are representations of quantum algorithms. 
+While the potential of quantum computers is immense and exciting, the practicality of these computers is lacking. To construct this machine, it requires an immense amount of cooling to maintain the superconducting capabilities of the materials. Specifically, about a hundredth of a degree above absolute zero[^ibm24quantum]. This requires super-cooling fluids which cost a lot of money and make these machines inaccessible to regular people and exclusive to companies who have the space and funds. 
+
+[^gruska99quantum]: Gruska, Jozef. 1999. Quantum computing. London: McGraw-Hill. 
+[^mcmahon08quantum]: McMahon, David. 2008. Quantum Computing explained. Hoboken New Jersey: John Wiley & Sons, Inc. 
+[^rieffel00introduction]: Rieffel, Eleanor,  and Wolfgang Polak. (September 2000). “An Introduction to Quantum Computing for Non-Physicists.” ACM Computing Surveys 32, no. 3: 300–335. https://doi.org/10.1145/367701.367709. 
+[^ibm24quantum]: “What Is Quantum Computing?” IBM. Accessed January 29, 2024. https://www.ibm.com/topics/quantum-computing#:~:text=Two%20superconductors%20placed%20on%20either,insulator%20form%20a%20Josephson%20junction.&text=Our%20quantum%20computers%20use%20Josephson,individual%20units%20of%20quantum%20information. 
+
+## Ransomware
+
+Ransomware is a specific class of malware that demand a payment in exchange for a stolen functionality. The phenomenon first appeared around 2005. Most ransomwares “make an intensive use of file encryption as an extortion means… they encrypt various files on victim’s hard drives before asking for a ransom to get the files decrypted.” [^Gazet10RW]
+
+There are 4 more major types of ransomware: crypto (encrypts data important to victims), locker (locks victims out of their systems), scareware (tricks users into buying or downloading malicious software, often through startling messages), and leakware (threatens to make users data public unless a ransom is paid). [^Razaulla23RW]
+
+[^Gazet10RW]: Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” <i>Journal in Computer Virology</i> 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
+
+[^Razaulla23RW]: Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” <i>IEEE Access</i> 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
+
+## Social Networking
+The act of social networking refers to using any form of internet-based social media websites, such as Instagram, Twitter, and Facebook to stay connected with family and friends alike, while also sharing any multiple forms of media[^Kenton] (Kenton, 2023). From the examples listed, they each have different uses, for example, Instagram is a video and picture sharing application where others can like and share the things you upload. Twitter is a communication network, where users can share their thoughts by using hashtags. Lastly, Facebook is an application meant for connecting with friends and distant family members to remain in touch with them. The use of social networking can either be social, to communicate and interact with others online, or business, to talk about your field with likeminded individuals. It has changed “our means of gathering information and communicating with each other and contributing to both these practices through creative production”[^Fenton]. While there are some advantages about social networking there are also some disadvantages such as the spreading of misinformation, anonymity, and cause depressive symptoms, anxiety, and low self-esteem[^Pantic].
+
+[^Kenton]:Kenton, Will. 2023. Review of What Is Social Networking? Edited by Julius Mansa and Amanda Jackson. Investopedia. Investopedia. December 22, 2023. https://www.investopedia.com/terms/s/social-networking.asp#:~:text=Social%20networking%20refers%20to%20using,)%2C%20Instagram%2C%20and%20Pinterest
+[^Pantic]:Pantic, Igor. 2014. “Online Social Networking and Mental Health.” Cyberpsychology, Behavior, and Social Networking 17 (10): 652–57. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/.
+[^Fenton]:Fenton, Natalie, James Curran, and Des Freedman. (2012) 2012. Misunderstanding the Internet. Routledge: Routledge. https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:15b11af5-7d71-319e-97cb-81ad5a2a547d.
+
+## Software
+
+Software is a collection of commands or instructions that tell a computer how to behave [^software3]. It is opposite to hardware, which refers to all physical components of a computer [^software1]. Software encompasses not only the code which a computer executes, but also the process of designing and testing the code [^software2].
+
+[^software1]: “Software | Definition, Types, & Facts | Britannica.” n.d. Accessed January 29, 2024. https://www.britannica.com/technology/software.
+[^software2]: Osterweil, Leon. 2018. “What Is Software?:” In , 59–76. https://doi.org/10.1007/978-3-319-73897-0_4.
+[^software3]: “What Is Software? Definition, Types, Examples, and More.” n.d. Accessed January 29, 2024. https://www.geeksforgeeks.org/software-and-its-types/.
+
+## Telepresence
+
+The word “telepresence” refers to real-time techniques that simulate the presence of a person in another space  using various digital systems.[^Lombard97presence]
+Telepresence technology often makes particular use of sound and sight. In particular thanks to sensors such as cameras or microphones
+But it can also include other sensory sources such as touch.[^Held92telepresence]
+
+[^Held92telepresence] Held, R (1992) on 124th Meeting of the Acoustical Society of America
+https://pubs.aip.org/asa/jasa/article/92/4_Supplement/2458/620791/Telepresence
+
+[^Lombard97presence] Lombard, M., & Ditton, T. (1997). At the heart of it all: The concept of presence. Journal of Computer-Mediated Communication,(p0-01) https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1426936 
+
+The wikipedia page of the word telepresence.
+​​https://en.wikipedia.org/wiki/Telepresence 
+
+ChatGPT4 to help me find references and to translate some texts.
+
+
+## UI (User Interface)
+### Definition
+
+UI, also known as User Interface, is the human-computer point of contact in any  digital device, application, or software [^coursera01ui].
+
+(under construction + placeholder for my sources)
+- [^harris02ui]
+- [^mckay03ui]
+- [^kristiadi04ui]
+
+### Examples
+
+### Difference Between UX and UI
+| UX  | UI  |
+| --- | --- |
+| -   | -   |
+| -   | -   |
+
+
+[^coursera01ui]: Coursera Staff. 2023. “What Is Ui Design? Definition, Tips, Best Practices.” Coursera. https://www.coursera.org/articles/ui-design. 
+[^harris02ui]: Harris, Patricia. 2017. "What Is User Interface Design?" The Rosen Publishing Group, Inc.
+[^mckay03ui]: McKay, Everett N. 2013. "UI is communication: How to design intuitive, user centered interfaces by focusing on effective communication" Newnes.
+[^kristiadi04ui]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
+
+
+
+
 ## User
 A user has many definitions, but let’s focus on the concept of an end user within the technology field. An end user is a person who utilizes a product or service such as a computer, software and many more, without involvement in its production or sell. Therefore, they are often referred to as customer and operator[^TheStateOfTheArtInEndUser]. End users typically have user accounts with usernames and passwords to authenticate themselves within a system.[^Chinel23Whatisuser]
 
@@ -173,6 +725,26 @@ Users interact with technology in various ways, including navigating interfaces,
 
 
 
+
+## UX (User Experience)
+### Definition
+
+UX, also known as UX design or User Experience, is a concept in the field of human-computer interaction [^yablonski01ux].
+
+(under construction)
+- [^berni02ux]
+
+### Examples
+
+### Difference Between UX and UI
+| UX  | UI  |
+| --- | --- |
+| -   | -   |
+| -   | -   |
+
+
+[^yablonski01ux]: Yablonski, Jon. Laws of UX. 2024. " O'Reilly Media, Inc."
+[^berni02ux]: Berni, Aurora, and Yuri Borgianni. 2021. "From the definition of user experience to a framework to classify its applications in design." Proceedings of the Design Society 1 (2021): 1627-1636.
 
 ## Version Control
 
@@ -212,6 +784,16 @@ Alternatively, CVCS require a constant connection to the server to have access t
 ## Virtual Environment
 
 Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 
+
+![Virtual environment](images/virtualenvironment-vigliensoni.png)
+
+[^ve1]: “What Are Virtual Environments? | IEEE Journals & Magazine | IEEE Xplore.” n.d. Accessed January 29, 2024. https://ieeexplore.ieee.org/abstract/document/250914.
+[^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”
+[^ve3]: Youngblut, Christine, Rob E Johnston, Sarah H Nash, Ruth A Wienclaw, and CraigA Will. n.d. “REVIEW OF VIRTUAL ENVIRONMENT INTERFACE TECHNOLOGY.”
+
+## Virtual Environment
+
+Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments [^ve3].These interactive computer displays are designed to create the illusion that the user has been transported to a different location [^ve1]. In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers [^ve2]. 
 
 [^ve1]: “What Are Virtual Environments? | IEEE Journals & Magazine | IEEE Xplore.” n.d. Accessed January 29, 2024. https://ieeexplore.ieee.org/abstract/document/250914.
 [^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”

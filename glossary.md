@@ -31,7 +31,7 @@ Agency is felt by degrees: one can feel more or less in control. This variation 
 [^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” <i>Cognition</i> 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
 
 ## API
-The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what]
+The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.
 
 A main advantage of using an API to communicate between the client and the server rather than sending a direct query to the databases is that it protects the database from potential security risks. It also allows developers to keep a similar syntax when requesting data from any type of database. [^dreanfactory2023understanding]
 The purpose of an API is to provide the client, whether a mobile application, website or other software, the information to build their product.
@@ -42,7 +42,6 @@ Anyone can easily integrate APIs into their projects by searching for them onlin
 
 [^wiki24api]: Wikipedia. 2024. "API". Accessed January 29, 2024. https://en.wikipedia.org/wiki/API
 [^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 29, 2024. https://aws.amazon.com/what-is/api/.
-[^mulesoft15what]: MuleSoft Videos. 2015. "What Is an API?" YouTube video, 3:24. Accessed January 25, 2024. https://www.youtube.com/watch?v=s7wmiS2mSXY.
 [^dreanfactory2023understanding]: Nguyen, Spencer. 2023. "Understanding the Connection Between Databases and APIs." Accessed January 25, 2024. https://blog.dreamfactory.com/understanding-the-connection-between-databases-and-apis/#:~:text=APIs%20facilitate%20communication%20between%20applications,layer%20of%20protection%20to%20databases.
 ## Asset
 
@@ -264,10 +263,9 @@ An example of digitization is taking a photo with a camera of something and then
 [^mallison23digitization]: Mallison, Theodore, “Digitization,” Georgetown University. Last modified November 29, 2023. https://guides.library.georgetown.edu/c.php?g=1347959&p=9946942
 
 ## DNS
-The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.[^techquickie16dns]
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.
 
 [^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
-[^techquickie16dns]: Techquickie. 2016. "DNS as Fast as Possible." Youtube video, 5:42. Accessed January 25, 2024. https://www.youtube.com/watch?v=Rck3BALhI5c. 
 ## E-commerce
 E-commerce, short for electronic commerce, refers to buying and selling goods and services on the internet. It is part of a bigger industry called e-business which includes all the processes that are needed to run an online company.[^Bloomental23ecommerce] Consumers can buy almost everything at any time of the day through ecommerce.[^Forbes23ecommerce]
 

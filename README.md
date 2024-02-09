@@ -41,8 +41,15 @@ When committing your changes, add a meaningful message (e.g., ”Fix: Typo in th
 
 ## Adding images
 
+- To add images to the repo you must fork the repository into your own account:
+
+![Add data](./images/07-fork-repo-1.png)
+
+and then, 
+![Add data](./images/07-fork-repo-2.png)
+
+- Once you have a fork of the repo in your account, you have full control of your copy
 - add images to the `images` folder of this repository
-- if using the GitHub UI, contributors can create new files as shown in the image
 
 ![Add data](./images/04-upload-files.png)
 

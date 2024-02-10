@@ -86,6 +86,7 @@ For example, if I want to display the image I made for the keyword `virtual-envi
 
 That link will display this image:
 
-![Virtual environment](images/virtualenvironment-vigliensoni.png)
+![Virtual environment](images/virtualenvironment-vigliensoni.png)[^reschke07wallpaper]
 
 
+[^reschke07wallpaper]: Reschke, Michael. 2007. “800x600 Wallpaper Blue Sky.png.” Wikimedia Commons. December 27. https://commons.wikimedia.org/wiki/File:800x600_Wallpaper_Blue_Sky.png.

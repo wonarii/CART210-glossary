@@ -16,19 +16,24 @@ Alternatively, CVCS require a constant connection to the server to have access t
 
 ### Examples of version control systems
 
-- Git (DVCS)
-- Bitbucket (DVCS)
-- Mercurial (DVCS)
-- Subversion (CVCS)
-- Perforce (CVCS)
+- Git - DVCS
+- Bitbucket - DVCS
+- Mercurial - DVCS
+- Subversion - CVCS
+- Perforce - CVCS
 
 ### Alternative names
 
 - Source Code Management (SCM)
 - Revision Control Systems (RCS)
 
+### Critical one-page collage
+![critical-one-page-collage](../images/version-control-dudemaine.png)[^Carreon-img-VCS]
+
 [^Atlassian-VCS]: Atlassian. "What Is Version Control | Atlassian Git Tutorial." Atlassian. Accessed January 28, 2024. [https://www.atlassian.com/git/tutorials/what-is-version-control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 [^Gitlab-VCS]: Gitlab. "What Is A Centralized Version Control System." Gitlab. Accessed January 28, 2024. [https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/](https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/)
 
 [^Zolkifli-VCS]: Zolkifli, Nazatul Nurlisa, Amir Ngah, and Aziz Deraman. 2018. "Version Control System: A Review." *3rd International Conference on Computer Science and Computational Intelligence*: 408-415. [https://www.sciencedirect.com/science/article/pii/S1877050918314819](https://www.sciencedirect.com/science/article/pii/S1877050918314819)
+
+[^Carreon-img-VCS]: Carreon, Hector, and Fevrier Valdez. 2022. "A new mycorrhized tree optimization nature-inspired algorithm." Scientific Figure on ResearchGate. Accessed February 9, 2024. [https://www.researchgate.net/figure/Symbiosis-between-tree-roots-and-fungi_fig1_358897496](https://www.researchgate.net/figure/Symbiosis-between-tree-roots-and-fungi_fig1_358897496)

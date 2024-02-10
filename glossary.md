@@ -352,6 +352,8 @@ The word “haptics” means ‘concerned with the sense of touch’ [^haptics1]
 [^haptics2]: Srinivasan, Mandayam A. n.d. "What is Haptics?" Accessed January 29, 2024. https://www.merriam-webster.com/dictionary/haptics 
 [^haptics3]: “Definition of HAPTICS.” n.d. Accessed January 29, 2024. https://www.merriam-webster.com/dictionary/haptics.
 
+![Haptics](images/haptics-bocarro.png)
+
 ## Hash Functions
 
 A hash function, used within code, is meant to turn numerical or string instances, or "keys", into usable buckets of data, known as "hashes". When you hash a message, it takes your file or message of any size, runs it through a mathematical algorithm, and spits out an output of a fixed length. 

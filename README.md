@@ -80,6 +80,10 @@ For example, if I want to display the image I made for the keyword `virtual-envi
 
 ```![Virtual environment](images/virtualenvironment-vigliensoni.png)```
 
+> [!NOTE]  
+> Please note that the relative link above does not indicate the previous folder (as in `../images`). This is correct. GitHub considers the root folder of the repository by default. You may not see the file in your keyword file, but it will render fine in the glossary file.
+
+
 That link will display this image:
 
 ![Virtual environment](images/virtualenvironment-vigliensoni.png)

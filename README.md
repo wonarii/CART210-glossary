@@ -23,19 +23,19 @@ Each student must:
 - add the terms chosen as individual files inside the `keywords` folder of this repository
 - if using the GitHub UI, contributors can create new files as shown in the image
 
-![Add file](./images/01-add-file.png)
+![Add file](images/01-add-file.png)
 
-- name each individual keyword file in lowercase and use the file extension `.md` (Markdown), as shown below
+- name each keyword file in lowercase and use the file extension `.md` (Markdown), as shown below
 
-![Add filename](./images/02-name-file.png)
+![Add filename](images/02-name-file.png)
 
 - add the details of the term they are working on using [strict Markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). The keyword title should be in Heading 2 (`## The term`) and the rest in plain markdown
-- citations must be added in the same markdown file, as show below
+- citations must be added in the same markdown file, as shown below
 
-![Add data](./images/03-add-data.png)
+![Add data](images/03-add-data.png)
 
 >[!IMPORTANT]
-> To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environment (e.g., CLI or IDE), can also use those.
+> To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web-based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environments (e.g., CLI or IDE), can also use those.
 
 When committing your changes, add a meaningful message (e.g., ”Fix: Typo in the description.”, ”Add: New definition from Steyerl, H. (2016).”)
 
@@ -43,19 +43,19 @@ When committing your changes, add a meaningful message (e.g., ”Fix: Typo in th
 
 - To add images to the repo you must fork the repository into your own account:
 
-![Add data](./images/07-fork-repo-1.png)
+![Add data](images/07-fork-repo-1.png)
 
 and then, 
 
-![Add data](./images/07-fork-repo-2.png)
+![Add data](images/07-fork-repo-2.png)
 
 - Once you have a fork of the repo in your account, you have full control of your copy
 - add images to the `images` folder of this repository
 
-![Add data](./images/04-upload-files.png)
+![Add data](images/04-upload-files.png)
 
 >[!IMPORTANT]
-> To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environment (e.g., CLI or IDE), can also use those.
+> To commit changes, each contributor will create a pull request using the [GitHub](../main/glossary.md#GitHub) web-based interface. Contributors who know how to interact with [GitHub](../main/glossary.md#GitHub) using other environments (e.g., CLI or IDE), can also use those.
 
 When committing your changes, add a meaningful message (e.g., ”Add: Visual collage for virtuality.”
 

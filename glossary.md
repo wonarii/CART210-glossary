@@ -31,7 +31,7 @@ Agency is felt by degrees: one can feel more or less in control. This variation 
 [^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” <i>Cognition</i> 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
 
 ## API
-The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.[^mulesoft15what]
+The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.
 
 A main advantage of using an API to communicate between the client and the server rather than sending a direct query to the databases is that it protects the database from potential security risks. It also allows developers to keep a similar syntax when requesting data from any type of database. [^dreanfactory2023understanding]
 The purpose of an API is to provide the client, whether a mobile application, website or other software, the information to build their product.
@@ -42,8 +42,21 @@ Anyone can easily integrate APIs into their projects by searching for them onlin
 
 [^wiki24api]: Wikipedia. 2024. "API". Accessed January 29, 2024. https://en.wikipedia.org/wiki/API
 [^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 29, 2024. https://aws.amazon.com/what-is/api/.
-[^mulesoft15what]: MuleSoft Videos. 2015. "What Is an API?" YouTube video, 3:24. Accessed January 25, 2024. https://www.youtube.com/watch?v=s7wmiS2mSXY.
 [^dreanfactory2023understanding]: Nguyen, Spencer. 2023. "Understanding the Connection Between Databases and APIs." Accessed January 25, 2024. https://blog.dreamfactory.com/understanding-the-connection-between-databases-and-apis/#:~:text=APIs%20facilitate%20communication%20between%20applications,layer%20of%20protection%20to%20databases.
+## Asset
+
+The definition of asset in a general context is rooted in the business and economics. In a paper on the definition of a brand asset, the term is defined as a symbol that helps identify goods or services that differentiates it from its competitors.[^tollington98asset]
+
+An asset defined more in lined with traditional media assets, whether that be an audio asset or some form of visual imagery, relates more to the term new media. 
+
+Beyond this general definition, an asset can be defined as the relationship between the computer and the asset.[^mateas05asset] Instead of merely being a playback of sorts, it is defined by the “ratio of computation to the size of the media.” Chris Crawford coins the term “crunch per bit” as the process intensity of the computation. 
+
+Outside of a definition of bits, an asset can also be described as an “intangible asset” as it relates to new media arts.[^tsortanidou19asset] It can play a role in defining an aesthetic or the artistic process. 
+
+[^tollington98asset]: Tollington, Tony. 1998. “Brands: The Asset Definition and Recognition Test.” Journal of Product &#38; Brand Management 7 (3): 180–92. https://doi.org/10.1108/10610429810222822.
+[^mateas05asset]: Mateas, Michael. 2005. “Procedural Literacy: Educating the New Media Practitioner.” On the Horizon 13 (2): 101–11. https://doi.org/10.1108/10748120510608133.
+[^tsortanidou19asset]: Tsortanidou, Xanthippi, Thanasis Daradoumis, and Elena Barberá. 2019. “Connecting Moments of Creativity, Computational Thinking, Collaboration and New Media Literacy Skills.” Information and Learning Sciences 120 (11–12): 704–22. https://doi.org/10.1108/ILS-05-2019-0042.
+
 ## Avatar
 
 An avatar is a digital entity or body through which a human being can experience the events within a digital world, giving the user a “subject-position within a simulated environment, a vicarious body through which the player can act as an agent in a fictional world.”[^Castronova03avatar] 
@@ -250,10 +263,9 @@ An example of digitization is taking a photo with a camera of something and then
 [^mallison23digitization]: Mallison, Theodore, “Digitization,” Georgetown University. Last modified November 29, 2023. https://guides.library.georgetown.edu/c.php?g=1347959&p=9946942
 
 ## DNS
-The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.[^techquickie16dns]
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.
 
 [^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
-[^techquickie16dns]: Techquickie. 2016. "DNS as Fast as Possible." Youtube video, 5:42. Accessed January 25, 2024. https://www.youtube.com/watch?v=Rck3BALhI5c. 
 ## E-commerce
 E-commerce, short for electronic commerce, refers to buying and selling goods and services on the internet. It is part of a bigger industry called e-business which includes all the processes that are needed to run an online company.[^Bloomental23ecommerce] Consumers can buy almost everything at any time of the day through ecommerce.[^Forbes23ecommerce]
 
@@ -324,6 +336,10 @@ GitHub's development process is distributed, allowing developers to collaborate,
 [^github24wikis]: GitHub Docs. 2024. “About wikis.” Accessed January 2. https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis.
 
 [^kinsta24what]: Kinsta. 2024. ”What Is GitHub? A Beginner's Introduction to GitHub.” Accessed January 2. https://kinsta.com/knowledgebase/what-is-github/.
+
+
+## GUI (Graphical User Interface)
+
 
 ## Haptics
 
@@ -411,6 +427,27 @@ Hypertext allows people to easily access information from multiple sources and n
 [^TedNelson1965]: Nelson, Theodor H. 1965. “Complex Information Processing: A File Structure for the Complex, the Changing, and the Indeterminate.” In ACM’65 Proceedings of the 1965 20th National Conference, 84-100.
 [^OxfordHypertext]: Oxford University Press. Oxford Advanced Learner’s Dictionary. “Hypertext”. Accessed January 28, 2024. https://www.oxfordlearnersdictionaries.com/definition/english/hypertext
 [^JSMERP16]: Koskinen, Jussi., Salminen, Airi. and Paakki, Jukka. May 1, 2004. Hypertext support for the information needs of software maintainers. Journal of Software Maintenance and Evolution: Research and Practice vol. 16. 187-215. https://doi-org.lib-ezproxy.concordia.ca/10.1002/smr.292
+
+
+## Information Architecture 
+
+
+Information architecture is an area within the field of library and information science. [^dillon05information_architecture] It is the practice of making information easily accessible and understandable.[^usibility19information_architecture]
+Thus, it involves processes such as searching, categorizing, and presenting relevant information to help individuals understand how to access the things that they are looking to find. [^rosenfeld98information_architecture]
+
+Nowadays, the term has become mostly associated with web design as it is quite useful to create a comprehensible and easily navigated website.[^dillon05information_architecture]
+But it is important to remember that the fundamental aspects of information architecture can be easily applied to the physical world and not only to the World Wide Web.[^dillon05information_architecture]
+For instance, it is put into use in most public spaces such as department stores and museums. We know exactly that we will be able to find our favorite ice cream flavor in the frozen food aisle just as we know that we will find the Egyptian sarcophagi in the wing of the museum that is dedicated to Egyptian art and artifacts.
+
+In the context of creating a website, information architecture is about setting up a framework such that the user has a cohesive, coherent, and consistent experience. 
+The word “architecture” is a fitting metaphor because to achieve such an endeavor of creating a sustainable experience for the user—to create the larger picture—it is important to understand underlying factors and the ways in which they relate to each other within these complex multidimensional information spaces.[^rosenfeld98information_architecture]
+
+Information architecture is more and more significant because we live in a world where information is never-ending.[^usibility19information_architecture]
+
+[^dillon05information_architecture]: Dillon, Andrew, and Don Turnbull. 2005. “Information Architecture.” Repository.arizona.edu. New York: Marcel Dekker. 2005.
+[^rosenfeld98information_architecture]: Rosenfeld, Louis, and Peter Morville. 1998. Information Architecture for the World Wide Web. Beijing: O’reilly. 1998.
+[^usibility19information_architecture]: Usability.gov. 2019. “Information Architecture Basics .” Usability.gov. 2019. 
+
 
 ## Internet
 
@@ -620,7 +657,7 @@ Software is a collection of commands or instructions that tell a computer how to
 [^software2]: Osterweil, Leon. 2018. “What Is Software?:” In , 59–76. https://doi.org/10.1007/978-3-319-73897-0_4.
 [^software3]: “What Is Software? Definition, Types, Examples, and More.” n.d. Accessed January 29, 2024. https://www.geeksforgeeks.org/software-and-its-types/.
 
-##Telepresence
+## Telepresence
 
 The word “telepresence” refers to real-time techniques that simulate the presence of a person in another space  using various digital systems.[^Lombard97presence]
 Telepresence technology often makes particular use of sound and sight. In particular thanks to sensors such as cameras or microphones
@@ -748,10 +785,15 @@ Alternatively, CVCS require a constant connection to the server to have access t
 
 Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 
 
+![Virtual environment](images/virtualenvironment-vigliensoni.png)
 
-![Virtual environment](https://github.com/concordia-dcart/CART210-glossary/blob/main/images/virtualenvironment-vigliensoni.png)
+[^ve1]: “What Are Virtual Environments? | IEEE Journals & Magazine | IEEE Xplore.” n.d. Accessed January 29, 2024. https://ieeexplore.ieee.org/abstract/document/250914.
+[^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”
+[^ve3]: Youngblut, Christine, Rob E Johnston, Sarah H Nash, Ruth A Wienclaw, and CraigA Will. n.d. “REVIEW OF VIRTUAL ENVIRONMENT INTERFACE TECHNOLOGY.”
 
+## Virtual Environment
 
+Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments [^ve3].These interactive computer displays are designed to create the illusion that the user has been transported to a different location [^ve1]. In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers [^ve2]. 
 
 [^ve1]: “What Are Virtual Environments? | IEEE Journals & Magazine | IEEE Xplore.” n.d. Accessed January 29, 2024. https://ieeexplore.ieee.org/abstract/document/250914.
 [^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”

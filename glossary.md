@@ -407,6 +407,30 @@ In addition, hashtags can be useful in assisting people in need. During the COVI
 
 [^PublicHealth22Instagram]: Int J Environ Res Public Health. 2022. "An Instagram Hashtag Fostering Science Education of Vulnerable Groups during the Pandemic". Accessed January 28. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8872541/
 
+# Hologram
+
+
+## Collage on the Keyword Hologram
+
+![Hologram](images/hologram-désormeaux.png)
+
+Image on the top left[^bobby19hologram]
+
+Image on the top right[^hackl20hologram]
+
+Image in the middle[^wikiepedia16hologram]
+
+Image on the bottom corner[^rosenthal21hologram]
+
+
+[^bobby19hologram]: Bobby. *Star Wars Hologram Tech is here Now !! Epic Cool Things !! Voxon Photonics*. Image. Epic Heroes. November 2, 2019. https://www.epicheroes.com/star-wars-hologram-tech-buy-now-epic-cool-voxon-photonics/.
+
+[^hackl20hologram]: Hackl, Cathy. *From Gaming To Holograms, How Tech Is Helping Candidates Campaign In The Metaverse*. Image. Forbes. November 2, 2020. https://www.forbes.com/sites/cathyhackl/2020/11/02/from-gaming-to-holograms-how-tech-is-helping-candidates-campaign-in-the-metaverse/?sh=5461f7c64055.
+
+[^wikiepedia16hologram]: Wikiepedia. *Holograms & Holographic Projectors*. Image. Wikie Pedia. April 4, 2016. https://wikiepedia.wordpress.com/2016/04/04/holograms-holographic-projectors/.
+
+[^rosenthal21hologram]: Rosenthal, Lynn. *Could Holograms Be the Future of Entertainment and Advertising?*. Image. RollingStone. December 14, 2021. https://www.rollingstone.com/culture-council/articles/holograms-future-entertainment-advertising-1268769/.
+
 ## HTTPS
 
 HTTPS is an extension of the HTTP but is more secure as it incorporates encryption, authentication, and integrity checks. It provides a secure method for transmitting data between a web server and a web browser by using encryption technology like SSL or TLS. It operates on a request-response model, it sends a request and awaits the server’s response.[^WhatIsHTTPS24]

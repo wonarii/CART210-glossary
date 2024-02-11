@@ -83,6 +83,8 @@ In both of these examples, real-world phenomena were tracked and enumerated. The
 
 [^Ricecite]: Rice, Mae. 2023.“25 Data Science Applications and Examples.” Built In, February 9, 2023. https://builtin.com/data-science/data-science-applications-examples. 
 
+“Nosebleed Vectors, Photos and PSD Files: Free Download.” Freepik. 2022. Accessed February 11, 2024. https://www.freepik.com/search?format=search&last_filter=query&last_value=nosebleed&query=nosebleed&type=photo.  
+
 ## Blockchain
 
 A blockchain is a shared and public ledger that stores data and is used to record transactions accross multiple computers. This database has a continuously growing list of information/records called blocks which are linked through cryptography. Every block stores a hash, history of the previous block, transactional data, date and time.[^berg18blockchain]

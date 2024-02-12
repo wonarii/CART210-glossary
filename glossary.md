@@ -10,6 +10,27 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+## GAN
+
+Generative adversarial networks (GANs) enable the learning of deep representations without the need 
+for significant training data annotation[^wang10GAN]. They do this by generating backpropagation signals via a 
+rival approach involving two networks meshing together[^Creswell10GAN]. Generative adversarial networks (GANs) 
+are a form of artificial intelligence that can create new instances based on patterns discovered in data. They 
+excel in creating realistic, high-quality photographs[^goodfellow10GAN]. Essentially, GANs recognize the likelihood of various 
+attributes happening in a dataset and utilize that information to generate new, comparable instances[^goodfellow10GAN]. This makes 
+them more successful than other approaches that produce pictures using deep learning, a form of sophisticated machine 
+learning methodology[^goodfellow10GAN].
+
+[^wang10GAN]: Wang, K., C. Gou, Y. Duan, Y. Lin, X. Zheng, and F. -Y. Wang. 
+"Generative adversarial networks: Introduction and outlook." IEEE/CAA Journal of Automatica Sinica 4, 
+no. 4 (2017): 588-598. doi: 10.1109/JAS.2017.7510583.
+
+[^Creswell10GAN]: Creswell, A., T. White, V. Dumoulin, K. Arulkumaran, B. Sengupta, and A. A. Bharath. "Generative Adversarial 
+Networks: An Overview." IEEE Signal Processing Magazine 35, no. 1 (January 2018): 53-65. doi: 10.1109/MSP.2017.2765202.
+
+[^goodfellow10GAN]: Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2020).
+Generative adversarial networks. Communications of the ACM, 63(11), 139–144. https://doi.org/10.1145/3422622
+
 ## Affordance
 
 Gibson (1977, 1979) coined the term “affordance” to describe what the environment “offers the individual, what it provides or furnishes, either for good or ill” .Affordances can be viewed as animal-relative properties of the environment. They correspond to the action possibilities offered to an animal by the environment with reference to the individual’s action capabilities. For example, a leaf provides support for a wasp but not for a dog. Here, the support-ability of the leaf is an affordance for the wasp. Affordances can vary not only between species but also between the individuals of the same species. A 30-cm stair is climb-able for an adult but not for a child. In sum, affordances are neither objective nor subjective, but both. They are objective because they exist independently of the act of perception. But, they are also subjective because the frame of reference is the individual’s action capabilities. 
@@ -206,9 +227,15 @@ The first copyright law passed in America was in 1790 in the United States, whic
 
 Copyright can expire after a certain amount of years. The time it takes for it to expire may vary on the country. It would then fall into the public domain, where it becomes available to be used, distributed or reworked freely.[^dulongmartin12copyright]
 
+![copyright-covaliu](../images/copyright-covaliu.png) [^pexelscopyright][^khromkrathokcopyright][^purePNGcopyright][^wikipedia2012copyright]
+
 [^govcan23copyright]: Government of Canada. "A guide to copyright." Government of Canada. Last modified January 10, 2023. https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright.
 [^davidson00copyright]: Davidson, Mary Wallace. 2000. "Copyright." *Notes 56*, no. 3 (March): 598-604. doi: https://www.jstor.org/stable/899643
 [^dulongmartin12copyright]: Dulong de Rosenay, Melanie, and Juan Carlos De Martin. 2012. *The Public Domain Manifesto*. 1st ed. Open Book Publishers. https://www.jstor.org/stable/j.ctt5vjsx3.6
+[^pexelscopyright]: Pexels. "Free Stock Photo of Old Wall." Freerange. https://freerangestock.com/photos/128596/old-wall--background-.html
+[^khromkrathokcopyright]: Khromkrathok, Natthaphong. "collection of wooden shelves on an isolated white background." Vecteezy. https://www.vecteezy.com/png/10135574-collection-of-wooden-shelves-on-an-isolated-white-background-objects-with-clipping-paths-for-design-work
+[^purePNGcopyright]: PurePNG. "Glass Jar." Pinterest. https://www.pinterest.com/pin/1120903794727045021/
+[^wikipedia2012copyright]: Wikipedia Commons. "Copyright.svg." Wikipedia. September 21, 2012. https://commons.m.wikimedia.org/wiki/File:Copyright.svg
 
 ## Creative Commons
 
@@ -308,18 +335,25 @@ The history of e-commerce dates back to even before the creation of the Internet
 [^Forbes23ecommerce]: Forbes Advisor. 2023. “What Is E-Commerce? Definition, Types & Getting Started.” Forbes. Accessed January 25. https://www.forbes.com/advisor/business/what-is-ecommerce/.
 
 ## Embodiment 
+![Embodiment](images/embodiment-rezaee.png)
+As an overall term, embodiment can carry several meanings. Embody in dictionary... Latin root of embody... Its most common use deals with physical representations of subjects both real and abstract. For example, "She is the embodiment of anger!", this concrete defintion is simple enough to understand. However depending on context the definition of the term shifts. 
 
-As an overall term, embodiment deals with physical representations of other subjects both real and abstract. For example, "She is the embodiment of anger!", this is simple enough to understand. 
+In computation and media, embodiment is a discourse that can be deeply philosophical and has a rich history. Within the body's interactions itself, there are many forms of abstraction to be dealt with. Many people have heard of the comparison of brains to computer. The early 4EA (Embodied, Embedded, Extended, Enacted, Affective) cognitive science movement questioned the notion of computation related to an organism. These thinkers arrived to the conclusion that... Today, there remains three schools of thought to consider: body conservationism, body functionalism and body enactivism. The latter of which states that cognition arises from the dynamic interaction between an organism, its body, and its environment [^kiverstein05wiki].
 
-However, depending on context the definition of the term shifts.  In computation and media, embodiment is a discourse that can be deeply philosophical and has a rich history. Within the body itself, the early 4EA (Embodied, Embedded, Extended, Enacted, Affective) cognitive science movement questioned the notion of computation related to an organism. Today, there remains three schools of thought to consider: body conservationism, body functionalism and body enactivism. The latter of which states that cognition arises from the dynamic interaction between an organism, its body, and its environment [^kiverstein05wiki].
+The social aspect of media deepens this discourse, our presence online... Our online embodiments, uch as avatars are an emphatical form of embodiment. and personas [^kleyjer01wiki].  
 
-Regarding the social aspect of media use, avatars are an emphatical part of online and offline embodiment as well as personas [^kleyjer01wiki].  Other things to consider are human interaction with the computer [^chen02wiki], immersion [^dyson03wiki], cyborgs [^haddow04wiki] and more.
+Other things to consider are human interaction with the computer [^chen02wiki], 
 
-[^chen02wiki]:Chen, Jessie YC, and Gino Fragomeni. Virtual, Augmented and Mixed Reality: Interaction, Navigation, Visualization, Embodiment, and Simulation: 10th International Conference, VAMR 2018, Held as Part of HCI International 2018, Las Vegas, NV, USA, July 15-20, 2018, Proceedings, Part I. Vol. 10909. Springer, 2018.
-[^dyson03wiki]:Dyson, Frances. Sounding New Media: Immersion and Embodiment in the Arts and Culture. Univ of California press, 2009.
-[^haddow04wiki]:Haddow, Gill. “Embodiment and Everyday Cyborgs: Technologies That Alter Subjectivity,” 2021.
-[^kiverstein05wiki]:Kiverstein, Julian. “The Meaning of Embodiment.” Topics in Cognitive Science 4, no. 4 (2012): 740–58.
-[^kleyjer01wiki]:Klevjer, Rune. “What Is the Avatar? Fiction and Embodiment in Avatar-Based Singleplayer Computer Games,” 2006.
+immersion [^dyson03wiki], 
+
+cyborgs [^haddow04wiki] and more.
+
+[^chen02wiki]:Chen, Jessie YC, and Gino Fragomeni. 2018. Virtual, Augmented and Mixed Reality: Interaction, Navigation, Visualization, Embodiment, and Simulation: 10th International Conference, VAMR 2018, Held as Part of HCI International 2018, Las Vegas, NV, USA, July 15-20, 2018, Proceedings, Part I. Vol. 10909. Springer.
+[^dyson03wiki]:Dyson, Frances. 2009. Sounding New Media: Immersion and Embodiment in the Arts and Culture. Univ of California press.
+[^haddow04wiki]:Haddow, Gill. 2021. “Embodiment and Everyday Cyborgs: Technologies That Alter Subjectivity.”
+[^kiverstein05wiki]:Kiverstein, Julian. 2012. “The Meaning of Embodiment.” Topics in Cognitive Science 4 (4): 740–58.
+[^kleyjer01wiki]:Klevjer, Rune. 2006. “What Is the Avatar? Fiction and Embodiment in Avatar-Based Singleplayer Computer Games.”
+N.d.
 
 ## Ethernet 
 
@@ -343,6 +377,8 @@ This software can be traced back to the 1960s. A system developed by Woodrow Wil
 [^klosowski20facial]: Klosowski, Thorin. “Facial Recognition Is Everywhere. Here’s What We Can Do about It.” The New York Times, July 15, 2020. https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/. 
 
 ## Firewall
+
+![Firewall](images/firewall-tran.jpg)
 
 A firewall is like a security gate that controls what comes in and out. It is a network security device that monitors the incoming and outgoing network traffic and decides whether to allow or block them based on a set of defined security rules. 
 There are different types of firewalls, such as proxy, stateful inspection, UTM, next-generation, cloud-native firewalls and more, each with different features and functions. [^Cisco24firewall]
@@ -404,6 +440,8 @@ are perhaps best known for the important role they play in the practical use of 
 [^Ahmed22hashfunctionapplications]:Ahmed, Haifaa. “A review of hash function types and their applications.” Wasit Journal of Computer and Mathematics Science, vol. 1, no. 3, 30 Sept. 2022, pp. 75–88, https://doi.org/10.31185/wjcm.52. 
 
 ## Hashtag
+
+![Hashtag](images/hashtag-tham.png)
 
 A hashtag, denoted by the symbol “#”, is a metadata tag commonly use in the Internet culture, particularly on social media.[^Merriam-Webester24Hashtag]  It originated as a feature on a post on Twitterin August 2007 from a product designer named Chris Messina. The primary purpose was to provide user with an easy way to categorize, discover and participate in specific topics on social media.[^Hastags.org12Whatis#] In addition, Tweets containing hashtags can link to a specific timeline of other tweets with the same hashtag.[^WikströmHashtagOnTwitter]
 
@@ -548,7 +586,7 @@ The term meme was introduced by the biologist Richard Dawkins in his book The Se
 
 The phrase “Internet meme” is commonly applied to describe the propagation of content items such as jokes, rumors, videos, or websites from one person to others via the Internet. According to this popular notion, an Internet meme may spread in its original form, but it often also spawns user-created derivatives. [^Shifman13meme]
 
-
+![meme](images/meme-jaafar.jpg)
 
 [^wikipedia24meme]: “Meme.” 2024. Wikipedia. Wikimedia Foundation. January 18, 2024. https://en.wikipedia.org/wiki/Meme. 
 

@@ -4,7 +4,7 @@ Agency is the “capacity, condition, or state of acting or of exerting power”
 
 Agency is felt by degrees: one can feel more or less in control. This variation is particularly clear when using machines: the feeling of control varies between different operator inputs and expected machine response. Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
 
-![agency](images/agency-hoekstra.png)
+![agency](images/agency-hoekstra-01.png)
 Image made of a composition of [^Drexler16agency] [^Al24agency] [^tumblr24agency]
 
 [^MerriamWeb24agency]: “Definition of AGENCY.” 2024. January 28, 2024. https://www.merriam-webster.com/dictionary/agency.

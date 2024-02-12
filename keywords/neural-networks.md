@@ -4,6 +4,8 @@ Neural networks are computational frameworks that mimic the brain's structure co
 
 Overall, Neural network research explores how computers can mimic the brain's way of processing information, moving away from traditional step-by-step computing to more interconnected and simultaneous methods. Researchers are trying to simplify and understand how these brain-like systems can solve complex tasks by focusing on neurons, which are like tiny processing units influenced by their connections' strengths. They also look into how these networks learn and improve through a process called backpropagation. [^BasicIdeasInNeuralNetworks] .
 
+![Neural Networks](https://i.imgur.com/t2V3Z06.png)
+
 [^NeuralNetworksHerve]:Abdi, Hervé. 1999. "Neural Networks." Quantitative Applications in the Social Sciences Series, no-07-124, Sage Publications.
 
 [^NeuralNetworksBishop]:Bishop, Chris. 1994. "Neural networks and their applications."  Rev. Sci. Instrum, 65, 1803–1832, AIP Publishing.

@@ -357,6 +357,8 @@ This software can be traced back to the 1960s. A system developed by Woodrow Wil
 
 ## Firewall
 
+![Firewall](images/firewall-tran.jpg)
+
 A firewall is like a security gate that controls what comes in and out. It is a network security device that monitors the incoming and outgoing network traffic and decides whether to allow or block them based on a set of defined security rules. 
 There are different types of firewalls, such as proxy, stateful inspection, UTM, next-generation, cloud-native firewalls and more, each with different features and functions. [^Cisco24firewall]
 

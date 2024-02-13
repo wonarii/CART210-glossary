@@ -612,6 +612,8 @@ Techniques used are called dictionary code and run length encoding. Run length e
 
 In our contemporary world, lossless compression is important because we live in a digital era, where more often than not we are constantly sharing information online to our friends, peers and colleagues. Whether it’s images or text files, lossless compression plays a crucial role since it important to be able to send out information quickly and efficiently without losing any of that data.
 
+![lossless.md](images/collage.jpg)
+
 [^crashcourse2017lossless]: CrashCourse. 2017.“Compression: Crash Course Computer Science #21.” YouTube. https://youtu.be/OtDxDvCpPL4?si=N7dJNUot4i-9CwiZ. 
 [^lu2016lossless]: Lu, Zhe-Ming, and Shi-Ze Guo. 2016. Lossless information hiding in images. Elsevier Science. https://www.overdrive.com/media/3040124/lossless-information-hiding-in-images. 
 [^brian2022lossless]: Pickle, Brian, and Per Christensson. 2022. “Lossless.” Definition - What is lossless compression?. https://techterms.com/definition/lossless. 

@@ -594,7 +594,7 @@ The Internet functions as an interactive medium, linking millions of devices and
 
 The Internet has empowered ordinary citizens by making it easier for them to produce and distribute information to a variety of audiences. This transformation has caused a fundamental shift in the traditional media landscape. [^Zare24internet5]
 
-
+![internet](images/internet-zare.PNG)
 
 [^Zare24internet1]: "What Is the Internet?" Spiceworks. Accessed January 28, 2024. https://www.spiceworks.com/tech/networking/articles/what-is-the-internet/.
 

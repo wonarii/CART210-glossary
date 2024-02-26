@@ -18,3 +18,4 @@ Using the Pantone system is good for printing projects that do not have many col
 
 [^pantone24what]: Pantone. 2024. "What Are Pantone Color Systems?" Accessed January 17, 2024. https://www.pantone.com/color-systems/pantone-color-systems-explained.
 [^paperstreet09when]: PaperStreet. 2009. "When to Use CMYK colors v. Pantone colors." Accessed January 17, 2024. https://www.paperstreet.com/blog/why-you-need-to-know-cmyk-colors-v-pantone-colors/.
+[^google11pantone20th]: Recker, Keith, and Eiseman, Leatrice. 2011. "Pantone: The 20th Century in Color." Google Books. Accessed February 26, 2024. https://books.google.ca/books?hl=en&lr=&id=j3H7nSVS3UMC&oi=fnd&pg=PT30&dq=pantone&ots=Z2JxhzF6kE&sig=oMEFJIjK8u69g0HMPX2Au_LEz9A#v=onepage&q=pantone&f=false.

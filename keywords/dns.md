@@ -1,12 +1,12 @@
 ## DNS
-The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to navigate to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.
 In short, the DNS allows a more user-friendly interface for users to navigate the Internet through human-readable host names.[^acm01dns]
 
 ![DNS](images/dns-chan.jpg)
 
 ### Domain Namespace
 #### Search Structure
-The DNS is a database that contains information on namespaces and provides the browser with the appropriate information from internet hosts to allow the navigator to reach the right places. It uses the domain namespace, a collection of all the domain names existing on the internet, to perform the search. This system is built on an inverted tree diagram where the initial point splits into several segments that also divide into more subsegments. As the search reaches lower into the tree, the more specific the namespace becomes. The nodes at root of the tree are referred as top-level domain names (TLD).[^google06dnsbind]
+The DNS is a database that contains information on namespaces and provides the browser with the appropriate information from internet hosts to allow the navigator to reach the right places. It uses the domain namespace, a collection of all the domain names existing on the internet, to perform the search. This system is built on an inverted tree diagram where the initial point splits into several segments that also divide into more subsegments. As the search reaches lower into the tree, the more specific the namespace becomes. The nodes at the root of the tree are referred to as top-level domain names (TLD).[^google06dnsbind]
 
 <img src="https://www.oreilly.com/api/v2/epubs/0596005628/files/httpatomoreillycomsourceoreillyimages137590.png" width="600px" height="auto" alt="Diagram of the struture of the doamin namespace">
 
@@ -28,9 +28,10 @@ The obvious relation between the DNS and new media is through everything that ne
 Therefore, all new media platforms in the form of websites, applications and other online formats require IP addresses and a corresponding domain name. Without the DNS, it would be much harder to navigate the Web and access new media content.
 
 #### TLDs and New Media Art
-The DNS allows artists to choose namespaces that corresponds to their work and specializations. This creates room for artists to express themselves by using the DNS and namespaces as a way to establish a unique name reflecting their brand.
+The DNS allows artists to choose namespaces that correspond to their work and specializations. This creates room for artists to express themselves by using the DNS and namespaces as a way to establish a unique name reflecting their brand.
 
-Several examples for top-level domains avaiable for artists, designers and creators to buy include:[^wiki24list]
+Several examples of top-level domains available for artists, designers and creators to buy include:
+[^wiki24list]
 - **.actor**
 - **.art**
 - **.design**

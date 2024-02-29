@@ -60,16 +60,37 @@ Image made of a composition of [^Drexler16agency] [^Al24agency] [^tumblr24agency
 ## API
 The Application Programming Interface (API) is responsible for transmitting data from one device to another by taking in a request and responding with the data requested.
 
-A main advantage of using an API to communicate between the client and the server rather than sending a direct query to the databases is that it protects the database from potential security risks. It also allows developers to keep a similar syntax when requesting data from any type of database. [^dreanfactory2023understanding]
+### Advantage and Purpose of APIs
+
+The advantage of using an API to communicate between the client and the server rather than sending a direct query to the databases is that it protects the database from potential security risks. It also allows developers to keep a similar syntax when requesting data from any type of database. [^dreanfactory2023understanding]
 The purpose of an API is to provide the client, whether a mobile application, website or other software, the information to build their product.
 
-There are APIs for different purposes. For example, if making an application that gives information on the weather, an API for the weather would be used to gather the necessary information. The developer or client would send a request to the API server that would return a response including some data. Using APIs also helps construct flexible applications by allowing developers to add functionalities easily to an existing project.[^aws24what] 
+Several APIs are available on the Internet with different sets of data pertinent for various purposes. For example, if making an application that gives information on the weather, an API for the weather would be used to gather the necessary information. The developer or client would send a request to the API server that would return a response including some data. Using APIs also helps construct flexible applications by allowing developers to add functionalities easily to an existing project.[^aws24what] Anyone can easily integrate APIs into their projects by searching for them online. However, they are mostly implemented by programmers since it is not meant to be used by the end-user.[^wiki24api]
 
-Anyone can easily integrate APIs into their projects by searching for them online. However, they are mostly implemented by programmers since it is not meant to be used by the end-user.[^wiki24api]
+### Types of APIs
+There are several types of APIs available for developers depending on the needs of a project. Each type of API has its own architecture and data formats.
+#### Representational State Transfer (REST or RESTful):
+The architecture of the REST API relies on six constraints, a uniform interface, a client-server decoupling, statelessness, storing cache, a layered system architecture and code on demand.
+This gives developers consistent data that are uniform and predictable, making it easier for them to understand and put the information requested to use. The data can be delivered in several kinds of formats such as JSON, HTML, SLT, Python, PHP and plain text.
+This type of API is ideal for web and mobile applications as it allows flexibility in programming languages. It is also able to handle large numbers of users simultaneously.[^ibm24what]
+
+#### Simple Object Access Protocol (SOAP):
+SOAP API, in comparison to REST API, is more rigid in its structure and only returns data in an XML format. It is most used when building on outdated systems which already use the protocol. There are also advantages in using SOAP for its tighter security beneficial to internal applications. It is also a better option if the integrity of the data is important as it implements the Atomicity, Consistency, Isolation, and Durability (ACID) properties. It is more reliable at the cost of less flexibility.[^aws24soap]
+
+#### GraphQL (Query Language):
+GraphQL is a query language signifying that the developer can use queries to request specific data. The string is sent to the server for interpretation and responds to the request with a JSON. It was developed by Facebook[^meta15graphql] and is the most modern standard for APIs after REST. It allows developers to avoid over-fetching data and only collecting what they request.[^graphql24basics] The developer can specify the structure of the response it needs for certain tasks. Additionally, GraphQL can retrieve the required data with a single request which reduces redundant communication between the client and the server.
+
+### APIs and Art
+Some museums have incorporated new technologies in the recent decade to provide more accessibility. One of the way to acheive that was by openly sharing a  database of their art collection online accessible to anyone through thier API. For example, the Metropolitan Museum of Art introduced the Metropolitan Museum of Art Met Collection API with an Open Access policy, allowing the distribution of their collection for the public domain. The data also includes relevant information on the history, artist and other details along with the works.[siegel18APIs] This reflects the integration of APIs in the art world and its impact on how we consume art. 
 
 [^wiki24api]: Wikipedia. 2024. "API". Accessed January 29, 2024. https://en.wikipedia.org/wiki/API
-[^aws24what]: AWS. 2024. "What is an API (Application Programming Interface)?" Accessed January 29, 2024. https://aws.amazon.com/what-is/api/.
+[^aws24what]: 2024. "What is an API (Application Programming Interface)?" AWS. Accessed January 29, 2024. https://aws.amazon.com/what-is/api/.
 [^dreanfactory2023understanding]: Nguyen, Spencer. 2023. "Understanding the Connection Between Databases and APIs." Accessed January 25, 2024. https://blog.dreamfactory.com/understanding-the-connection-between-databases-and-apis/#:~:text=APIs%20facilitate%20communication%20between%20applications,layer%20of%20protection%20to%20databases.
+[^ibm24what]: 2024. "What Is a Rest Api?" IBM. Accessed February 26, 2024. https://www.ibm.com/topics/rest-apis. 
+[^aws24soap]: 2024 "What is the Difference Between SOAP and REST?" AWS. Accessed February 26, 2024. https://aws.amazon.com/compare/the-difference-between-soap-rest/. 
+[^graphql24basics]: 2024. "GraphQL is better than REST." How to GraphQL. Accessed February 26, 2024. https://www.howtographql.com/basics/1-graphql-is-the-better-rest/. 
+[^meta15graphql]: Byron, Lee. 2015. "GraphQL: A data query language." Engineering at Meta. Accessed February 26, 2024. https://engineering.fb.com/2015/09/14/core-infra/graphql-a-data-query-language/
+[siegel18APIs]: Siegel, Camille. 2018. "APIs and the art world: Working together for digital collaboration." Axway. https://blog.axway.com/product-insights/amplify-platform/application-integration/apis-art-world.
 ## Asset
 
 The definition of asset in a general context is rooted in the business and economics. In a paper on the definition of a brand asset, the term is defined as a symbol that helps identify goods or services that differentiates it from its competitors.[^tollington98asset]
@@ -336,12 +357,54 @@ An example of digitization is taking a photo with a camera of something and then
 [^mallison23digitization]: Mallison, Theodore, “Digitization,” Georgetown University. Last modified November 29, 2023. https://guides.library.georgetown.edu/c.php?g=1347959&p=9946942
 
 ## DNS
-The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to naviagte to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.
+The Domain Name System is a system that matches the name in the URL to the IP address of the sites we are looking for on the Internet. This makes it easier for us to navigate to our favorite websites rather than remembering their IP addresses.[^couldflare24what] The DNS provides the corresponding IP address to the domain name for browsers to find the page we are searching for.
+In short, the DNS allows a more user-friendly interface for users to navigate the Internet through human-readable host names.[^acm01dns]
 
 ![DNS](images/dns-chan.jpg)
 
-[^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
+### Domain Namespace
+#### Search Structure
+The DNS is a database that contains information on namespaces and provides the browser with the appropriate information from internet hosts to allow the navigator to reach the right places. It uses the domain namespace, a collection of all the domain names existing on the internet, to perform the search. This system is built on an inverted tree diagram where the initial point splits into several segments that also divide into more subsegments. As the search reaches lower into the tree, the more specific the namespace becomes. The nodes at the root of the tree are referred to as top-level domain names (TLD).[^google06dnsbind]
 
+<img src="https://www.oreilly.com/api/v2/epubs/0596005628/files/httpatomoreillycomsourceoreillyimages137590.png" width="600px" height="auto" alt="Diagram of the struture of the doamin namespace">
+
+
+#### Seven Top-Level Domain Names (TLD) That Divide The Internet
+To host a website on the Internet, we are required to buy a root domain which includes the domain name and the TLD. The combination creates a website address such as _google.com_. Originally, there were seven top-level domain names that reflected the nature of the organization behind the website. 
+- **.com** : Commercial use.
+- **.edu** : Educational organizations.
+- **.gov** : Government websites.
+- **.mil** : Military websites.
+- **.net** : For NSFNET and UUNET, and commercial use after 1996.
+- **.org** : Noncommercial organizations (before 1996).
+- **.int** : International organizations.
+
+Today, other domains were added with the expansion of the Internet, allowing for a larger pool of available namespaces.[^google06dnsbind] Big companies like Apple, Google, Audible, Amazon, Best Buy, and more own TLDs that are reserved strictly for their use and inaccessible to the public.
+
+### DNS and New Media
+The obvious relation between the DNS and new media is through everything that needs to connect to the Internet.
+Therefore, all new media platforms in the form of websites, applications and other online formats require IP addresses and a corresponding domain name. Without the DNS, it would be much harder to navigate the Web and access new media content.
+
+#### TLDs and New Media Art
+The DNS allows artists to choose namespaces that correspond to their work and specializations. This creates room for artists to express themselves by using the DNS and namespaces as a way to establish a unique name reflecting their brand.
+
+Several examples of top-level domains available for artists, designers and creators to buy include:
+[^wiki24list]
+- **.actor**
+- **.art**
+- **.design**
+- **.digital**
+- **.graphics**
+- **.media**
+- **.studio**
+- **.tech**
+- etc.
+
+
+[^couldflare24what]: CloudFlare. 2024. "What is DNS? | How DNS works." Accessed January 25, 2024. https://www.cloudflare.com/learning/dns/what-is-dns/.
+[^acm01dns]: Jung, Jaeyeon, Sit, Emil, Balakrishnan, Hari and Morris, Robert. 2001. "DNS Performance and the Effectiveness of Caching: Proceedings of the 1st ACM SIGCOMM Workshop on Internet Measurement." ACM Conferences. Accessed February 26, 2024. https://dl.acm.org/doi/epdf/10.1145/505202.505223.
+[^google06dnsbind]: Liu, Cricket, and Albitz, Paul. 2006. "How Does DNS Work?" DNS and Bind, 11-34. Google Books. Accessed February 26, 2024. https://books.google.ca/books?hl=en&lr=&id=u0GbAgAAQBAJ&oi=fnd&pg=PT4&dq=DNS&ots=6-v2uEt-Oy&sig=wV_8GvQVJJORsEiKSgDny91vV3A#v=onepage&q&f=false. 
+[^wiki24list]: 2024. "List of Internet Top-Level Domains." Wikipedia. Accessed February 26, 2024. https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains. 
 ## E-commerce
 E-commerce, short for electronic commerce, refers to buying and selling goods and services on the internet. It is part of a bigger industry called e-business which includes all the processes that are needed to run an online company.[^Bloomental23ecommerce] Consumers can buy almost everything at any time of the day through ecommerce.[^Forbes23ecommerce]
 
@@ -758,13 +821,17 @@ This system is useful for projects a variety of projects unrelated to prints. It
 
 The purpose of having two color systems is to better control the appearance of color depending on the material the designer works with. Some colors can not be produced on certain materials. The Pantone system helps designers guarantee that the end product will match the exact Pantone color swatch they chose during production.
 
-### Pantone vs CMYK
-Pantone is more costly than printing in CMYK since it requires more labor. The print technician must follow color mix specifications to achieve the exact Pantone swatch requested. This process creates a color that is solid and saturated. On the other hand, CMYK in printing separates the file into cyan, magenta, yellow and black. Dots of each colors are printed on the surface to reach the final product. This can sometimes create variations in color differing from what is seen on the computer screen.[^paperstreet09when]
+### Pantone vs [CMYK](../main/glossary.md#CMYK)
+Pantone is more costly than printing in [CMYK](../main/glossary.md#CMYK) since it requires more labor. The print technician must follow color mix specifications to achieve the exact Pantone swatch requested. This process creates a color that is solid and saturated. On the other hand, [CMYK](../main/glossary.md#CMYK) in printing separates the file into cyan, magenta, yellow and black. Dots of each colors are printed on the surface to reach the final product. This can sometimes create variations in color differing from what is seen on the computer screen.[^paperstreet09when]
 
-Using the Pantone system is good for printing projects that do not have many colors. It also allows designers to print colors unachievable with CMYK such as gold, silver and neon colors. However, CMYK can also do a decent print job, especially for projects with color photography. It is up to the designer to decide which system better suits their project.
+Using the Pantone system is good for printing projects that do not have many colors. It also allows designers to print colors unachievable with [CMYK](../main/glossary.md#CMYK) such as gold, silver and neon colors. However, [CMYK](../main/glossary.md#CMYK) can also do a decent print job, especially for projects with color photography. It is up to the designer to decide which system better suits their project.
+
+### Pantone in New Media Art
+The Pantone color system promises artists consistency in their color palettes throughout the various formats of their projects. This allows the artist to be confident in the accuracy of their color whether digitally or printed, regardless of the material. The color system is available on industry-approved applications like the Adobe Suite used in many media production.[^rhyne17applying] 
 
 [^pantone24what]: Pantone. 2024. "What Are Pantone Color Systems?" Accessed January 17, 2024. https://www.pantone.com/color-systems/pantone-color-systems-explained.
 [^paperstreet09when]: PaperStreet. 2009. "When to Use CMYK colors v. Pantone colors." Accessed January 17, 2024. https://www.paperstreet.com/blog/why-you-need-to-know-cmyk-colors-v-pantone-colors/.
+[^rhyne17applying]: Rhyne, Theresa-Marie. 2017. "Applying Color Theory to Digital Media and Visualization." Accessed February 26, 2024. https://dl.acm.org/doi/pdf/10.1145/3027063.3076594. 
 ## Pattern Recognition
 
 Pattern Recogntion is a machine learning process in which the computer is fed a large pool of data that they will attempt to find regularities in order to automatically recognise the content. This recognition can be applied to any form of media whether it be text, images, sounds and much more. It is also expected that the algorithm can "recognize and classify unfamiliar objects, recognize shapes and objects from different angles, and identify patterns and objects even if they’re partially obscured."[^citation1]

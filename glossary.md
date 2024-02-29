@@ -386,13 +386,16 @@ Ethernet usually offers faster internet connection than Wi-Fi because of its use
 
 ## Facial Recognition
 
-Facial recognition is a recognition system that utilizes biometrics to detect, analyze, and recognize faces.[^kaur20facial] The process can be broken down into three technologies: detection, analysis, and recognition. Detection infers the training of an algorithm to recognize faces; The detected faces are then mapped and converted into a “faceprint”[^klosowski20facial]. Finally, and most notably, faceprints are compared to individuals in a database to find their closest match.[^klosowski20facial]
+Facial recognition is a recognition system that utilizes biometrics to detect, analyze, and recognize faces.[^kaur20facial] The process can be broken down into three technologies: detection, analysis, and recognition. Detection infers the training of an algorithm to recognize faces; The detected faces are then mapped and converted into a “faceprint”.[^klosowski20facial] Finally, and most notably, faceprints are compared to individuals in a database to find their closest match.[^klosowski20facial] Face recognition is, defined by the IEEE, is an umbrella term capturing all "related technologies for building a face recognition system," including "face detection, face position, identity recognition, image preprocessing, etc"[^li20facial]. 
 
-This software can be traced back to the 1960s. A system developed by Woodrow Wilson Bledsoe in which an "unknown face is compared against data points of previously entered pictures".[^klosowski20facial]
+This software can be traced back to the 1960s. A system developed by Woodrow Wilson Bledsoe in which an "unknown face is compared against data points of previously entered pictures".[^klosowski20facial] As computers became more powerful, they began utilizing neural networks in the recognition process, resulting in the development of databases of faces. Such algorithms were predominantly trained on white males, thus leading to a higher rate of misidentification amongst BIPOC and female faces.[^klosowski20facial] Furthermore, facial recognition - notably its increasing use by governments - has given rise to security concerns, including the archiving of biometric information and images to build their databases.[^klosowski20facial]. Despite these worries, facial recognition has trickled into our day-to-day lives: face ID has become a vital and normalized feature of our mobile devices. Hence, this recognition technology and its increasing presence in our systems contributes to the growth of surveillance capitalism.
+
 
 [^kaur20facial]: Kaur, Paramjit, Kewal Krishan, Suresh K Sharma, and Tanuj Kanchan. 2020. “Facial-Recognition Algorithms: A Literature Review.” Medicine, Science and the Law 60 (2): 131–39. https://doi.org/10.1177/0025802419893168.
 
 [^klosowski20facial]: Klosowski, Thorin. “Facial Recognition Is Everywhere. Here’s What We Can Do about It.” The New York Times, July 15, 2020. https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/. 
+
+[^li20facial]: Li, Lixiang, Xiaohui Mu, Siying Li, and Haipeng Peng. “A Review of Face Recognition Technology.” IEEE Access 8 (2020): 139110–20. https://doi.org/10.1109/access.2020.3011028. 
 
 ## Firewall
 
@@ -761,11 +764,12 @@ Other practical applications of pattern recognition can be found in every day li
 
 ## Posthuman
 
-The posthuman is a broad concept defined by two differing - and at times contradicting - schools of thought: the posthuman as "a category that attempts to capture some future configuration"[^rugo20posthuman] and the posthuman as "a condition."[^rugo20posthuman]
-
-On one hand, the posthuman is a subject of human enhancement characterized by at least one capacity that transcends human limitations, unaided by modern technology[^bostrom06posthuman]. This view implies the use of advanced technology, genetic manipulation, and biointervention [^cohen21posthuman] to bring to life such 'advancements' to the human being. On the other hand, the posthuman is also conceived as a critique of humanism, the centralization of the human amongst non-humans, and the idea of man as a measure of all things. Unlike the former school of thought, which seeks to further human superiority - "an extension of rational mastery"[^rugo20posthuman], this philosophical framework "promotes horizontal ontologies and expanded ethics."[^rugo20posthuman]
-
 ![Posthuman](images/posthuman-hoang.jpg)
+
+The posthuman is a broad concept defined by two differing - and at times contradicting - schools of thought: the posthuman as "a category that attempts to capture some future configuration"[^rugo20posthuman] and the posthuman as "a condition."[^rugo20posthuman] On one hand, the posthuman is a subject of human enhancement characterized by at least one capacity that transcends human limitations, unaided by modern technology[^bostrom06posthuman]. This view implies the use of advanced technology, genetic manipulation, and biointervention [^cohen21posthuman] to bring to life such 'advancements' to the human being. On the other hand, the posthuman is also conceived as a critique of humanism, the centralization of the human amongst non-humans, and the idea of man as a measure of all things. Unlike the former school of thought, which seeks to further human superiority - "an extension of rational mastery"[^rugo20posthuman], this philosophical framework "promotes horizontal ontologies and expanded ethics."[^rugo20posthuman]
+
+
+
 
 
 [^bostrom06posthuman]: Bostrom, Nick. Why I want to be a posthuman when I grow up. 2006. https://nickbostrom.com/posthuman.pdf. 
@@ -1006,6 +1010,20 @@ Virtual environments are the technology which facilitates interactions between u
 [^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”
 [^ve3]: Youngblut, Christine, Rob E Johnston, Sarah H Nash, Ruth A Wienclaw, and CraigA Will. n.d. “REVIEW OF VIRTUAL ENVIRONMENT INTERFACE TECHNOLOGY.”
 
+## Wearable Technology
+
+Wearable technology - also referred to as 'wearables' - encapsulates all wireless devices incorporated in consumers' everyday accessories and clothing. Although originally referring to items that can be worn (and sequentially, removed), new technological advancements have redefined the term to include more invasive forms of wearable technology, such as implanted microchips and smart tattoos[^ometov21wearableTech]. 
+
+The market for wearable technology is rising exponentially as it allows the seamless incorporation of computers and electronics such as handheld mobile devices into people's lives. Common examples of such technology are tracking bracelets and smartwatches, which utilise sensors to track users' biometrics[^ferreira21wearableTech]. On top of lending improvements to people's everyday lives, they are also useful in numerous other domains, such as health care, fitness, education, finance, and gaming[^wright14wearableTech].
+
+Wearables have developed a 'smartphone-like experience'[^ometov21wearableTech], allowing users to handle 'calls, emails, texts, and many other alerts without even getting the bulky devices out'[^ometov21wearableTech]. As they continue to evolve, industry analyst Walt Maclay argues that they will further absorb our personal lives, 'taking existing wearables such as eyeglasses, watches, hear-ing aids, and jewelry, and enhancing them with sensors'[^wright14wearableTech]. This falls in junction with new media theory; The virtualization and digitization of our reality - of our body - through wearable technology. Wearables are a prime instance of technology becoming further abstracted, blurring the lines between what is and isn't machine by incorporating it on (and in) our bodies. 
+
+
+[^ferreira21wearableTech]: Ferreira, João J., Cristina I. Fernandes, Hussain G. Rammal, and Pedro M. Veiga. “Wearable Technology and Consumer Interaction: A Systematic Review and Research Agenda.” Computers in Human Behavior 118 (May 2021): 106710. https://doi.org/10.1016/j.chb.2021.106710. 
+
+[^ometov21wearableTech]: Ometov, Aleksandr, Viktoriia Shubina, Lucie Klus, Justyna Skibińska, Salwa Saafi, Pavel Pascacio, Laura Flueratoru, et al. “A Survey on Wearable Technology: History, State-of-the-Art and Current Challenges.” Computer Networks 193 (July 2021): 108074. https://doi.org/10.1016/j.comnet.2021.108074. 
+
+[^wright14wearableTech]: Wright, Robin, and Latrina Keith. “Wearable Technology: If the Tech Fits, Wear It.” Journal of Electronic Resources in Medical Libraries 11, no. 4 (October 2, 2014): 204–16. https://doi.org/10.1080/15424065.2014.969051. 
 
 ## Wiki
 

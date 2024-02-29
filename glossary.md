@@ -182,6 +182,24 @@ start posting your own writing or art no matter how niche it is.
 
 [^greatcontent22blog]: GreatContent. “What Is Blogging & How to Start It?” GreatContent, November 8, 2022. https://greatcontent.com/pillar/what-is-blogging/. 
 
+## Brain Interfaces
+
+![Brain Interfaces](../images/brain-interface-on_line.png)[^Angelsimon]
+
+Brain Interfaces, also commonly called Brain-computer interfaces (BCIs) enables users to send messages or commands directly via brain activity, without movement. It is a communication system in which messages or commands of an individual sending it to the external world do not pass through the brain’s normal output pathways of peripheral nerves and muscles.[^GugerChris]
+
+Brain-compiter interfaces raise and confront on level of philosophical and cultural questions to be asked. Initially, known in the realm of science fiction and popular movies, such as The Matrix(1999), the audiences has been confronted ot this idea of being connected via the brain/spine "plugged" to a virtual reality world or memory upload.[^CaldwellEverett]
+
+In the view of Hayles, she engages with the facts that the body can be integrated with technology or without technology, but stands with the complexity of the material world: "If my nightmare is a culture inhabited by posthumans who regard their bodies as fashion accessories rather than the ground of being, my dream is a version of the posthuman that embraces the possibilities of information technologies without being seduced by fantasies of unlimited power and disembodied immortality, that recognizes and celebrates finitude as a condition of human being, and that understands human life is embedded in a material world of great complexity, one on which we depend for our continued survival."[^Hayles]
+
+[^Angelsimon]: Simon, Angel. "Textura de un cerebro fresco de cordero". Education License - Adobe Stock. Assessed February 12, 2024. https://stock.adobe.com/ca/Library/urn:aaid:sc:VA6C2:82f1f676-07ac-428f-92d4-006bfcf3333e?asset_id=123121549.
+
+[^GugerChris]: Guger, Christoph, Allison, Brendan Z., and Aysegul Gunduz. 2021. "Brain-Computer Interface Research: A State-of-the-Art". Brain-Computer Interface Research, SpringerBriefs in Electrical and Computer Engineering.
+
+[^CaldwellEverett]: Everett, Anna, Caldwell, John T. 2003. "New Media: Theories and Practices of Digitextuality". Routelegde.
+
+[^Hayles]: Hayles, Katherine. 1999. "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics." University of Chicago Press.
+
 ## CMYK
 
 CMYK is a color model used in printing. It is an abbreviation of **C**yan, **M**agenta, **Y**ellow, and **K**ey (black, which refers to printing plates being keyed or aligned to the black printing plates) which provides a more reliable reproduction of images that RGB cannot provide. It is also used quite a bit thanks to its incredible accuracy that it can hold. While it is not the most accurate with darker tones (leading it to become lighter in rare cases) it still holds up to be the most accurate.
@@ -292,7 +310,7 @@ Cryptocurrency is a type of digital or virtual currency that uses cryptography f
 
 
 #### Collage demonstrating the importance of CSS in webpages
-![NYT website is not feeling well](../images/css-polonsky.png)
+![NYT website is not feeling well](images/css-polonsky.png)
 
 [^meyer01css]:Meyer, Eric A. 2006. "CSS: The Definitive Guide: The Definitive Guide." O'Reilly Media, Inc.
 [^robbins02css]:Robbins, Jennifer Niederst. 2012. "Learning web design: A beginner's guide to HTML, CSS, JavaScript, and web graphics." O'Reilly Media, Inc.
@@ -747,9 +765,9 @@ Natural Language Processing (NLP) is a broad field driven by both computerized a
 As this topic related to Natural Language Processing (NPL) remains a very active area for research and development, many might acknowledge that a one-size-fits-all approach for definiting this field might not fit all. Altought, a commont central purpose and understanding knowledge remains including the goal of achieving human-like language processing for a various of tasks and application.[^Liddy02NPL]
 
 
-[^Chowdhary01NPL]: Chowdhary, K.R. 2020. *Fundamentals of Artificial Intelligence*. India: Springer Nature: 603-649. doi:10.1007/978-81-322-3972-7.
+[^Chowdhary01NPL]: Chowdhary, K.R. 2020. "Fundamentals of Artificial Intelligence". India: Springer Nature: 603-649. 
 
-[^Liddy02NPL]: Liddy, E.D. 2001. *Natural Language Processing*. In Encyclopedia of Library and Information Science, 2nd Ed. NY. Marcel Decker, Inc. 
+[^Liddy02NPL]: Liddy, E.D. 2001. "Natural Language Processing*. In Encyclopedia of Library and Information Science". Marcel Decker, Inc. NY. 2nd Ed. 
 
 
 ## Network Security

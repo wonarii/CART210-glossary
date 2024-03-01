@@ -184,7 +184,7 @@ start posting your own writing or art no matter how niche it is.
 
 ## Brain Interfaces
 
-![Brain Interfaces](../images/brain-interface-on_line.png)[^Angelsimon]
+![Brain Interfaces](images/brain-interface-on_line.png)[^Angelsimon]
 
 Brain Interfaces, also commonly called Brain-computer interfaces (BCIs) enables users to send messages or commands directly via brain activity, without movement. It is a communication system in which messages or commands of an individual sending it to the external world do not pass through the brain’s normal output pathways of peripheral nerves and muscles.[^GugerChris]
 

@@ -90,3 +90,14 @@ That link will display this image:
 Background image taken from [^reschke07wallpaper]
 
 [^reschke07wallpaper]: Reschke, Michael. 2007. “800x600 Wallpaper Blue Sky.png.” Wikimedia Commons. December 27. https://commons.wikimedia.org/wiki/File:800x600_Wallpaper_Blue_Sky.png.
+
+
+## Creating connections to other entries in the repository
+
+To create links to other entries you have to create a hyperlink using the Markdown format. Use relative linking for this. 
+
+For example, if you want to create links for the entries `Github`, `Wiki`, and `JPEG`, you add the following Markdown syntax:
+
+```
+[GitHub](../main/glossary.md#GitHub), [Wiki](../main/glossary.md#wiki), [JPEG](../main/glossary.md#JPEG)
+```

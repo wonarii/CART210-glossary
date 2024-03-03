@@ -511,6 +511,26 @@ Networks: An Overview." IEEE Signal Processing Magazine 35, no. 1 (January 2018)
 [^goodfellow10GAN]: Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2020).
 Generative adversarial networks. Communications of the ACM, 63(11), 139–144. https://doi.org/10.1145/3422622
 
+## Git
+
+### Definition
+
+Git is a free, [open source](./opensource.md), and dedicated [version control](./version_control.md) and source code management software. It was created in 2005, when a group of volunteers working on the Linux Kernel had to quickly find a new version control system after a conflict happened with their previous source control management providers, BitKeeper. No longer being able to use this system without paying to use it, and with other free-to-use solutions not being able to fit their development needs, they instead created their own system.[^Geeksforgeeks-Git]
+
+One of its main features is its ability to create branches[^Git-Git]; Different versions of the same code that are independant from each other, but still lets you copy the changes made in another branch into your own if needed. Another important feature is the staging state before a commit is fully completed, which allows you to select which changes will be included in a specific commit.
+
+### Repository Hosting Platforms that use Git[^Opensource-Git]
+
+- [GitHub](./github.md)
+- GitLab
+- Bitbucket
+- SourceForge
+
+[^Geeksforgeeks-Git]: GeeksForGeeks. 2021. "History of Git." GeeksForGeeks. [https://www.geeksforgeeks.org/history-of-git/](https://www.geeksforgeeks.org/history-of-git/)
+
+[^Git-Git]: Git. "About." Git. Accessed March 1, 2024. [https://git-scm.com/about](https://git-scm.com/about)
+
+[^Opensource-Git]: Opensource. 2018. "6 places to host your git repository." Opensource. [https://opensource.com/article/18/8/github-alternatives](https://opensource.com/article/18/8/github-alternatives)
 
 ## GitHub
 GitHub is a web-based platform for version control and collaboration using Git,[^github24wikis] allowing users to manage and share code in various repositories and offering wikis for documentation and collaborative editing. GitHub employs Git software, offering distributed version control, access control, bug tracking, feature requests, task management, continuous integration, and project [wikis](../main/glossary.md#wiki).[^kinsta24what]
@@ -1071,7 +1091,7 @@ UX, also known as UX design or User Experience, is a concept in the field of hum
 
 Version Control Systems (VCS) are a type of [software](./software.md) used in programming. Their purpose is to help manage code during the development of a project so as to ensure a proper workflow and effort coordination in the development team.
 
-Namely, it keeps track of every change made in the project and by whom, it allows the possibility to protect certain versions of the code from being edited directly, and lets people work on different "branches" of the same code before merging them together, usually after being reviewed by at least another person. It's also useful when trying to find bugs in the code that appear in later versions by comparing it to older ones.[^Atlassian-VCS]
+Namely, it keeps track of every change made in the project and by whom, it allows the possibility to protect certain versions of the code from being edited directly and lets the code updates get reviewed by at least another person before being merged into the rest of. It's also useful when trying to find bugs in the code that appear in later versions by comparing it to older ones.[^Atlassian-VCS]
 
 ### Types of VCS
 
@@ -1083,7 +1103,7 @@ Alternatively, CVCS require a constant connection to the server to have access t
 
 ### Examples of version control systems
 
-- Git - DVCS
+- [Git](./git.md) - DVCS
 - Bitbucket - DVCS
 - Mercurial - DVCS
 - Subversion - CVCS

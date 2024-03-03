@@ -96,8 +96,15 @@ Background image taken from [^reschke07wallpaper]
 
 To create links to other entries you have to create a hyperlink using the Markdown format. Use relative linking for this. 
 
-For example, if you want to create links for the entries `Github`, `Wiki`, and `JPEG`, you add the following Markdown syntax:
+For example, if you want to create links for the entries `Github`, `Wiki`, and `Affordance`, you add the following Markdown syntax:
 
 ```
-[GitHub](../main/glossary.md#GitHub), [Wiki](../main/glossary.md#wiki), [JPEG](../main/glossary.md#JPEG)
+[GitHub](../main/glossary.md#GitHub), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
 ```
+
+That code will be rendered as:
+
+[GitHub](../main/glossary.md#GitHub), [Wiki](../main/glossary.md#wiki), [Affordance](../main/glossary.md#affordance)
+
+
+

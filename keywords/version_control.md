@@ -4,7 +4,7 @@
 
 Version Control Systems (VCS) are a type of [software](./software.md) used in programming. Their purpose is to help manage code during the development of a project so as to ensure a proper workflow and effort coordination in the development team.
 
-Namely, it keeps track of every change made in the project and by whom, it allows the possibility to protect certain versions of the code from being edited directly, and lets people work on different "branches" of the same code before merging them together, usually after being reviewed by at least another person. It's also useful when trying to find bugs in the code that appear in later versions by comparing it to older ones.[^Atlassian-VCS]
+Namely, it keeps track of every change made in the project and by whom, it allows the possibility to protect certain versions of the code from being edited directly and lets the code updates get reviewed by at least another person before being merged into the rest of. It's also useful when trying to find bugs in the code that appear in later versions by comparing it to older ones.[^Atlassian-VCS]
 
 ### Types of VCS
 
@@ -16,7 +16,7 @@ Alternatively, CVCS require a constant connection to the server to have access t
 
 ### Examples of version control systems
 
-- Git - DVCS
+- [Git](./git.md) - DVCS
 - Bitbucket - DVCS
 - Mercurial - DVCS
 - Subversion - CVCS

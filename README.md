@@ -72,7 +72,7 @@ And then, `Create  a pull request` to the main branch of this repository:
 <img src="./images/06-create-pull-request.png" width="400">
 
 
-## Rendering your image in the glossary (Optional for now): 
+## Rendering your image in the glossary
 
 So far, you have just uploaded your image to the repository. To be displayed, the image has to be linked from your keyword file.
 

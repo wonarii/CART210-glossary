@@ -1183,19 +1183,17 @@ Understanding the needs of customers who utilize the product is important for de
 Users interact with technology in various ways, including navigating interfaces, inputting commands, providing data, and receiving outputs. Therefore, user experience (UX) and User Interface (UI) play a crucial role in the success of a product or service. It is important to consider the end-user experience during the developing of the products and services.[^IntuitMailchimp24EndUser]
 
 
-[^TheStateOfTheArtInEndUser]: Ko, Andrew J.; Abraham, Robin; Beckwith, Laura; Blackwell, Alan; Burnett, Margaret; Erwig, Martin; Scaffidi, Chris; Lawrance, Joseph; Lieberman, Henry; Myers, Brad; Rosson, Mary Beth; Rothermel, Gregg; Shaw, Mary; Wiedenbeck, Susan. 2011. "The State of the Art in End-User Software Engineering": 1–44. Accessed January 28. https://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf)
+[^TheStateOfTheArtInEndUser]: Ko, Andrew J.; Abraham, Robin; Beckwith, Laura; Blackwell, Alan; Burnett, Margaret; Erwig, Martin; Scaffidi, Chris; Lawrance, Joseph; Lieberman, Henry; Myers, Brad; Rosson, Mary Beth; Rothermel, Gregg; Shaw, Mary; Wiedenbeck, Susan. 2011. "The State of the Art in End-User Software Engineering": 1–44. ACM Computing Surveys. https://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf).
 
-[^Chinel23Whatisuser]: Chinel glossar. 2023 “What Is User? Definition, Types and Role”. Accessed January 27. https://chisellabs.com/glossary/what-is-user/
+[^Chinel23Whatisuser]: Chisel glossar. 2023 “What Is User? Definition, Types and Role.” https://chisellabs.com/glossary/what-is-user/.
 
-[^etymolineUser]: Online Etymology Dictionary. 2017. "User (n.)". Accessed January 28. https://www.etymonline.com/word/user
+[^etymolineUser]: Online Etymology Dictionary. 2017. "User (n.)." https://www.etymonline.com/word/user.
 
-[^StackExchangeWhyCalledUsers]: StackExchange. 2023. "Why were computer customers called "Users"?". Accessed January 28. https://retrocomputing.stackexchange.com/questions/15202/why-were-computer-customers-called-users
+[^StackExchangeWhyCalledUsers]: Graf, Michael. 2023. "Why were computer customers called "Users"?." StackExchange. https://retrocomputing.stackexchange.com/questions/15202/why-were-computer-customers-called-users.
 
-[^Indeed23WhatIsAnEndUser]: Indeed. 2023. “What is an End User? Definition, Examples and Tips”. Accessed January 27. https://www.indeed.com/career-advice/career-development/end-user
+[^Indeed23WhatIsAnEndUser]: Indeed Editorial Team. 2023. “What is an End User? Definition, Examples and Tips.” Indeed. https://www.indeed.com/career-advice/career-development/end-user.
 
-[^IntuitMailchimp24EndUser]: Intuit Mailchimp. 2024. “End User”. Accessed January 27. https://mailchimp.com/marketing-glossary/end-user/
-
-
+[^IntuitMailchimp24EndUser]: Intuit Mailchimp. 2024. “End User.” https://mailchimp.com/marketing-glossary/end-user/.
 
 
 ## UX (User Experience)

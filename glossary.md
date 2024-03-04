@@ -536,15 +536,12 @@ Generative adversarial networks. Communications of the ACM, 63(11), 139–144. h
 
 ## Git
 
-### Definition
-
-Git is a free, [open source](./opensource.md), and dedicated [version control](./version_control.md) and source code management software. It was created in 2005, when a group of volunteers working on the Linux Kernel had to quickly find a new version control system after a conflict happened with their previous source control management providers, BitKeeper. No longer being able to use this system without paying to use it, and with other free-to-use solutions not being able to fit their development needs, they instead created their own system.[^Geeksforgeeks-Git]
+Git is a free, [open source](#opensource.md), and dedicated [version control](#version_control.md) and source code management software. It was created in 2005, when a group of volunteers working on the Linux Kernel had to quickly find a new version control system after a conflict happened with their previous source control management providers, BitKeeper. No longer being able to use this system without paying to use it, and with other free-to-use solutions not being able to fit their development needs, they instead created their own system.[^Geeksforgeeks-Git]
 
 One of its main features is its ability to create branches[^Git-Git]; Different versions of the same code that are independant from each other, but still lets you copy the changes made in another branch into your own if needed. Another important feature is the staging state before a commit is fully completed, which allows you to select which changes will be included in a specific commit.
 
-### Repository Hosting Platforms that use Git[^Opensource-Git]
-
-- [GitHub](./github.md)
+Examples of repository hosting platforms that use Git include:[^Opensource-Git]
+- [GitHub](#github.md)
 - GitLab
 - Bitbucket
 - SourceForge
@@ -554,6 +551,7 @@ One of its main features is its ability to create branches[^Git-Git]; Different 
 [^Git-Git]: Git. "About." Git. Accessed March 1, 2024. [https://git-scm.com/about](https://git-scm.com/about)
 
 [^Opensource-Git]: Opensource. 2018. "6 places to host your git repository." Opensource. [https://opensource.com/article/18/8/github-alternatives](https://opensource.com/article/18/8/github-alternatives)
+
 
 ## GitHub
 GitHub is a web-based platform for version control and collaboration using Git,[^github24wikis] allowing users to manage and share code in various repositories and offering wikis for documentation and collaborative editing. GitHub employs Git software, offering distributed version control, access control, bug tracking, feature requests, task management, continuous integration, and project [wikis](../main/glossary.md#wiki).[^kinsta24what]
@@ -1175,34 +1173,25 @@ UX, also known as UX design or User Experience, is a concept in the field of hum
 
 ## Version Control
 
-### Definition
-
-Version Control Systems (VCS) are a type of [software](./software.md) used in programming. Their purpose is to help manage code during the development of a project so as to ensure a proper workflow and effort coordination in the development team.
+Version Control Systems (VCS) are a type of [software](#software.md) used in programming. Their purpose is to help manage code during the development of a project so as to ensure a proper workflow and effort coordination in the development team.
 
 Namely, it keeps track of every change made in the project and by whom, it allows the possibility to protect certain versions of the code from being edited directly and lets the code updates get reviewed by at least another person before being merged into the rest of. It's also useful when trying to find bugs in the code that appear in later versions by comparing it to older ones.[^Atlassian-VCS]
 
-### Types of VCS
-
 Version control systems are split between two distinct categories: Centralized Version Control Systems (CVCS) and Distributed Version Control Systems (DVCS). The main difference between the two is how the file repository is managed, CVCS using a unique centralized server as its name implies, while DVCS have each user keep a local repository on their computers.[^Zolkifli-VCS]
 
-DVCS are the most commonly used, namely because it allows users to work without network connection, altough uploading and sharing the files requires being online, and the decentralized infrastructure allows for remote work from many different locations. Most systems in this category are free and [open-source](./opensource.md).
+DVCS are the most commonly used, namely because it allows users to work without network connection, altough uploading and sharing the files requires being online, and the decentralized infrastructure allows for remote work from many different locations. Most systems in this category are free and [open-source](#opensource.md).
 
 Alternatively, CVCS require a constant connection to the server to have access to the project files, and the single connection points means that, should server access be unavailable, work cannot be done and it is possible for changes to be lost. However, it does save space on the programmer's local machine considering they don't need to copy the full code on it, which is useful for complex and heavy projects.[^Gitlab-VCS]
 
-### Examples of version control systems
-
-- [Git](./git.md) - DVCS
+Some examples of version control systems include:
+- [Git](#git.md) - DVCS
 - Bitbucket - DVCS
 - Mercurial - DVCS
 - Subversion - CVCS
 - Perforce - CVCS
 
-### Alternative names
+Version control systems are also known as Source Code Management (SCM) or Revision Control Systems (RCS).
 
-- Source Code Management (SCM)
-- Revision Control Systems (RCS)
-
-### Critical one-page collage
 ![critical-one-page-collage](../images/version-control-dudemaine.png)[^Carreon-img-VCS]
 
 [^Atlassian-VCS]: Atlassian. "What Is Version Control | Atlassian Git Tutorial." Atlassian. Accessed January 28, 2024. [https://www.atlassian.com/git/tutorials/what-is-version-control](https://www.atlassian.com/git/tutorials/what-is-version-control)
@@ -1212,6 +1201,7 @@ Alternatively, CVCS require a constant connection to the server to have access t
 [^Zolkifli-VCS]: Zolkifli, Nazatul Nurlisa, Amir Ngah, and Aziz Deraman. 2018. "Version Control System: A Review." *3rd International Conference on Computer Science and Computational Intelligence*: 408-415. [https://www.sciencedirect.com/science/article/pii/S1877050918314819](https://www.sciencedirect.com/science/article/pii/S1877050918314819)
 
 [^Carreon-img-VCS]: Carreon, Hector, and Fevrier Valdez. 2022. "A new mycorrhized tree optimization nature-inspired algorithm." Scientific Figure on ResearchGate. Accessed February 9, 2024. [https://www.researchgate.net/figure/Symbiosis-between-tree-roots-and-fungi_fig1_358897496](https://www.researchgate.net/figure/Symbiosis-between-tree-roots-and-fungi_fig1_358897496)
+
 ## Virtual Environment
 
 Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 

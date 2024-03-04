@@ -735,6 +735,20 @@ Hypertext allows people to easily access information from multiple sources and n
 [^OxfordHypertext]: Oxford University Press. Oxford Advanced Learner’s Dictionary. “Hypertext”. Accessed January 28, 2024. https://www.oxfordlearnersdictionaries.com/definition/english/hypertext
 [^JSMERP16]: Koskinen, Jussi, Airi Salminen, and Jukka Paakki. 2004. “Hypertext Support for the Information Needs of Software Maintainers.” *Journal of Software Maintenance and Evolution: Research and Practice* 16 (3): 187–215. https://doi.org/10.1002/smr.292.
 
+## Immersion
+
+Immersion refers to the state of being deeply engaged or absorbed in an activity or environment to the extent where one loses awareness of the outside world. It involves a complete focus on the present moment which often leads to a flow state where time seems to pass quickly.[^frances09immersion]
+
+The term "Immersive technology" refers to technologies that merge the physical and digital world together. Two examples of this would be [AR](./ar.md) and [VR](./vr.md) which engage the user through a screen and the physical world at the same time.[^ryan99immersion]
+
+Immersion relates equaly to psychology, media studies, and the arts, since it explores how individuals engage with various stimuli and environments. It also intersects with theories of attention, consciousness, and presence, offering insights into human experiences and perceptions.[^wolf17immersion]
+
+[^frances09immersion]: Frances, Dyson. 2009. “Immersion.” In Sounding New Media: Immersion and Embodiment in the Arts and Culture, 1st ed., 107–35. University of California Press.
+
+[^ryan99immersion]: Marie-Laure, Ryan. 1999. “Immersion vs. Interactivity: Virtual Reality and Literary Theory.” SubStance 28, no. 2. 110–37. 
+
+[^wolf17immersion]: Wolf, Mark J. P. 2017. “Beyond Immersion: Absorption, Saturation, and Overflow in the Building of Imaginary Worlds.” In World Building, edited by Marta Boni, 204–14. Amsterdam University Press.
+
 
 ## Information Architecture 
 

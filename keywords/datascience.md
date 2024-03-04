@@ -6,8 +6,8 @@ without having a particular question in mind. Companies can find answers like co
 [^Slobogin]
 
 
-[^Chung]: Chung, H. Michael, and Paul Gray. “Special Section: Data Mining.” Journal of Management Information Systems 16, no. 1 (1999): 11–16. http://www.jstor.org/stable/40398415.
+[^Chung]: Chung, H. Michael, and Paul Gray. “Special Section: Data Mining.” Journal of Management Information Systems 16, no. 1 (1999): 11–16. 
 
-[^Sipes]: Sipes, James L. “MINING FOR DATA.” Landscape Architecture 96, no. 10 (2006): 126–32. http://www.jstor.org/stable/44677035. 
+[^Sipes]: Sipes, James L. 2016.“MINING FOR DATA.” Landscape Architecture 96, no. 10 (2006): 126–32. 
 
-[^Slobogin]: Slobogin, Christopher. “Government Data Mining and the Fourth Amendment.” The University of Chicago Law Review 75, no. 1 (2008): 317–41. http://www.jstor.org/stable/20141910.
+[^Slobogin]: Slobogin, Christopher. 2008. “Government Data Mining and the Fourth Amendment.” The University of Chicago Law Review 75, no. 1 (2008): 317–41. 

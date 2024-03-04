@@ -4,7 +4,7 @@ Git is a free, [open source](#opensource.md), and dedicated [version control](#v
 
 One of its main features is its ability to create branches[^Git-Git]; Different versions of the same code that are independant from each other, but still lets you copy the changes made in another branch into your own if needed. Another important feature is the staging state before a commit is fully completed, which allows you to select which changes will be included in a specific commit.
 
-Examples of repository hosting platforms that use Git are:[^Opensource-Git]
+Examples of repository hosting platforms that use Git include:[^Opensource-Git]
 - [GitHub](#github.md)
 - GitLab
 - Bitbucket

@@ -691,15 +691,15 @@ The term SSL and SSL/TLS both refer to the TLS protocol and certificates, as all
 
 HTTPS contributes to a better overall user experience by providing faster loading times, especially on modern web browsers and prioritize secure connections. Additionally, search engines prioritize websites that use HTTPS in their search results.[^LinkedInHTTPSSEO24] It plays an important role in facilitating secure communication and interaction across various platform, including social media, streaming service and many more website. It does integrate an safety wall for the users navigating the web.
 
-[^WhatIsHTTPS24]: Tushar, Pol. 2024. “What is HTTPS?”.  Accessed January 27. https://www.semrush.com/blog/what-is-https/
+[^WhatIsHTTPS24]: Pol, Tushar. 2024. “What is HTTPS?.” Semrush Blog. https://www.semrush.com/blog/what-is-https/.
 
-[^HypertextTransferProtocolSecure22]: Rahul Awati. 2022. “Hypertext Transfer Protocol Secure (HTTPS)”. Accessed January 27. https://www.techtarget.com/searchsoftwarequality/definition/HTTPS
+[^HypertextTransferProtocolSecure22]: Awati, Rahul. 2022. “Hypertext Transfer Protocol Secure (HTTPS).” TechTarget. https://www.techtarget.com/searchsoftwarequality/definition/HTTPS.
 
-[^CloudflareWhatIsSSL24]: Cloudflare. 2024. “What is SSL | SSL definition”. Accessed January 27.  https://www.cloudflare.com/learning/ssl/what-is-ssl/
+[^CloudflareWhatIsSSL24]: Cloudflare. 2024. “What is SSL | SSL definition.” https://www.cloudflare.com/learning/ssl/what-is-ssl/.
 
-[^AWSDifferenceBetweenSSL&TLS24]: AWS. 2024. “What’s the Difference Between SSL and TLS?”. Accessed January 27. https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=SSL%20is%20technology%20your%20applications,that%20fixes%20existing%20SSL%20vulnerabilities.
+[^AWSDifferenceBetweenSSL&TLS24]: AWS. 2024. “What’s the Difference Between SSL and TLS?.” https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=SSL%20is%20technology%20your%20applications,that%20fixes%20existing%20SSL%20vulnerabilities.
 
-[^LinkedInHTTPSSEO24]: LinkedIn. 2024. "Why does HTTPS matter for SEO?". Accessed January 28. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
+[^LinkedInHTTPSSEO24]: AI and the LinkedIn community. 2024. "Why does HTTPS matter for SEO?." LinkedIn. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
 
 ## Human-Computer Interaction 
 

@@ -1,10 +1,6 @@
 ## CSS (Cascading Style Sheet)
 ### Definition
-
-
-(under construction + placeholder for my sources)
-- [^meyer01css]
-- [^robbins02css]
+CSS, or Cascading Style Sheet, is a language used to style HTML or XML documents. CSS gives developpers and designers the power to change the presentation of a webpage/website [^meyer01css]. They can personnalize everything from fonts, to colors, to the layout [^robbins02css]. More experienced developpers can even play around with the behavior of a page. 
 
 ### Examples
 

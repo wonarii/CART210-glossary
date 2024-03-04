@@ -1220,6 +1220,23 @@ Virtual environments are the technology which facilitates interactions between u
 [^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”
 [^ve3]: Youngblut, Christine, Rob E Johnston, Sarah H Nash, Ruth A Wienclaw, and CraigA Will. n.d. “REVIEW OF VIRTUAL ENVIRONMENT INTERFACE TECHNOLOGY.”
 
+## Virtualization
+
+Virtualization in computing describes a technological system making it possible to reproduce several hardware structures in a machine. [^Popek&goldberg74virtualize] 
+It will thus be able, on its own, to virtually recreate servers, storage systems or even computing machines.
+This is to improve the user experience and obtain better returns. [^Rosenblum&garfinkel05virtualize]
+
+[^Popek&goldberg74virtualize]: Popek, G. J., & Goldberg, R. P. (1974). *Formal requirements for virtualizable third generation architectures. Communications of the ACM,* (p412-4211)
+https://www.cs.cornell.edu/courses/cs6411/2018sp/papers/popek-goldberg.pdf 
+
+[^Rosenblum&garfinkel05virtualize]: Rosenblum, M., & Garfinkel, T. (2005). *Virtual machine monitors: current technology and future trends. Computer,* (p39-473)
+https://class.ece.iastate.edu/tyagi/cpre681/papers/VMMIEEEC2005.pdf
+
+The wikipedia page of the word virtualization.
+https://en.wikipedia.org/wiki/Virtualization
+
+ChatGPT4 to help me find references and to translate some texts.
+
 ## Wearable Technology
 
 Wearable technology - also referred to as 'wearables' - encapsulates all wireless devices incorporated in consumers' everyday accessories and clothing. Although originally referring to items that can be worn (and sequentially, removed), new technological advancements have redefined the term to include more invasive forms of wearable technology, such as implanted microchips and smart tattoos[^ometov21wearableTech]. 

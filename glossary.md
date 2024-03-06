@@ -1287,6 +1287,8 @@ Virtualization in computing describes a technological system making it possible 
 It will thus be able, on its own, to virtually recreate servers, storage systems or even computing machines.
 This is to improve the user experience and obtain better returns. [^Rosenblum&garfinkel05virtualize]
 
+![Virtualization](images/virtualization-gastineau.png)
+
 [^Popek&goldberg74virtualize]: Popek, G. J., & Goldberg, R. P. (1974). *Formal requirements for virtualizable third generation architectures. Communications of the ACM,* (p412-4211)
 https://www.cs.cornell.edu/courses/cs6411/2018sp/papers/popek-goldberg.pdf 
 

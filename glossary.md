@@ -36,9 +36,11 @@ https://www.sciencedirect.com/science/article/pii/S0149763416305061
 
 ## Agency 
 
-Agency is the “capacity, condition, or state of acting or of exerting power” or the “person or thing through which an end is achieved” using power. [^MerriamWeb24agency] One’s sense of self-agency - that is the sense that there is an “I” who is generating an action - largely depends on “the degree of discrepancy resulting from comparison between the predicted and actual sensory feedback”. [^Sato05agency]
+Agency is the “capacity, condition, or state of acting or of exerting power”. [^MerriamWeb24agency] One’s sense of self-agency - that is the sense that there is an “I” who is generating an action - largely depends on “the degree of discrepancy resulting from comparison between the predicted and actual sensory feedback”. [^Sato05agency] The concept is highly applicable to studies of [human-Computer Interaction](../main/glossary.md#computer-human_interaction).
 
-Agency is felt by degrees: one can feel more or less in control. This variation is particularly clear when using machines: the feeling of control varies between different operator inputs and expected machine response. Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
+Agency is felt by degrees: one can feel more or less in control. This variation is particularly clear when a [user](../main/glossary.md#user) interacts with a machine: the feeling of control varies between different operator inputs and expected machine response. 
+
+Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
 
 ![agency](images/agency-hoekstra-01.png)
 Image made of a composition of [^Drexler16agency] [^Al24agency] [^tumblr24agency]
@@ -312,9 +314,11 @@ Cryptocurrency is a type of digital or virtual currency that uses cryptography f
 
 ## Cultural Determinism
 
-Cultural determinism is a theory that bases our emotions and behaviors upon the culture in which we are raised. It suggests that cultural and social influence dominate biological behavior. Breaking the theory down into two concepts, culture is the sum of attitudes, customs, and beliefs that distinguishes one group of people from another; while determinism is a philosophical position whereby an event has conditions that could not be caused by any other means.  [^feenberg10CD]
+Cultural determinism is a conceptual theory stating that the culture in which we are raised determines the basis for our emotions, behaviors, values, and politics. It suggests that cultural and social influence dominate even biological behavior (i.e., firmly on the "nuture" side of the [nature vs nuture debate](https://www.psychologytoday.com/us/basics/nature-vs-nurture)). Breaking the theory down into two concepts, culture is the sum of socially shared attitudes, customs, and beliefs that distinguishes one group of people from another; while determinism is a philosophical position whereby an event has conditions that could not be caused by any other means.  [^feenberg10CD] Cultural determinism is oppositionally related to [technological determinism](../main/glossary.md#technological_determinism), which states that technology determines our culture/society. The concept of cultural determinism first began to gain traction with cultural antropologists in the 1930s, in pushback to concepts of biological determinism and eugenics. [^dutton2018] 
 
-Cultural determinism may not be all determinant, however. Often we are pressured into following cultural norms without understanding or recognizing those norms. As long as the culture’s coercion remains unconscious, there are few opportunities to act outside of those norms. But it’s not entirely unusual for a person to become aware of their cultural coercion, and act in a different way. [^ketner71CD] Would this resistance to cultural expectations also be a culture-bound decision?
+Cultural determinism may not be all determinant, however. Often, people feel pressured to follow cultural norms without understanding or recognizing the reasons or pressure for following those norms. As long as the culture’s coercion remains unconscious, there are few opportunities to act outside of those norms. But it’s not entirely unusual for a person to become aware of their cultural coercion, and act in a different way. [^ketner71CD] There is some debate that this resistance to cultural expectations is also a culture-bound decision. According to Dutton, "it has been argued that cultural determinism is philosophically problematic because, if cultural differences are caused by different histories and history is a group's culture in a set period, we have a circular argument that reifies history". [^dutton2018]
+
+[^dutton2018]: Dutton, Edward C. 2018. “Determinism, Cultural.” *The International Encyclopedia of Anthropology*, 1–4. John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118924396.wbiea1293.
 
 [^feenberg10CD]: Feenberg, Andrew and Anne-Marie Feenberg. 2010. “An Internet of Everything? Technological and Cultural Determinism". <i>Wikibooks, Open Books for an Open World</i>. Accessed January 29, 2024. https://en.wikibooks.org/wiki/An_Internet_of_Everything%3F/Technological_and_Cultural_Determinism.
 
@@ -1068,13 +1072,24 @@ While the potential of quantum computers is immense and exciting, the practicali
 
 ## Ransomware
 
-Ransomware is a specific class of malware that demand a payment in exchange for a stolen functionality. The phenomenon first appeared around 2005. Most ransomwares “make an intensive use of file encryption as an extortion means… they encrypt various files on victim’s hard drives before asking for a ransom to get the files decrypted.” [^Gazet10RW]
+Ransomware is a specific class of malware that demands a payment (usually in the form of [cyrptocurrency](../main/glossary.md#crytocurrency)) in exchange for a stolen functionality. The phenomenon first appeared around 2005, and indidents have only increased. Most ransomwares “make an intensive use of file encryption as an extortion means"[^Gazet10RW]. Often, the ransomeware encrypts various files on victim’s hard drives before asking for a ransom to get the files decrypted. 
 
-There are 4 more major types of ransomware: crypto (encrypts data important to victims), locker (locks victims out of their systems), scareware (tricks users into buying or downloading malicious software, often through startling messages), and leakware (threatens to make users data public unless a ransom is paid). [^Razaulla23RW]
+There are 4 more major types of ransomware:[^Razaulla23RW] 
+1. Crypto: encrypts data important to victims
+2. Locker: locks victims out of their systems
+3. Scareware: tricks users into buying or downloading malicious software, often through startling messages
+4. Leakware: threatens to make users data public unless a ransom is paid
+
+In 2023, ransomeware payouts totaled over $1.1 billion USD from an estimated 4,399 different attacks - the most costly year ever, twice as much as the year before. However, only 29% of ransomware victims in the final quarter of 2023 paid the demanded ransoms - a significant drop from years before, where 70-80% were paid, which suggests more lucrative targets are being selected for attacks. Close to 75% of ransomeware payouts top the million dollar mark.[^Greenberg24]
+
+- want to add something about political uses of ransomware vs criminal
 
 [^Gazet10RW]: Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” <i>Journal in Computer Virology</i> 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
 
 [^Razaulla23RW]: Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” <i>IEEE Access</i> 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
+
+[^Greenberg24]: Greenberg, Andy. 2024. “Ransomware Payments Hit a Record $1.1 Billion in 2023.” *WIRED*. February 7, 2024. https://www.wired.com/story/ransomware-payments-2023-breaks-record/.
+
 
 ## Social Networking
 The act of social networking refers to using any form of internet-based social media websites, such as Instagram, Twitter, and Facebook to stay connected with family and friends alike, while also sharing any multiple forms of media[^Kenton] (Kenton, 2023). From the examples listed, they each have different uses, for example, Instagram is a video and picture sharing application where others can like and share the things you upload. Twitter is a communication network, where users can share their thoughts by using hashtags. Lastly, Facebook is an application meant for connecting with friends and distant family members to remain in touch with them. The use of social networking can either be social, to communicate and interact with others online, or business, to talk about your field with likeminded individuals. It has changed “our means of gathering information and communicating with each other and contributing to both these practices through creative production”[^Fenton]. While there are some advantages about social networking there are also some disadvantages such as the spreading of misinformation, anonymity, and cause depressive symptoms, anxiety, and low self-esteem[^Pantic].

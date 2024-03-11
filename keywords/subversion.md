@@ -11,5 +11,5 @@ I understand subversion as the process or act of undermining or overturning some
 In their paper "New Media Poetics as a Strategy for Political Subversion.", Dousos suggests that new digital technologies and consumer products have increased potential to subvert normative power structures, despite their original design not being for this goal. The internet has turned all of us from passive consumers to active producers of content, potentially empowering us to greatly subvert existing social structures. [^Dousos18Subversion]
 
 [^merriam24subvert]: “‘Subvert.’” 2024. Merriam-Webster. Merriam-Webster. 2024. https://www.merriam-webster.com/dictionary/subverting. 
-[^Spjut79Subversion]: Spjut, R. J. 1979. “Defining Subversion.” British Journal of Law and Society 6 (2): 254. https://doi.org/10.2307/1409771. 
+[^Spjut79Subversion]: Spjut, R. J. 1979. “Defining Subversion.” _British Journal of Law and Society_ 6 (2): 254. https://doi.org/10.2307/1409771. 
 [^Dousos18Subversion]: Dousos, Foivos. 2018. "New Media Poetics as a Strategy for Political Subversion." PhD diss., Royal Holloway, University of London.

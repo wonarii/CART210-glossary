@@ -1129,8 +1129,6 @@ The act of social networking refers to using any form of internet-based social m
 [^Pantic]:Pantic, Igor. 2014. “Online Social Networking and Mental Health.” Cyberpsychology, Behavior, and Social Networking 17 (10): 652–57. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/.
 [^Fenton]:Fenton, Natalie, James Curran, and Des Freedman. (2012) 2012. Misunderstanding the Internet. Routledge: Routledge. https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:15b11af5-7d71-319e-97cb-81ad5a2a547d.
 
-## Collage on Social Networking
-
 ![Social Networking](images/social-networking-aivaliklis.png)
 
 Top Left image[^TherapyEverywhere]
@@ -1152,8 +1150,6 @@ Bottom Right image[^McCoy]
 [^Nguyen]:Nguyen, Therese, ed. 2023. 7 Easy Ideas to Increase TikTok Engagement. RivalIQ. https://www.rivaliq.com/blog/increase-tiktok-engagement/.
 
 [^TherapyEverywhere]:TherapyEverywhere, ed. 2024. What Social Networking Platform Is Right for Me? TherapyEverywhere. https://therapyeverywhere.com/social-networking-for-therapists/.
-
-![social-networking-aivaliklis](https://github.com/concordia-dcart/CART210-glossary/assets/85772853/b205b15f-880c-4e34-b317-1f5da5685cd5)
 
 ## Software
 

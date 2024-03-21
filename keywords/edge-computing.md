@@ -1,5 +1,11 @@
 ## Edge Computing
 
+Edge computing is a type of network structure for managing data communication. This model allows for applications to be deployed remotely on a global scale, depending on the current demand.[^DavisJ-EdgeComp] This allows for data to be processed closer to the devices requesting it which reduces the latency of the communication.[^IBM-EdgeComp]
+
+One of the main reasons for using edge computing as opposed to centralized data centers - including cloud computing - comes from the fact that more and more devices now have access to the Internet, and this increase in the number of connected devices to the network results in bandwidth issues and overall lower communication speeds.[^ThomasJ-EdgeComp] The complexity of the data being transmitted also factors into these issues. With edge computing, the demand for data processing is spread across multiple endpoints on demand, which helps to even things out.
+
+Developpers do need to pay a closer attention to [network security](#networksecurity.md) when developping apps and [software](#software.md) that gets deployed on the edge, as well as a means of monitoring their status when deployed to assure the availability and quality of the service being provided.[^DavisJ-EdgeComp]
+
 [^DavisJ-EdgeComp]: Davis, Andy, Jay Parikh and William E. Weihl. 2004. "EdgeComputing: Extending Enterprise Applications «to the Edge of the Internet." *Alternate track papers & posters of the 13th international conference on World Wide Web - WWW Alt. '04*: 180-7. [https://web.archive.org/web/20100702112106/http://spanish.akamai.com:80/enes/dl/technical_publications/EdgeComputingExtendingEnterpriseApplicationstotheEdgeoftheInternet.pdf](https://web.archive.org/web/20100702112106/http://spanish.akamai.com:80/enes/dl/technical_publications/EdgeComputingExtendingEnterpriseApplicationstotheEdgeoftheInternet.pdf)
 
 [^IBM-EdgeComp]: IBM. "What is edge computing?" IBM. Accessed March 20, 2024. [https://www.ibm.com/topics/edge-computing](https://www.ibm.com/topics/edge-computing)

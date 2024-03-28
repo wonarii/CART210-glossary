@@ -10,24 +10,6 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-## CMOS
-
-CMOS (Complementary metal–oxide–semiconductor), is a type of transistor that is typically used for IC (integrated circuit) chips like microcontrollers, and memory chips. [^WikiCMOS]
-
-CMOS typically refers to a CMOS chip in a computer motherboard, which holds the BIOS settings of the computer in a RAM chip. This chip mainly consists of interpolation filters, RAM chips, and RAM address buffers. [^layoutCMOS]
-
-This chip needs to be powered by a coin battery, best known as a CMOS battery. Without this battery, the CMOS chip loses power, and loses the BIOS settings as well as the accurate time of the computer. [^WikiCMOSChip]
-
-
-
-
-[^WikiCMOS]: Wikipedia contributors. (2024c, March 22). CMOS. Wikipedia. https://en.wikipedia.org/wiki/CMOS
-
-
-[^layoutCMOS]: Baker, R. Jacob. CMOS: circuit design, layout, and simulation. John Wiley & Sons, 2019.
-
-[^WikiCMOSChip]: Wikipedia contributors. (2024, January 16). Nonvolatile BIOS memory. Wikipedia. https://en.wikipedia.org/wiki/Nonvolatile_BIOS_memory
-
 ## Affordance
 
 Gibson coined the term “affordance” to describe what the environment “offers the individual, what it provides or furnishes, either for good or ill” 
@@ -223,6 +205,24 @@ In the view of Hayles, she engages with the facts that the body can be integrate
 [^CaldwellEverett]: Everett, Anna, Caldwell, John T. 2003. "New Media: Theories and Practices of Digitextuality". Routelegde.
 
 [^Hayles]: Hayles, Katherine. 1999. "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics." University of Chicago Press.
+
+## CMOS
+
+CMOS (Complementary metal–oxide–semiconductor), is a type of transistor that is typically used for IC (integrated circuit) chips like microcontrollers, and memory chips. [^WikiCMOS]
+
+CMOS typically refers to a CMOS chip in a computer motherboard, which holds the BIOS settings of the computer in a RAM chip. This chip mainly consists of interpolation filters, RAM chips, and RAM address buffers. [^layoutCMOS]
+
+This chip needs to be powered by a coin battery, best known as a CMOS battery. Without this battery, the CMOS chip loses power, and loses the BIOS settings as well as the accurate time of the computer. [^WikiCMOSChip]
+
+
+
+
+[^WikiCMOS]: Wikipedia contributors. (2024c, March 22). CMOS. Wikipedia. https://en.wikipedia.org/wiki/CMOS
+
+
+[^layoutCMOS]: Baker, R. Jacob. CMOS: circuit design, layout, and simulation. John Wiley & Sons, 2019.
+
+[^WikiCMOSChip]: Wikipedia contributors. (2024, January 16). Nonvolatile BIOS memory. Wikipedia. https://en.wikipedia.org/wiki/Nonvolatile_BIOS_memory
 
 ## CMYK
 

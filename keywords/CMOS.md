@@ -1,5 +1,5 @@
-CMOS
 ## CMOS
+
 CMOS (Complementary metal–oxide–semiconductor), is a type of transistor that is typically used for IC (integrated circuit) chips like microcontrollers, and memory chips. [^WikiCMOS]
 
 CMOS typically refers to a CMOS chip in a computer motherboard, which holds the BIOS settings of the computer in a RAM chip. This chip mainly consists of interpolation filters, RAM chips, and RAM address buffers. [^layoutCMOS]

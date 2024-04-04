@@ -1,5 +1,5 @@
 ## Data Science
-Data Science is the use of datasets ([big data](bigdata.md) by data scientists to analyze information and answer questions through a combination of statistics and computer science[^Blei2017Cite]. These analyses are most often used to make predictions about consumer patterns. Data science is also used by governments worldwide for ‘security’ purposes and scientific research. [^Floridi2016Cite] 
+Data Science is the use of datasets ([big data](bigdata.md)) by data scientists to analyze information and answer questions through a combination of statistics and computer science[^Blei2017Cite]. These analyses are most often used to make predictions about consumer patterns. Data science is also used by governments worldwide for ‘security’ purposes and scientific research. [^Floridi2016Cite] 
 
 However, data science could be applied to almost anything that involves the study and use of collected data. [The US Coast Guard](http://www.jstor.org/stable/resrep26526), for instance, plans to use data science for automating fishery observations, streamlining and perfecting search and rescue missions, and improving recruitment of talented employees[^Davenport2020Cite]. Data science is an incredibly powerful tool that can be used in countless fields. 
 

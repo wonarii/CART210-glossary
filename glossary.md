@@ -10,16 +10,6 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-## OS
-
-An operating system, or better known as an OS, is a “program that acts as an interface between the computer user and computer hardware and controls the execution of programs”[^Wollongong] (University of Wollongong Australia, 2024). The OS’ job is to manage all the software ([Software](../main/glossary.md#Software)) and hardware of the device in order to perform basic tasks such as file, memory, and process management, essentially acting as an interface for the computer hardware and the user. There are three main types of operating systems that are widely known and used by the public, those being Microsoft Windows, Mac OS, and Linux[^GCFGlobal] (GCFGlobal, 2024). They’re all very similar for the most part, but also do have some unique characteristics. For example. Microsoft Windows is pre-downloaded on all devices except Apples devices, where Mac OS is already downloaded, and Linux does not come pre-downloaded but can be manually installed and is highly customizable. These operating systems also all use unique default browsers, Internet Explorer for Windows users, Safari for Mac users and Firefox for Linux users. As a result, these all work in different ways, but ultimately do the same thing to ensure your device runs smoothly and effectively[^Bazukiu] (Bazukiu et al. 2023, 16:161–77).
-
-[^Bazukiu]:Bazukiu, Robert, Anaamotulim Anab, Seth Gyemerah, and Mohammed I. Daabo. 2023. An Overview of Computer Operating Systems and Emerging Trends. 4th ed. Vol. 16. Asian Journal of Research in Computer Science. https://www.researchgate.net/publication/374888061_An_Overview_of_Computer_Operating_Systems_and_Emerging_Trends.
-
-[^GCFGlobal]:GCFGlobal. 2016. “Computer Basics: Understanding Operating Systems.” GCFGlobal.org. GCFGlobal. 2016. https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/.
-
-[^Wollongong]:University of Wollongong Australia. 2024. “Understanding Operating Systems - University of Wollongong – UOW.” Www.uow.edu.au. 2024. https://www.uow.edu.au/student/support-services/academic-skills/online-resources/technology-and-software/operating-systems/.
-
 ## Affordance
 
 Gibson coined the term “affordance” to describe what the environment “offers the individual, what it provides or furnishes, either for good or ill” 
@@ -1228,6 +1218,16 @@ Some popular examples of open source software include the Linux operating system
 [^osi01Wiki]: “The Open Source Definition.” 2006. Open Source Initiative. July 7, 2006. https://opensource.org/osd/.
 
 [^diffingo02Wiki]: “What Is Open Source Software.” n.d. Diffingo Solutions Inc. Accessed January 29, 2024. https://diffingo.com/oss/whyoss.
+
+## OS
+
+An operating system, or better known as an OS, is a “program that acts as an interface between the computer user and computer hardware and controls the execution of programs”[^Wollongong] (University of Wollongong Australia, 2024). The OS’ job is to manage all the software ([Software](../main/glossary.md#Software)) and hardware of the device in order to perform basic tasks such as file, memory, and process management, essentially acting as an interface for the computer hardware and the user. There are three main types of operating systems that are widely known and used by the public, those being Microsoft Windows, Mac OS, and Linux[^GCFGlobal] (GCFGlobal, 2024). They’re all very similar for the most part, but also do have some unique characteristics. For example. Microsoft Windows is pre-downloaded on all devices except Apples devices, where Mac OS is already downloaded, and Linux does not come pre-downloaded but can be manually installed and is highly customizable. These operating systems also all use unique default browsers, Internet Explorer for Windows users, Safari for Mac users and Firefox for Linux users. As a result, these all work in different ways, but ultimately do the same thing to ensure your device runs smoothly and effectively[^Bazukiu] (Bazukiu et al. 2023, 16:161–77).
+
+[^Bazukiu]:Bazukiu, Robert, Anaamotulim Anab, Seth Gyemerah, and Mohammed I. Daabo. 2023. An Overview of Computer Operating Systems and Emerging Trends. 4th ed. Vol. 16. Asian Journal of Research in Computer Science. https://www.researchgate.net/publication/374888061_An_Overview_of_Computer_Operating_Systems_and_Emerging_Trends.
+
+[^GCFGlobal]:GCFGlobal. 2016. “Computer Basics: Understanding Operating Systems.” GCFGlobal.org. GCFGlobal. 2016. https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/.
+
+[^Wollongong]:University of Wollongong Australia. 2024. “Understanding Operating Systems - University of Wollongong – UOW.” Www.uow.edu.au. 2024. https://www.uow.edu.au/student/support-services/academic-skills/online-resources/technology-and-software/operating-systems/.
 
 ## Pantone
 Pantone is a color system used in printing that allows for a universal agreement on specific colors we expect to get from print.

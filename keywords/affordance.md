@@ -18,6 +18,26 @@ Importantly, this dichotomy also implies that the perception of physical afforda
 By contrast, the dorsal system is responsible for the transformation of “visual information into an egocentric framework allowing the actor to grasp or otherwise bodily manipulate the object” 
 Norman and Young (2006) have suggested that the perception of affordances – and more specifically of physical affordances for Norman – might be supported by the dorsal system. The same theoretical rapprochement may be envisaged between the dorsal system and the affordance route to action. Nevertheless, Yoon and Humphreys (2007) argued that such a rapprochement remains to be demonstrated, notably because of studies indicating that action decision tasks can activate the left inferior temporal lobe (i.e., the ventral system).[^neuro&behavior01affordance]
 
+**Perceived affordance
+
+The designer cares more about what actions the user perceives to be possible than what is true. Moreover, affordances, both real and perceived, play very different roles in physical products than they do in the world of screen-based products. In the latter case, affordances play a relatively minor role: cultural conventions are much more important. More on that in a moment. In product design, where one deals with real, physical objects, there can be both real and perceived affordances, and the two sets need not be the same. In graphical, screen-based interfaces, the designer primarily can control only perceived affordances. The computer system already comes with built-in physical affordances. The computer, with its keyboard, display screen, pointing device, and selection buttons (e.g., mouse buttons) affords pointing, touching, looking, and clicking on every pixel of the screen. Most of this affordance is of little interest for the purpose of the application under design. Although all screens within reaching distance afford touching, only some can detect the touch and respond to it. Thus, if the display does not have a touch-sensitive screen, the screen still affords touching, but it has no effect on the computer system. 
+
+The traditional computer screen where the user can move the cursor to any location on the screen and click the mouse button at anytime. In this circumstance, designers sometimes will say that when they put an icon, cursor, or other target on the screen, they have added an “affordance” to the system. This is a misuse of the concept. The affordance is independent of what we see on the screen, what is displayed is not an affordance it is more of visual feedback that ADVERTISES the affordance, which makes it a perceived affordance. The difference is important because they are independent design concepts: the affordances, the feedback, and the perceived affordances can all be manipulated independently of one another.
+
+Perceived affordances are sometimes useful even if the system does not support the real affordance.
+
+Real affordances do not always have to have a visible presence (and in some cases, it is best to hide the real affordance).
+
+The presence of feedback can dramatically affect the usability and understandability of a system, but quite independently of the affordances or their visibility.
+
+The most important design tool is that of coherence and understandability, which comes through an explicit, perceivable conceptual model. Affordances specify the range of possible activities, but affordances are of little use if they are not visible to the users. Hence, the art of the designer is to ensure that the desired, relevant actions are readily perceivable.
+
+Don’t confuse affordances with perceived affordances.
+Don’t confuse affordances with conventions. Affordances reflect the possible relationships among actors and objects: they are properties of the world. Conventions, conversely, are arbitrary, artificial, and learned. Once learned, they help us master the intricacies of daily life, whether they be conventions for courtesy, for writing style, or for operating a word processor. Designers can invent new real and perceived affordances, but they cannot so readily change established social conventions.[^perceivedaffordance03affordance]
+
+
 [^neuro&behavior01affordance]:Osiuraka, François, Yves Rossettic, and Arnaud Badet. June 1st 2017 _"What is an affordance? 40 years later."_ Neuroscience and Biobehavioral Reviews, volume 77 :pages 403-417. Accessed january 16th 2024.
 https://www.sciencedirect.com/science/article/pii/S0149763416305061 
+
+[^perceivedaffordance03affordance]:Norman, Donald A. 1999. *‘Affordance, Conventions, and Design’*. Interactions 6 (3): 38–43. https://doi.org/10.1145/301153.301168.
 

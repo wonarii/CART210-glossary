@@ -860,15 +860,15 @@ The Internet has empowered ordinary citizens by making it easier for them to pro
 
 ![internet](images/internet-zare.PNG)
 
-[^Zare24internet1]: "What Is the Internet?" Spiceworks. Accessed January 28, 2024. https://www.spiceworks.com/tech/networking/articles/what-is-the-internet/.
+[^Zare24internet1]: Spiceworks. "What Is the Internet?" Accessed January 28, 2024. https://www.spiceworks.com/tech/networking/articles/what-is-the-internet/.
 
-[^Zare24internet2]: Oxford English Dictionary. "Internetted." Online edition. Oxford University Press. (Subscription or participating institution membership required.) Nineteenth-century use as an adjective.
+[^Zare24internet2]: Oxford English Dictionary. "Internetted." Online edition. Oxford University Press. Nineteenth-century use as an adjective.
 
-[^Zare24internet3]: Goswami, S. "The Internet Protocol." In Internet Protocols, published by Springer, Boston, MA, 2003. https://doi.org/10.1007/978-1-4615-0385-9_2.
+[^Zare24internet3]: Goswami, S. 2003. "The Internet Protocol." In *Internet Protocols*, published by Springer, Boston, MA. https://doi.org/10.1007/978-1-4615-0385-9_2.
 
-[^Zare24internet4]: Rust, Roland T., and Sajeev Varki. "Rising from the ashes of advertising." Journal of Business Research 37, no. 3 (1996): 173-181. https://doi.org/10.1016/S0148-2963(96)00067-7.
+[^Zare24internet4]: Rust, Roland T., and Sajeev Varki. 1996. "Rising from the Ashes of Advertising." *Journal of Business Research* 37, no. 3: 173-181. https://doi.org/10.1016/S0148-2963(96)00067-7.
 
-[^Zare24internet5]: Jenkins, Henry, Ravi Purushotma, Margaret Weigel, Katie Clinton, and Alice J. Robison. Confronting the Challenges of Participatory Culture: Media Education for the 21st Century. The MIT Press, 2009. DOI: https://doi.org/10.7551/mitpress/8435.001.0001. ISBN electronic: 9780262258951.
+[^Zare24internet5]: Jenkins, Henry, Ravi Purushotma, Margaret Weigel, Katie Clinton, and Alice J. Robison. 2009. *Confronting the Challenges of Participatory Culture: Media Education for the 21st Century*. The MIT Press. DOI: https://doi.org/10.7551/mitpress/8435.001.0001. ISBN (electronic): 9780262258951.
 
 ## Iteration:
 The word iteration generally refers to an instance of a process in which repetition is fundamental. The iteration process aims to exploit repetition to take advantage of the information gathered during each iteration. However, in certain fields such as mathematics, computation and design, the word has acquired more specific meanings for each field. In fact, in various areas comprising product development, such as: design, construction, manufacturing and software (among others), the importance of the iteration process is well-recognised.[^perspectivesOnIteration] below are more specific definitions of *iteration*:

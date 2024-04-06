@@ -15,8 +15,9 @@ However, both ends compel self-reflection, positing a need to renew the existing
 
 [^cohen21posthuman]: Cohen, David. “What Does It Mean to Be Posthuman?” New Scientist, March 9, 2021. https://www.newscientist.com/article/mg21829162-400-what-does-it-mean-to-be-posthuman/. 
 
-[^rugo20posthuman]: Rugo, Daniele. “Posthuman.” Oxford Research Encyclopedia of Literature, July 30, 2020. https://doi.org/10.1093/acrefore/9780190201098.013.1136. 
+[^halberstamLivingston95posthuman]: Halberstam, Judith M., and Ira Livingston, eds. Posthuman bodies. Indiana University Press, 1995.
 
 [^lewis21posthuman]: Lewis, Richard S. Technology, Media Literacy, and the human subject, June 3, 2021. https://doi.org/10.11647/obp.0253. 
 
-[^halberstamLivingston95posthuman]: Halberstam, Judith M., and Ira Livingston, eds. Posthuman bodies. Indiana University Press, 1995.
+[^rugo20posthuman]: Rugo, Daniele. “Posthuman.” Oxford Research Encyclopedia of Literature, July 30, 2020. https://doi.org/10.1093/acrefore/9780190201098.013.1136. 
+

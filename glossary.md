@@ -83,7 +83,7 @@ SOAP API, in comparison to REST API, is more rigid in its structure and only ret
 GraphQL is a query language signifying that the developer can use queries to request specific data. The string is sent to the server for interpretation and responds to the request with a JSON. It was developed by Facebook[^meta15graphql] and is the most modern standard for APIs after REST. It allows developers to avoid over-fetching data and only collecting what they request.[^graphql24basics] The developer can specify the structure of the response it needs for certain tasks. Additionally, GraphQL can retrieve the required data with a single request which reduces redundant communication between the client and the server.
 
 ### APIs and Art
-Some museums have incorporated new technologies in the recent decade to provide more accessibility. One of the way to acheive that was by openly sharing a  database of their art collection online accessible to anyone through thier API. For example, the Metropolitan Museum of Art introduced the Metropolitan Museum of Art Met Collection API with an Open Access policy, allowing the distribution of their collection for the public domain. The data also includes relevant information on the history, artist and other details along with the works.[siegel18APIs] This reflects the integration of APIs in the art world and its impact on how we consume art. 
+Some museums have incorporated new technologies in the recent decade by [digitalizing](../main/glossary.md#Digitization) their collections to provide wider accessibility. By openly sharing a database of their art collections online, anyone with Internet access can view the collections through the museum's API. For example, the Metropolitan Museum of Art introduced the Metropolitan Museum of Art Met Collection API with an Open Access policy, allowing the distribution of their collection for the public domain. The data also includes relevant information on the history, artist and other details along with the works.[siegel18APIs] This reflects the integration of APIs in the art world and its impact on how we consume art. 
 
 [^wiki24api]: Wikipedia. 2024. "API". Accessed January 29, 2024. https://en.wikipedia.org/wiki/API
 [^aws24what]: 2024. "What is an API (Application Programming Interface)?" AWS. Accessed January 29, 2024. https://aws.amazon.com/what-is/api/.
@@ -427,7 +427,7 @@ The DNS is a database that contains information on namespaces and provides the b
 
 
 #### Seven Top-Level Domain Names (TLD) That Divide The Internet
-To host a website on the Internet, we are required to buy a root domain which includes the domain name and the TLD. The combination creates a website address such as _google.com_. Originally, there were seven top-level domain names that reflected the nature of the organization behind the website. 
+To host a website on the Internet, we are required to buy a root domain which includes the domain name and the TLD. The combination creates a website address such as _google.com_. Originally, seven top-level domain names reflected the nature of the organization behind the website.
 - **.com** : Commercial use.
 - **.edu** : Educational organizations.
 - **.gov** : Government websites.
@@ -436,13 +436,13 @@ To host a website on the Internet, we are required to buy a root domain which in
 - **.org** : Noncommercial organizations (before 1996).
 - **.int** : International organizations.
 
-Today, other domains were added with the expansion of the Internet, allowing for a larger pool of available namespaces.[^google06dnsbind] Big companies like Apple, Google, Audible, Amazon, Best Buy, and more own TLDs that are reserved strictly for their use and inaccessible to the public.
+Today, other domains were added with the expansion of the Internet, allowing for a larger pool of available namespaces.[^google06dnsbind] Big companies like Apple, Google, Audible, Amazon, Best Buy, and more own TLDs that are reserved strictly for their use and inaccessible to the public. [E-commerce](../main/glossary.md#E-commerce) businesses rely on the DNS to ensure their clients can easily navigate to their websites.
 
 ### DNS and New Media
 The obvious relation between the DNS and new media is through everything that needs to connect to the Internet.
 Therefore, all new media platforms in the form of websites, applications and other online formats require IP addresses and a corresponding domain name. Without the DNS, it would be much harder to navigate the Web and access new media content.
 
-#### TLDs and New Media Art
+#### Top-Level Domains and New Media Art
 The DNS allows artists to choose namespaces that correspond to their work and specializations. This creates room for artists to express themselves by using the DNS and namespaces as a way to establish a unique name reflecting their brand.
 
 Several examples of top-level domains available for artists, designers and creators to buy include:

@@ -246,13 +246,15 @@ This chip needs to be powered by a coin battery, best known as a CMOS battery. W
 
 ## CMYK
 
-CMYK is a color model used in printing. It is an abbreviation of **C**yan, **M**agenta, **Y**ellow, and **K**ey (black, which refers to printing plates being keyed or aligned to the black printing plates) which provides a more reliable reproduction of images that RGB cannot provide. It is also used quite a bit thanks to its incredible accuracy that it can hold. While it is not the most accurate with darker tones (leading it to become lighter in rare cases) it still holds up to be the most accurate.
+CMYK is a color model used in printing. It is an abbreviation of **C**yan, **M**agenta, **Y**ellow, and **K**ey[^pham07cmyk] (black, which refers to printing plates being keyed or aligned to the black printing plates) which provides a more reliable reproduction of images that RGB cannot provide. It is also used quite a bit thanks to its incredible accuracy that it can hold.[^liu19cmyk] While it is not the most accurate with darker tones (leading it to become lighter in rare cases) it still holds up to be the most accurate.
 
 While it has many uses, the most used ways are in medicine and printing processes. 
 
 For medical use, it is used as an analysis tool as you can adapt the CMYK models for use to find certain stains in the cells. For example, in a study conducted to attempt to be able to find IHC (immunohistochemistry) stains, researchers edited the CMYK model to be able to read better the IHC as well as being able to tell STAT3 levels easier thanks to the better Yellow channel.
 
-For printing, as it’s most common usage. It is used side by side with Pantone as they are the two printing styles that offer the most accurate version of the original image/as the creator intends. As screens normally use RGB, most software defaults with RGB which makes it so that printers normally turn the image into CMYK for easier printing.
+For printing, as it’s most common usage. It is used side by side with Pantone as they are the two printing styles that offer the most accurate version of the original image/as the creator intends.[^plumgrove07cmyk] As screens normally use RGB, most software defaults with RGB which makes it so that printers normally turn the image into CMYK for easier printing.
+
+![cmyk](images/cmyk-perez.png)
 
 [^pham07cmyk]: Pham, Nhu-An, Andrew Morrison, Joerg Schwock, Sarit Aviel-Ronen, Vladimir Iakovlev, Ming-Sound Tsao, James Ho, and David W Hedley. “Quantitative Image Analysis of Immunohistochemical Stains Using a CMYK Color Model.” Diagnostic Pathology, February 27, 2007. https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-2-8. 
 
@@ -286,6 +288,15 @@ The ongoing innovation in codec technology, including the development of both pr
 
 
 
+
+## Compression
+Compression (or in this case Data Compression) is a process that computers[link] have for a multitude of reasons but mainly to reduce the size of digital files.[^adobecompression] There are many types of compression; image compression, audio compression, and file compression just to name a few. For all of the previously stated, they can either have [lossy](../main/glossary.md#lossy) or [lossless](../main/glossary.md#lossless) compression. 
+
+The main idea of compression is for the selected file to have more effective density and be able to communicate the information internally more easily (for example, open a file more easily or transfer the file around the computer).[^lelewer97compression] Data compression is extremely important for the effectiveness of a computer because of reasons such as less space taken in the storage which means the file will use less RAM (memory) when opening.[^tuteja04compression]
+
+[^adobecompression]: Adobe. “Lossy vs Lossless Compression: Differences & Advantages | Adobe.” www.adobe.com, n.d. https://www.adobe.com/uk/creativecloud/photography/discover/lossy-vs-lossless.html.
+[^lelewer97compression]: Lelewer, Debra A., and Daniel S. Hirschberg. “Data Compression.” ACM Computing Surveys 19, no. 3 (September 1987): 261–96. https://doi.org/10.1145/45072.45074.
+[^tuteja04compression]: Tuteja, Deepa, Ethan Miller, and Scott Brandt. “MRAMFS: A Compressing File System for Non-Volatile RAM †,” 2004. https://users.soe.ucsc.edu/~elm/Papers/mascots04mramfs.pdf.
 
 //need to delete, info now under human-computer_interaction.md
 
@@ -741,6 +752,18 @@ GitHub's development process is distributed, allowing developers to collaborate,
 [^github24wikis]: GitHub Docs. 2024. “About wikis.” Accessed January 2. https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis.
 
 [^kinsta24what]: Kinsta. 2024. ”What Is GitHub? A Beginner's Introduction to GitHub.” Accessed January 2. https://kinsta.com/knowledgebase/what-is-github/.
+
+## GPU
+A Graphic Processing Unit (GPU) is a device originally designed to perform rendering for computers to be able to make 3D visual effects on 2D surfaces.[^parker17gpu] Not to be confused with CPU [link], the GPU is tasked to run parallel to it to complete the CPU's tasks with minimum latency. Nowadays, GPU is used in countless industrial applications instead of CPU doing all the work.[^brodtkorb13gpu]
+
+Being officially created by NVIDIA™ Corporation, they made the first ever GPU called the GeForce 256 on August 31, 1999.[^nvidia99gpu] It was a decision that would take months or years to be able to master and do its job as programming the machine would take a lot of effort. 
+
+The GPU is used for graphical rendering, machine learning[link], and video editing programs requiring any mathematical calculations done rapidly (as it is the GPU’s specialty)[^amazongpu]. The GPU is also well to be able to raise the effectiveness of many compute-intensive tasks. GPUs are mostly used for gaming, professional visualization (such as video editing programs, drawing programs, and other types of visualization applications), machine learning, blockchain (such as [NFTs](../main/glossary.md#nft)), and simulations.
+
+[^parker17gpu]: Parker, Michael. 2017. Digital Signal Processing 101 : Everything You Need to Know to Get Started. Oxford, United Kingdom: Newnes.
+[^brodtkorb13gpu]: Brodtkorb, André R., Trond R. Hagen, and Martin L. Sætra. 2013. “Graphics Processing Unit (GPU) Programming Strategies and Trends in GPU Computing.” Journal of Parallel and Distributed Computing 73 (1): 4–13. https://doi.org/10.1016/j.jpdc.2012.04.003.
+[^nvidia99gpu]: NVIDIA. 1999. “NVIDIA Launches the World’s First Graphics Processing Unit: GeForce 256.” Www.nvidia.com. NVIDIA. August 31, 1999. https://www.nvidia.com/object/IO_20020111_5424.html.
+[^amazongpu]: Amazon. n.d. “What Is a GPU? - Graphics Processing Unit Explained - AWS.” Amazon Web Services, Inc. https://aws.amazon.com/what-is/gpu/.
 
 
 ## GUI (Graphical User Interface)

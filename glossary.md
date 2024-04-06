@@ -1000,6 +1000,15 @@ This aims to showcase the importance of iteration in design, and how failure and
 
 [^wrightBrosIteration]: Shlien, D. Joseph. June 18, 2000. “The Wright Brothers as Design Engineers” presented at the *ASEE Annual Conference (Session 3225)*. ASEE PEER. Accessed March 6 2024. https://peer.asee.org/8853
 
+## JPEG
+JPEG most commonly refers to the .JPG & .JPEG digital file formats, widely used for digital imagery, it is an abbreviation for Joint Photographic Experts Group, mostly known for its lossy compression format. “JPEG compression is performed by a series of operations: transform (DCT), quantization, zigzag scanning, differential pulse code modulation (DPCM), and entropy coding. Decompression is accomplished by performing inverse steps in an inverse order.”[^JPEG-compression] It was released in 1992 and standardized in 1994 by the International Organization for Standardization (under ISO/IEC 10918-1), with the goal of creating a compression standard for digital imagery with minimal quality loss at a moment where the use of digital images was often limited due to storage or data transmission costs.[^JPEG-origins] Unlike lossless compression formats, JPEG selectively discards data while compressing for significant file size reduction, and allows for progressive rendering, which is particularly useful for web-based applications and large files. Additionally, it offers variable compression levels to either prioritize file size or visual fidelity. Overall, JPEG proved to be a highly compatible and versatile option for a variety of applications, making it a format of choice. As of 2024, JPEG remains one of the prominent and most successful image compression formats used for digital imagery, notably dominant in digital photography, and supported and/or used in most modern webpages and software applications.[^JPEG-importance]
+
+[^JPEG-compression]: de Queiroz, R L. 1998. “Processing JPEG-Compressed Images and Documents.” in *IEEE Transactions on Image Processing: A Publication of the IEEE Signal Processing Society 7 (12): 1661–72*. https://doi.org/10.1109/83.730378.
+
+[^JPEG-origins]: Wallace, G.K. 1992. “The JPEG Still Picture Compression Standard.” in *IEEE Transactions on Consumer Electronics 38 (1)*. https://doi.org/10.1109/30.125072.
+
+[^JPEG-importance]: Wikipedia contributors. "JPEG." In *Wikipedia, The Free Encyclopedia*. Last modified March 30, 2024. Accessed April 1, 2024. https://en.wikipedia.org/wiki/JPEG.
+
 ## Lossless
 Lossless is when there is no loss in data. When compressing a file, we want to store fewer bits all while preserving the original content [^brookes2021lossless], this is so that data is easier to store or transmit more efficiently[^lu2016lossless]. Lossless compression occurs when the decompressed data is the same as before the compression occurred[^brookes2021lossless]. For example, PNG is a lossless compression [^brian2022lossless] because the compression does not affect the quality of the image.
 

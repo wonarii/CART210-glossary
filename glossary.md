@@ -10,16 +10,6 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-## MP3
-
-An MP3 file, also known as Motion Picture Expert Group Audio Layer III, is a compressed digital audio file that uses a technology known as psychoacoustic masking to play music or sounds that can be shared and listened to repeatedly[^Stanford] (Stanford University, 2024). MP3s are considered a lossy file as the compression it undergoes is irreversible and some of the original file’s data was lost during the compression process. In addition, while the quality is still not like the original, MP3 music files often do have fairly high audio quality. The advantage of this compression is that it also reduces the size of the file itself. For example, an average MP3 file is around 3 MB, which is very low when comparing it to a lossless file type like a Waveform Audio file, or WAV, which is often 30 MB[^Gavin] (Gavin, 2018). In making these audio files smaller through a series of compressions, it makes it easier to exchange or share via the Internet and easier to save in a hard drive[^Sterne] (Sterne, 1997). Unfortunately, all of that compression does garner some disadvantages as well in exchange for some hard drive space. One of the main disadvantages being the loss of sound quality when being converted from a lossless file format, which happens because the compression removes parts of the audio that the human ear cannot hear. Fortunately, this often goes unnoticed by the public.
-
-[^Gavin]:Gavin, Brady. 2018. “What Is an MP3 File (and How Do I Open One)?” How-to Geek. How-To Geek. August 7, 2018. https://www.howtogeek.com/361516/what-is-an-mp3-file-and-how-do-i-open-one/.
-
-[^Stanford]:Stanford University. 2024. “MP3 vs the World.” Cs.stanford.edu. March 30, 2024. https://cs.stanford.edu/people/eroberts/cs201/projects/1999-00/dmca-2k/mp3.html.
-
-[^Sterne]:Sterne, Jonathan. 1997. “The Mp3 as Cultural Artifact.” Burkart and McCourt 8. https://doi.org/10.1177/1461444806067737].
-
 ## OS
 
 An operating system, or better known as an OS, is a “program that acts as an interface between the computer user and computer hardware and controls the execution of programs”[^Wollongong] (University of Wollongong Australia, 2024). The OS’ job is to manage all the software ([Software](../main/glossary.md#Software)) and hardware of the device in order to perform basic tasks such as file, memory, and process management, essentially acting as an interface for the computer hardware and the user. There are three main types of operating systems that are widely known and used by the public, those being Microsoft Windows, Mac OS, and Linux[^GCFGlobal] (GCFGlobal, 2024). They’re all very similar for the most part, but also do have some unique characteristics. For example. Microsoft Windows is pre-downloaded on all devices except Apples devices, where Mac OS is already downloaded, and Linux does not come pre-downloaded but can be manually installed and is highly customizable. These operating systems also all use unique default browsers, Internet Explorer for Windows users, Safari for Mac users and Firefox for Linux users. As a result, these all work in different ways, but ultimately do the same thing to ensure your device runs smoothly and effectively[^Bazukiu] (Bazukiu et al. 2023, 16:161–77).
@@ -1120,6 +1110,16 @@ The easiest way to understand this term is to take it literally. The first part 
 [^Currie(n.d)mobilecomputing]: Currie, Collin. n.d. "Impact of Mobile Computing - Anticipating the Effects on the Campus," Society for College and Univerity Planning. http://webmedia.jcu.edu/institutionaleffectiveness/files/2016/04/PHEV41N2_Article_Impact-Mobile-Computing.pdf.
 [^Lutkevich(n.d)mobilecomputing]: Lutkevich, Ben. n.d. "Mobile Computing," TechTarget Mobile Computing, https://www.techtarget.com/searchmobilecomputing/definition/nomadic-computing.
 
+
+## MP3
+
+An MP3 file, also known as Motion Picture Expert Group Audio Layer III, is a compressed digital audio file that uses a technology known as psychoacoustic masking to play music or sounds that can be shared and listened to repeatedly[^Stanford] (Stanford University, 2024). MP3s are considered a lossy file as the compression it undergoes is irreversible and some of the original file’s data was lost during the compression process. In addition, while the quality is still not like the original, MP3 music files often do have fairly high audio quality. The advantage of this compression is that it also reduces the size of the file itself. For example, an average MP3 file is around 3 MB, which is very low when comparing it to a lossless file type like a Waveform Audio file, or WAV, which is often 30 MB[^Gavin] (Gavin, 2018). In making these audio files smaller through a series of compressions, it makes it easier to exchange or share via the Internet and easier to save in a hard drive[^Sterne] (Sterne, 1997). Unfortunately, all of that compression does garner some disadvantages as well in exchange for some hard drive space. One of the main disadvantages being the loss of sound quality when being converted from a lossless file format, which happens because the compression removes parts of the audio that the human ear cannot hear. Fortunately, this often goes unnoticed by the public.
+
+[^Gavin]:Gavin, Brady. 2018. “What Is an MP3 File (and How Do I Open One)?” How-to Geek. How-To Geek. August 7, 2018. https://www.howtogeek.com/361516/what-is-an-mp3-file-and-how-do-i-open-one/.
+
+[^Stanford]:Stanford University. 2024. “MP3 vs the World.” Cs.stanford.edu. March 30, 2024. https://cs.stanford.edu/people/eroberts/cs201/projects/1999-00/dmca-2k/mp3.html.
+
+[^Sterne]:Sterne, Jonathan. 1997. “The Mp3 as Cultural Artifact.” Burkart and McCourt 8. https://doi.org/10.1177/1461444806067737].
 
 ## Multiplatform
 

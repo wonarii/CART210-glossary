@@ -440,6 +440,19 @@ However, data science could be applied to almost anything that involves the stud
 [^Davenport2020Cite]: DAVENPORT, AARON C., MICHELLE D. ZIEGLER, ABBIE TINGSTAD, KATHERINE ANANIA, DANIEL ISH, NIDHI KALRA, SCOTT SAVITZ, RACHEL LIANG, and MELISSA BAUMAN. 2020. Decoding Data Science: The U.S. Coast Guard’s Evolving Needs and Their Implications. RAND Corporation. 
 [^Floridi2016Cite]: Floridi, Luciano, and Mariarosaria Taddeo. 2016. Introduction: What Is Data Ethics? Philosophical Transactions: Mathematical, Physical and Engineering Sciences 374, no. 2083: 1–5.
 
+## Dataset
+
+A dataset is essentially a structured collection of data which can be tabular or non-tabular. Four features of datasets include grouping, content, relatedness, and purpose. In this sense, the data is represented as a collective unit or a set of numbers, where addition/subtraction doesn't change the sets identity, for observing and related by time, place, instrument, or object of observation. [^Renear]. Tabular data is oragnized by rows and columns, whereas non-tablular data is unorganized with brackets. Datasets can be categorized by information, such as numerical, bivariate, mulitvariate, categorical, and correlational data  [^IBM]. Data is important for making decisions, making it valuble for making decisions regarding consumerism and science [^Renear]. 
+
+In conclusion, datasets are overall very valuble for data analaysis, in making decisions, and optimizing resources. [^Chapman]. Large datasets are essential for machine learning and algorithms [^IBM Support" 2021], valuble to companies, and overall analyzing data. 
+
+
+[^IBM]: "IBM Support.": IBM Documentation. Last modified March 1, 2021. Accessed [March 8, 2024]. https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-data-set.
+
+[^Renear]: Renear, Sacchi, and Wickett. 2011. "Definitions of dataset in the scientific and technical literature". In *Asis * T*, no. 47: 1-4. doi.org/10.1002/meet.14504701240
+
+[^Chapman]: Chapman, Simperl, Koesten, Konstanitinidis, Ibáñez, Kacprzak, and Groth. 2020. "Dataset search: a survey" in *The VLDB Journal*, no 29: 251-272. 
+
 ## Deep fakes
 
 - synthetic media
@@ -1213,9 +1226,11 @@ After all that, a really easy way to understand Network Security is fueled by so
 
 ## Neural Networks
 
-Neural networks are computational frameworks that mimic the brain's structure consisting of layers of interconnected nodes (neurons). These networks, through training, learn to perform tasks by adjusting connections based on input data, improving accuracy over time without explicit task-specific programming. They are fundamental in fields like image recognition, natural language processing, and more, due to their ability to learn from vast amounts of data and identify patterns that are not easily discernible by humans. [^NeuralNetworksHerve] . Neural networks are advanced tools for solving specific problems in areas like pattern recognition and data analysis due to their high speed and learning capabilities from examples (training data sets). [^NeuralNetworksBishop] . 
+Neural networks are computational frameworks that mimic the brain's structure consisting of layers of interconnected nodes (neurons). These networks, through training, learn to perform tasks by adjusting connections based on input data, improving accuracy over time without explicit task-specific programming. They are fundamental in fields like image recognition, natural language processing, and more, due to their ability to learn from vast amounts of data and identify patterns that are not easily discernible by humans.[^NeuralNetworksHerve] Neural networks are advanced tools for solving specific problems in areas like pattern recognition and data analysis due to their high speed and learning capabilities from examples (training data sets).[^NeuralNetworksBishop]
 
-Overall, Neural network research explores how computers can mimic the brain's way of processing information, moving away from traditional step-by-step computing to more interconnected and simultaneous methods. Researchers are trying to simplify and understand how these brain-like systems can solve complex tasks by focusing on neurons, which are like tiny processing units influenced by their connections' strengths. They also look into how these networks learn and improve through a process called backpropagation. [^BasicIdeasInNeuralNetworks] .
+Overall, Neural network research explores how computers can mimic the brain's way of processing information, moving away from traditional step-by-step computing to more interconnected and simultaneous methods. Researchers are trying to simplify and understand how these brain-like systems can solve complex tasks by focusing on neurons, which are like tiny processing units influenced by their connections' strengths. They also look into how these networks learn and improve through a process called backpropagation.[^BasicIdeasInNeuralNetworks]
+
+![Neural Networks](../images/neural-networks.png)
 
 [^NeuralNetworksHerve]:Abdi, Hervé. 1999. "Neural Networks." Quantitative Applications in the Social Sciences Series, no-07-124, Sage Publications.
 

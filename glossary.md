@@ -62,18 +62,23 @@ Agency is felt by degrees: one can feel more or less in control. This variation 
 
 Often, one may knowingly act with agency and receive the expected result of an act. However, these judgements of agency frequently do not follow actual control in situations where agency might be ambiguous.  [^Sato05agency]
 
+Feminist theory has done a lot of the heavy lifting to develop "agency" as a concept, discussing who in society has agency - the ability to exert power - and who does not, and is therefore not fully human[^Davies91agency] (women, children, the insane, the machine).
+
 ![agency](images/agency-hoekstra-01.png)
 Image made of a composition of [^Drexler16agency] [^Al24agency] [^tumblr24agency]
 
+[^Davies91agency]: Davies, Bronwyn. 1991. “THE CONCEPT OF AGENCY: A Feminist Poststructuralist Analysis.” *Social Analysis: The International Journal of Social and Cultural Practice*, no. 30: 42–53.
+
 [^MerriamWeb24agency]: “Definition of AGENCY.” 2024. January 28, 2024. https://www.merriam-webster.com/dictionary/agency.
 
-[^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” <i>Cognition</i> 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
+[^Sato05agency]: Sato, Atsushi, and Asako Yasuda. 2005. “Illusion of Sense of Self-Agency: Discrepancy between the Predicted and Actual Sensory Consequences of Actions Modulates the Sense of Self-Agency, but Not the Sense of Self-Ownership.” *Cognition* 94 (3): 241–55. https://doi.org/10.1016/j.cognition.2004.04.003.
 
 [^Drexler16agency]: Drexler, Doug. “LCARS Interface - Star Trek Deep Space Nine - TV".  2016. ArtStation. April 8, 2016. https://www.artstation.com/artwork/EbP8n.
 
 [^Al24agency]: Alrubaie, Dun. “Hand Reaching out to an Orange Sky · Free Stock Photo.” Accessed February 11, 2024. https://www.pexels.com/photo/hand-reaching-out-to-an-orange-sky-9740932/.
 
 [^tumblr24agency]: thevaultofretroscifi. “Thevaultofretroscifi.” Tumblr. Tumblr (blog). Accessed February 11, 2024. https://thevaultofretroscifi.tumblr.com/post/138664053372.
+
 
 
 
@@ -1364,15 +1369,24 @@ There are 4 more major types of ransomware:[^Razaulla23RW]
 3. Scareware: tricks users into buying or downloading malicious software, often through startling messages
 4. Leakware: threatens to make users data public unless a ransom is paid
 
-In 2023, ransomeware payouts totaled over $1.1 billion USD from an estimated 4,399 different attacks - the most costly year ever, twice as much as the year before. However, only 29% of ransomware victims in the final quarter of 2023 paid the demanded ransoms - a significant drop from years before, where 70-80% were paid, which suggests more lucrative targets are being selected for attacks. Close to 75% of ransomeware payouts top the million dollar mark.[^Greenberg24]
+In 2023, ransomeware payouts totaled over $1.1 billion USD from an estimated 4,399 different attacks - the most costly year ever, twice as much as the year before. However, only 29% of ransomware victims in the final quarter of 2023 paid the demanded ransoms - a significant drop from years before, where 70-80% were paid, which suggests more lucrative targets are being selected for attacks. Close to 75% of ransomeware payouts top the million dollar mark.[^Greenberg24] The majority of ransomware attacks result from successful social engineering attacks (usually in the form of phishing), despite educational attempts from [network security](../main/glossary.md#networksecurity) experts.[^Korolov24rw] 
 
-- want to add something about political uses of ransomware vs criminal
+Nation-states are increasingly the main perpetrators of randomware crimes, though still often utilizing tools developed by criminals. 70% of cyberattacks are now fueled by geopolitics. Factories and industrial facilities, increasingly dependent on digital infrastructure, are prime targets.[^Fernandez24rw]
 
-[^Gazet10RW]: Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” <i>Journal in Computer Virology</i> 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
 
-[^Razaulla23RW]: Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” <i>IEEE Access</i> 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
+[^Fernandez24rw]: Fernandez, Ray. 2024. “War & Geopolitical Ransomware Account For 70% of All Attacks.” 2024. Techopedia. April 6, 2024. https://www.techopedia.com/news/war-geopolitical-ransomware-account-for-70-percent-of-all-attacks.
+
+[^Gazet10RW]: Gazet, Alexandre. 2010. “Comparative Analysis of Various Ransomware Virii.” *Journal in Computer Virology* 6 (1): 77–90. https://doi.org/10.1007/s11416-008-0092-2.
 
 [^Greenberg24]: Greenberg, Andy. 2024. “Ransomware Payments Hit a Record $1.1 Billion in 2023.” *WIRED*. February 7, 2024. https://www.wired.com/story/ransomware-payments-2023-breaks-record/.
+
+[^Korolov24rw]: Korolov, Maria. 2024. “The State of Ransomware: Faster, Smarter, and Meaner.” *CSO Online*. Accessed April 6, 2024. https://www.csoonline.com/article/2069830/the-state-of-ransomware.html.
+
+[^Razaulla23RW]: Razaulla, Salwa, Claude Fachkha, Christine Markarian, Amjad Gawanmeh, Wathiq Mansoor, Benjamin C. M. Fung, and Chadi Assi. 2023. “The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions.” *IEEE Access* 11: 40698–723. https://doi.org/10.1109/ACCESS.2023.3268535.
+
+
+
+
 
 
 ## Recursion

@@ -10,18 +10,6 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
-## QR Code
-
-QR codes, short for Quick Response codes, are two-dimensional barcodes that contain information encoded within a pattern of black squares arranged on a white background. They store a wide range of data types, including URLs, text, contact information, and even [multimedia](./multimedia.md) content.[^Blevins12qrcode]
-
-QR codes are scanned using smartphones or dedicated QR code scanners, enabling quick and convenient access to information or actions. They are primarily used for marketing, ticketing, inventory tracking, payment systems, and contactless interactions.[^Lee11qrcode] Because of their ease of use, versatility, and ability to bridge the physical and digital worlds, QR codes continue to play an integral role in modern communication and [e-commerce](./e-commerce.md).[^Dekker20qrcode]
-
-[^Blevins12qrcode]: Blevins, Tim. 2012. “How QR Codes Add Value to Library Programming.” American Libraries 43, no. 3/4. 18–20.
-
-[^Lee11qrcode]: Lee, Jun-Ki, Il-Sun Lee, and Yong-Ju Kwon. 2011. “Scan & Learn! Use of Quick Response Codes & Smartphones in a Biology Field Study.” The American Biology Teacher 73, no. 8. 485–92.
-
-[^Dekker20qrcode]: Dekker, Brigitte, and Maaike Okano-Heijmans. 2020. “Business: E-Commerce, the Platform Economy and Digital Payments.” Europe’s Digital Decade? Navigating the Global Battle for Digital Supremacy. Clingendael Institute.
-
 ## Affordance
 
 Gibson coined the term “affordance” to describe what the environment “offers the individual, what it provides or furnishes, either for good or ill” 
@@ -1390,6 +1378,18 @@ Bibliography:
 [^eckerson17]: Eckerson, Wayne W. PREDICTIVE ANALYTICS Extending the Value of Your Data Warehousing Investment. Vol. FIRST QUARTER 2007 of TDWI BEST PRACTICES REPORT. TDWI Research, 2007. 
 [^kumar18]: Kumar, Vaibhav, and M. L. 2018. “Predictive Analytics: A Review of Trends and Techniques.” International Journal of Computer Applications 182 (July): 31–37. https://doi.org/10.5120/ijca2018917434.
 [^mishra12]: Mishra, Nishchol, and Dr Sanjay Silakari. 2012. “Predictive Analytics: A Survey, Trends, Applications, Opportunities & Challenges.”
+
+## QR Code
+
+QR codes, short for Quick Response codes, are two-dimensional barcodes that contain information encoded within a pattern of black squares arranged on a white background. They store a wide range of data types, including URLs, text, contact information, and even [multimedia](./multimedia.md) content.[^Blevins12qrcode]
+
+QR codes are scanned using smartphones or dedicated QR code scanners, enabling quick and convenient access to information or actions. They are primarily used for marketing, ticketing, inventory tracking, payment systems, and contactless interactions.[^Lee11qrcode] Because of their ease of use, versatility, and ability to bridge the physical and digital worlds, QR codes continue to play an integral role in modern communication and [e-commerce](./e-commerce.md).[^Dekker20qrcode]
+
+[^Blevins12qrcode]: Blevins, Tim. 2012. “How QR Codes Add Value to Library Programming.” American Libraries 43, no. 3/4. 18–20.
+
+[^Lee11qrcode]: Lee, Jun-Ki, Il-Sun Lee, and Yong-Ju Kwon. 2011. “Scan & Learn! Use of Quick Response Codes & Smartphones in a Biology Field Study.” The American Biology Teacher 73, no. 8. 485–92.
+
+[^Dekker20qrcode]: Dekker, Brigitte, and Maaike Okano-Heijmans. 2020. “Business: E-Commerce, the Platform Economy and Digital Payments.” Europe’s Digital Decade? Navigating the Global Battle for Digital Supremacy. Clingendael Institute.
 
 ## Quantum Computing
 Quantum Computing is an emerging type of computing that utilizes principles of quantum mechanics to expedite certain processes and calculations, faster than classical computing. A key principle in the difference between quantum and classical computing is qubits. Like bits, a qubit can be in 2 states, a 0 or a 1. However, operating under quantum mechanics, a qubit can be in a third state called superposition. This essentially means that, before being measured, a qubit exists in the states of 0 and 1 simultaneously[^mcmahon08quantum]. This allows the quantum computers to process multiple calculations concurrently and sort databases with optimized algorithms which accelerates the processing speed. This function is called parallelism[^gruska99quantum]. 

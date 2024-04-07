@@ -9,11 +9,11 @@ In addition, hashtags can be useful in assisting people in need and raising awar
 
 ![Hashtag](../images/hashtag-tham.png)
 
-[^Merriam-Webester24Hashtag]: Merriam-Webster. 2024. “Hashtag.” https://www.merriam-webster.com/dictionary/hashtag. 
+[^Merriam-Webester24Hashtag]: “Hashtag.” Merriam-Webster. Accessed January 27. https://www.merriam-webster.com/dictionary/hashtag. 
 
-[^Hastags.org12Whatis#]: Hastags. 2012. “What is a (#) Hashtag?.” hashtags.org. https://www.hashtags.org/how-to/history/what-is-a-hashtag/.
+[^Hastags.org12Whatis#]: Hastags. 2012. “What is a (#) Hashtag?.” hashtags.org. Accessed January 27. https://www.hashtags.org/how-to/history/what-is-a-hashtag/.
 	
-[^SproutSocial23HashtagsWhatAreThey]: “Hashtags: What they are and how to use them effectively.” Sprout Social.  https://sproutsocial.com/insights/what-is-hashtagging/.
+[^SproutSocial23HashtagsWhatAreThey]: “Hashtags: What they are and how to use them effectively.” Sprout Social. Accessed January 27. https://sproutsocial.com/insights/what-is-hashtagging/.
 
 [^GiannoulakisTsapatsoulisPowerOfInstagram]: Giannoulakis, Stamatios, and Tsapatsoulis, Nicolas. 2016. “Evaluating the descriptive power of Instagram hashtags.” Journal of Innovation in Digital Ecosystems, Vol. 3, p.114-129. https://www.sciencedirect.com/science/article/pii/S2352664516300141?ref=pdf_download&fr=RR-2&rr=86fc3e901a046e02.
 

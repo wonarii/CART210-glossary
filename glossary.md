@@ -889,31 +889,38 @@ Image on the bottom corner[^rosenthal21hologram]
 [^rosenthal21hologram]: Rosenthal, Lynn. *Could Holograms Be the Future of Entertainment and Advertising?*. Image. RollingStone. December 14, 2021. https://www.rollingstone.com/culture-council/articles/holograms-future-entertainment-advertising-1268769/.
 
 ## HTTPS
+Throughout most of the [Internet](../main/glossary.md#internet)
+history, web traffic was unencrypted, meaning that traffic went over HTTP without the protection of SSL or TLS. This lack of encryption allowed anyone on the network positioned between the client(user) and the server to intercept or modify the transmitted content. As the Internet evolved, HTTPS adoption increased and websites using HTTP could even change the UI to alert users to potential privacy risks.[^MozillaGoogleHTTPSAdoptionOnWeb] Nowadays, users depend heavily on HTTPS for secure communication with websites, fostering trust in the protection of their private information.[^ClarkOorschotSSLandHTTPS]
 
 HTTPS is an extension of the HTTP but is more secure as it incorporates encryption, authentication, and integrity checks. It provides a secure method for transmitting data between a web server and a web browser by using encryption technology like SSL or TLS. It operates on a request-response model, it sends a request and awaits the server’s response.[^WhatIsHTTPS24]
+
 HTTPS safeguards users against any malicious activities such as eavesdroppers and man-in-the-middle attacks. It is relatively easy to impersonate, modify or monitor an HTTP connection since any information is sent as a plain text. Therefore, using HTTPS is more secure and ensure that no attacks can temper with the exchanged information.[^HypertextTransferProtocolSecure22]
 
 ### HTTPS Cryptographic protocols
-
 #### Secure Sockets Layer (SSL)
 SSL is the predecessor to the modern encryption, TLS. It was developed by Netscape in 1995[^CloudflareWhatIsSSL24] for ensuring the identity and authentication of a website, enabling a secure HTTP session between the client and the server. However, since SSL 3.0,  developed in 1996, several vulnerabilities have been identified, rendering it unsafe for use. Consequently, most browsers no longer support this protocol.
 
 #### Transport Layer Security (TLS)
 TLS is the successor of SSL and ensures privacy, authenticity and data security while exchanging data over the internet. The key difference between SSL and TLS lies in the handshake process, where a browser authenticates a server’s SSL or TLS certificate. SSL handshake involves an explicit connection and has more steps, while TLS is an implicit one, making it faster.[^AWSDifferenceBetweenSSL]
 
-The term SSL and SSL/TLS both refer to the TLS protocol and certificates, as all version of SSL are now deprecated.
+The terms SSL and SSL/TLS both refer to the TLS protocol and certificates, as all version of SSL are now deprecated and considered outdated version of TLS.[ ^ClarkOorschotSSLandHTTPS]
 
-HTTPS contributes to a better overall user experience by providing faster loading times, especially on modern web browsers and prioritize secure connections. Additionally, search engines prioritize websites that use HTTPS in their search results.[^LinkedInHTTPSSEO24] It plays an important role in facilitating secure communication and interaction across various platform, including social media, streaming service and many more website. It does integrate an safety wall for the users navigating the web.
+HTTPS contributes to a better overall [user](../main/glossary.md#user)
+experience by providing faster loading times, especially on modern web browsers and prioritize secure connections. Additionally, search engines prioritize websites that use HTTPS in their search results.[^LinkedInHTTPSSEO24] It plays an important role in facilitating secure communication and interaction across various platform, including social media, streaming service and many more website. It does integrate a safety wall for the users navigating the web, therefore it plays a crucial role in the context of new media.
 
-[^WhatIsHTTPS24]: Pol, Tushar. 2024. “What is HTTPS?.” Semrush Blog. https://www.semrush.com/blog/what-is-https/.
+[^MozillaGoogleHTTPSAdoptionOnWeb]: Barnes, Richard, Bentzel, Chris, King, April, Palmer, Chris, Porter Felt, Adrienne, and Tabriz, Parisa. 2017. “Measuring HTTPS Adoption on the Web.” USENIX. Accessed April 05. https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/felt.
 
-[^HypertextTransferProtocolSecure22]: Awati, Rahul. 2022. “Hypertext Transfer Protocol Secure (HTTPS).” TechTarget. https://www.techtarget.com/searchsoftwarequality/definition/HTTPS.
+[^ClarkOorschotSSLandHTTPS]: Clark, Jeremy, and Van Oorschot, P. C. 2013. “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificate trust model enhancements.” IEEE Symposium on Security and Privacy, Berkeley, CA, USA, 2013, pp. 511-525. https://ieeexplore.ieee.org/abstract/document/6547130/authors.
 
-[^CloudflareWhatIsSSL24]: Cloudflare. 2024. “What is SSL | SSL definition.” https://www.cloudflare.com/learning/ssl/what-is-ssl/.
+[^WhatIsHTTPS24]: Pol, Tushar. 2024. “What is HTTPS?.” Semrush Blog. Accessed January 27. https://www.semrush.com/blog/what-is-https/.
 
-[^AWSDifferenceBetweenSSL&TLS24]: AWS. 2024. “What’s the Difference Between SSL and TLS?.” https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=SSL%20is%20technology%20your%20applications,that%20fixes%20existing%20SSL%20vulnerabilities.
+[^HypertextTransferProtocolSecure22]: Awati, Rahul. 2022. “Hypertext Transfer Protocol Secure (HTTPS).” TechTarget. Accessed January 27. https://www.techtarget.com/searchsoftwarequality/definition/HTTPS.
 
-[^LinkedInHTTPSSEO24]: AI and the LinkedIn community. 2024. "Why does HTTPS matter for SEO?." LinkedIn. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
+[^CloudflareWhatIsSSL24]: “What is SSL | SSL definition.” Cloudflare. Accessed January 27. https://www.cloudflare.com/learning/ssl/what-is-ssl/.
+
+[^AWSDifferenceBetweenSSL&TLS24]: “What’s the Difference Between SSL and TLS?.” AWS. Accessed January 27. https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/#:~:text=SSL%20is%20technology%20your%20applications,that%20fixes%20existing%20SSL%20vulnerabilities.
+
+[^LinkedInHTTPSSEO24]: AI and the LinkedIn community. 2024. "Why does HTTPS matter for SEO?." LinkedIn. Accessed January 27. https://www.linkedin.com/advice/0/why-https-important-seo-skills-search-engines-ixwyc#:~:text=HTTPS%20is%20crucial%20for%20SEO,in%20search%20engine%20results%20pages.
 
 ## Human-Computer Interaction 
 
@@ -1641,27 +1648,27 @@ As unsupervised learning evolves, its application in uncovering hidden insights 
 [^usama19unsupervised_machine_learning]: Usama, Muhammad, Junaid Qadir, Aunn Raza, Hunain Arif, Kok-lim Alvin Yau, Yehia Elkhatib, Amir Hussain, and Ala Al-Fuqaha. 2019. “Unsupervised Machine Learning for Networking: Techniques, Applications and Research Challenges.” IEEE Access 7: 65579–615. https://doi.org/10.1109/ACCESS.2019.2916648.
 
 ## User
-A user has many definitions, but let’s focus on the concept of an end user within the technology field. An end user is a person who utilizes a product or service such as a computer, software and many more, without involvement in its production or sell. Therefore, they are often referred to as customer and operator[^TheStateOfTheArtInEndUser]. End users typically have user accounts with usernames and passwords to authenticate themselves within a system.[^Chinel23Whatisuser]
+The term "user" originates from the Old French word "user," meaning to employ or make use of, and also from Vulgar Latin "usare," which denotes making use of or taking advantage of something. In addition, the term "user" in the context of computers was invented in 1967.[^etymolineUser] One of the earliest instances of its use in the context of computing can be traced back to the pioneering work at institutions like the Digital Equipment Computer Users' Society.[^StackExchangeWhyCalledUsers]
 
-The term "user" originates from the Old French word "user," meaning to employ or make use of, and also from Vulgar Latin "usare," which denotes making use of or taking advantage of something. The term "user" in the context of computers was invented in 1967. [^etymolineUser] One of the earliest instances of its use in the context of computing can be traced back to the pioneering work at institutions like the Digital Equipment Computer Users' Society.[^StackExchangeWhyCalledUsers]
+A user has many definitions, but let’s focus on the concept of an end user within the technology field. An end user is a person who utilizes a product or service such as a computer, [software](../main/glossary.md#software) and many more, without involvement in its production or sell. Therefore, they are often referred to as customers and operators.[^TheStateOfTheArtInEndUser] End users typically have user accounts with usernames and passwords to authenticate themselves within a system.[^Chinel23Whatisuser]
 
-Understanding the needs of customers who utilize the product is important for developing the best product tailored for the intended users. In addition, gathering input from users through surveys, interviews, and testing can provide valuable feedback. This feedback can help identify areas for improvement and enable the customization of the user experience to better meet the users’ needs.[^Indeed23WhatIsAnEndUser]
+Understanding the needs of customers who utilize the product is important for developing the best product tailored for the intended users. Additionally, gathering input from users through surveys, interviews, and testing can provide valuable feedback. This feedback can help identify areas for improvement and enable the customization of the user experience to better meet the users’ needs.[^Indeed23WhatIsAnEndUser] 
 
-Users interact with technology in various ways, including navigating interfaces, inputting commands, providing data, and receiving outputs. Therefore, user experience (UX) and User Interface (UI) play a crucial role in the success of a product or service. It is important to consider the end-user experience during the developing of the products and services.[^IntuitMailchimp24EndUser]
+Users play an important role in the context of new media as they interact with technology in various ways, including navigating interfaces, inputting commands, providing data, and receiving outputs. For example, touchscreen devices which are mostly use nowadays, offer operation flexibility, allowing users to navigate vertically or horizontally using one or more fingers or thumbs while accessing different applications. Distinguishing between tablets and smartphones is crucial due to variations in size, weight, and shape, necessitating different design considerations for ergonomic interface design.[^BröhlMertensZiefleUsersMobile] Therefore, user experience ([UX](../main/glossary.md#ux)) and user interface ([UI](../main/glossary.md#ui)) play a crucial role in the success of a product or service.[^IntuitMailchimp24EndUser] 
 
+[^TheStateOfTheArtInEndUser]: Ko, Andrew J., Abraham, Robin, Beckwith, Laura, Blackwell, Alan, Burnett, Margaret, Erwig, Martin, Scaffidi, Chris, Lawrance, Joseph; Lieberman, Henry; Myers, Brad; Rosson, Mary Beth; Rothermel, Gregg, Shaw, Mary, and Wiedenbeck, Susan. 2010. "The State of the Art in End-User Software Engineering". ACM Computing Surveys, Vol. 43, Issue 3, Article No. 3, p.1-44. https://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf).
 
-[^TheStateOfTheArtInEndUser]: Ko, Andrew J.; Abraham, Robin; Beckwith, Laura; Blackwell, Alan; Burnett, Margaret; Erwig, Martin; Scaffidi, Chris; Lawrance, Joseph; Lieberman, Henry; Myers, Brad; Rosson, Mary Beth; Rothermel, Gregg; Shaw, Mary; Wiedenbeck, Susan. 2011. "The State of the Art in End-User Software Engineering": 1–44. ACM Computing Surveys. https://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf).
+[^Chinel23Whatisuser]: “What Is User? Definition, Types and Role.” Chisel Glossary. Accessed January 27. https://chisellabs.com/glossary/what-is-user/.
 
-[^Chinel23Whatisuser]: Chisel glossar. 2023 “What Is User? Definition, Types and Role.” https://chisellabs.com/glossary/what-is-user/.
+[^etymolineUser]: "User (n.)." Online Etymology Dictionary. Accessed January 27. https://www.etymonline.com/word/user.
 
-[^etymolineUser]: Online Etymology Dictionary. 2017. "User (n.)." https://www.etymonline.com/word/user.
+[^StackExchangeWhyCalledUsers]: Graf, Michael. 2023. "Why were computer customers called "Users"?." StackExchange. Accessed January 27.  https://retrocomputing.stackexchange.com/questions/15202/why-were-computer-customers-called-users.
 
-[^StackExchangeWhyCalledUsers]: Graf, Michael. 2023. "Why were computer customers called "Users"?." StackExchange. https://retrocomputing.stackexchange.com/questions/15202/why-were-computer-customers-called-users.
+[^Indeed23WhatIsAnEndUser]: Indeed Editorial Team. 2023. “What is an End User? Definition, Examples and Tips.” Indeed. Accessed January 27.  https://www.indeed.com/career-advice/career-development/end-user.
 
-[^Indeed23WhatIsAnEndUser]: Indeed Editorial Team. 2023. “What is an End User? Definition, Examples and Tips.” Indeed. https://www.indeed.com/career-advice/career-development/end-user.
+[^BröhlMertensZiefleUsersMobile]: Bröhl, Christina, Mertens, Alexander, and Ziefle, Martina. 2017. “How Do Users Interact with Mobile Devices? An Analysis of Handheld Positions for Different Technology Generations.” In: Zhou, J., Salvendy, G. (eds) Human Aspects of IT for the Aged Population. Applications, Services and Contexts. ITAP 2017. Lecture Notes in Computer Science(), Vol. 10298. Springer, Cham. https://doi.org/10.1007/978-3-319-58536-9_1.
 
-[^IntuitMailchimp24EndUser]: Intuit Mailchimp. 2024. “End User.” https://mailchimp.com/marketing-glossary/end-user/.
-
+[^IntuitMailchimp24EndUser]: “End User.” Intuit Mailchimp. Accessed January 27.  https://mailchimp.com/marketing-glossary/end-user/.
 
 ## UX (User Experience)
 ### Definition

@@ -1330,6 +1330,20 @@ However, both ends compel self-reflection, positing a need to renew the existing
 
 [^halberstamLivingston95posthuman]: Halberstam, Judith M., and Ira Livingston, eds. Posthuman bodies. Indiana University Press, 1995.
 
+## Predictive Analytics
+
+Predictive analytics employs statistical modeling, machine learning, and data mining to forecast future trends and behaviors based on historical data patterns. It encompasses data collection, preprocessing, model creation, and deployment for various applications like fraud detection and customer retention, aligning with business objectives[^kumar18]. Key steps include project definition, data exploration, preparation, model building, deployment, and management, utilizing supervised and unsupervised machine learning approaches[^mishra12].
+
+Its applications span finance, healthcare, and marketing, aiding tasks such as demand forecasting and risk assessment[^kumar18]. Challenges include understanding business nuances and requiring human expertise in model development and interpretation[^eckerson17]. Future advancements may involve refining existing models and integrating modern machine learning methods like deep learning[^kumar18].
+
+In summary, predictive analytics have proactive decision-making capabilities, enabling anticipation of future events, risk mitigation, and capitalization on opportunities[^kumar18]. Despite complexities, it holds promise for the advancements in driving informed decision-making and unlocking valuable insights from data[^eckerson17].
+
+Bibliography:
+
+[^eckerson17]: Eckerson, Wayne W. PREDICTIVE ANALYTICS Extending the Value of Your Data Warehousing Investment. Vol. FIRST QUARTER 2007 of TDWI BEST PRACTICES REPORT. TDWI Research, 2007. 
+[^kumar18]: Kumar, Vaibhav, and M. L. 2018. “Predictive Analytics: A Review of Trends and Techniques.” International Journal of Computer Applications 182 (July): 31–37. https://doi.org/10.5120/ijca2018917434.
+[^mishra12]: Mishra, Nishchol, and Dr Sanjay Silakari. 2012. “Predictive Analytics: A Survey, Trends, Applications, Opportunities & Challenges.”
+
 ## Quantum Computing
 Quantum Computing is an emerging type of computing that utilizes principles of quantum mechanics to expedite certain processes and calculations, faster than classical computing. A key principle in the difference between quantum and classical computing is qubits. Like bits, a qubit can be in 2 states, a 0 or a 1. However, operating under quantum mechanics, a qubit can be in a third state called superposition. This essentially means that, before being measured, a qubit exists in the states of 0 and 1 simultaneously[^mcmahon08quantum]. This allows the quantum computers to process multiple calculations concurrently and sort databases with optimized algorithms which accelerates the processing speed. This function is called parallelism[^gruska99quantum]. 
 Another quantum mechanic property that qubits posses is entanglement. This is the concept of two or more particles (or qubits) become entwined where the state of one particle determines the state of the other particle (and vice-versa) regardless of distance[^rieffel00introduction]. This principle permits qubits to execute specific quantum algorithms that enhance information processing as well as perform parallelism tasks instantly through intertwined qubits. These operations of the qubits are all manipulated through quantum gates, which are the foundational element of quantum computing[^mcmahon08quantum]. Sequences quantum gates are used to create quantum circuits, which are representations of quantum algorithms. 

@@ -1,9 +1,8 @@
 ## UI (User Interface)
 ### Definition
 
-UI, also known as User Interface, is the human-computer point of contact in any  digital device, application, or software [^coursera01ui].
+UI, also known as User Interface, is the human-computer point of contact in any  digital device, application, or software [^coursera01ui]. Those points of interaction include screens, keyboards, computer mice, remote controls, etc. 
 
-(under construction + placeholder for my sources)
 - [^harris02ui]
 - [^mckay03ui]
 - [^kristiadi04ui]
@@ -11,10 +10,12 @@ UI, also known as User Interface, is the human-computer point of contact in any 
 ### Examples
 
 ### Difference Between UX and UI
-| UX  | UI  |
-| --- | --- |
-| -   | -   |
-| -   | -   |
+| UX                                      | UI                                  |
+|-----------------------------------------|-------------------------------------|
+| Entire process of creation              | Focusing on the looks             |
+| How does the interaction make them feel | What does the user interact with  |
+| Make the purpose of the buttons clear   | Give the buttons an attractive visual |
+| User's journey from start to end        | User's interaction with a specific element |
 
 
 [^coursera01ui]: Coursera Staff. 2023. “What Is Ui Design? Definition, Tips, Best Practices.” Coursera. https://www.coursera.org/articles/ui-design. 

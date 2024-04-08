@@ -355,6 +355,12 @@ The first copyright law passed in America was in 1790 in the United States, whic
 
 Copyright can expire after a certain amount of years. The time it takes for it to expire may vary on the country. It would then fall into the public domain, where it becomes available to be used, distributed or reworked freely.[^dulongmartin12copyright]
 
+### See also
+
+[Copyleft](../keywords/copyleft.md)
+
+[Creative Commons](../keywords/creativecommons.md)
+
 ![copyright-covaliu](../images/copyright-covaliu.png) [^pexelscopyright][^khromkrathokcopyright][^purePNGcopyright][^wikipedia2012copyright]
 
 [^govcan23copyright]: Government of Canada. "A guide to copyright." Government of Canada. Last modified January 10, 2023. https://ised-isde.canada.ca/site/canadian-intellectual-property-office/en/guide-copyright.
@@ -571,6 +577,26 @@ https://www.tsjournal.org/index.php/jots/article/view/56
 
 
 
+## Digital Footprint
+
+A digital footprint is a trail of data that a user leaves behind as they browse the internet[^coates12digitalfootprint]. This data comes from downloading online files, visiting websites and webpages, sending emails, and submitting information. According to the Canadian Center for Cyber Security, a digital footprint is built both actively and passively. An active digital footprint is done through intentional actions such as accepting cookies, posting things online and filling out forms. A passive digital footprint is left unintentionally, with some websites tracking the user’s IP address without their knowledge[^govcan24digitalfootprint]. This often leads to third parties accessing it[^coates12digitalfootprint]. Many things could make up a person’s digital footprint: their location, their address, their internet usage, their methods of communication, their employment history and much more[^weavergahegan07digitalfootprint]. A digital footprint leaves bits and pieces of someone’s personal information, which could potentially be a threat to their privacy and safety if accessed by someone with harmful intentions such as identity theft. 
+
+A good way to reduce one’s digital footprint is to limit or even refuse website cookies and be weary of dangerous websites or possible phishing scams. It is also recommended to install anti-virus software to prevent data sharing and to use a VPN[^govcan24digitalfootprint].
+
+### See also
+
+[Dataset](../keywords/dataset.md)
+
+[Data Mining](../keywords/datamining.md)
+
+[Pattern Recognition](..keywords/patternrecognition.md)
+
+[^govcan24digitalfootprint]: Canadian Center for Cyber Security. 2024. “Digital footprint (ITSAP.00.133).” Government of Canada. Last modified February 16, 2024. https://www.cyber.gc.ca/en/guidance/digital-footprint-itsap00133
+
+[^coates12digitalfootprint]: Coates, David. 2012. “Privacy Rights”, *The Oxford Companion to American Politics v.s*. Oxford University Press (2012). https://www-oxfordreference-com.lib-ezproxy.concordia.ca/display/10.1093/acref/9780199764310.001.0001/acref-9780199764310-e-0206?rskey=KkQbu2&result=7 
+
+[^weavergahegan07digitalfootprint]: Weaver, Stephen D., & Gahegan, Mark. 2007. “Constructing, Visualizing, and Analyzing a Digital Footprint.” *Geographical Review* 97, no. 3 (July): 324-350. https://www.jstor.org/stable/30034175
+
 # Digitization:
 
 Digitization is a process or a creation of a physical object that becomes photographed, processed into the computer using descriptive coding and then fully becomes a digital media that can be viewed across any search engine.[^mallison23digitization] Digitization entails any physical object or in-person sound that was scanned or recorded and uploaded to a computer to then be showcased within the digital realm. By digitizing data and services, it allows things like energy transformation, mobility and logistic sectors, and enhanced health care to be possible.[^kagermann15digitization] 
@@ -751,11 +777,17 @@ Futurism was an artistic and social movement that started in Italy at the beginn
 
 However, this movement was not without controversy. Because futurists had an industrialized view of the future, they deemed museums and libraries as unnecessary and advocated for their destruction. They also deemed feminism as unnecessary.[^casden15futurism][^luisettisomigli09futurism] Another reason for this is due to Italy not being as industrially developed during this time as the other powerful countries. Italy was often associated with classical art movements such as the Renaissance, making technological advancements seem more necessary than ever.[^casden15futurism] Futurism also had heavy ties to Fascism, with members siding with Mussolini after the First World War.[^luisettisomigli09futurism]
 
+### See also
+
+[Post-Digital](../keywords/postdigital.md)
+
+[Posthuman](../keywords/posthuman.md)
+
 [^casden15futurism]: Casden, Emily. 2015. “Italian Futurism: An Introduction.” Khan Academy. https://www.khanacademy.org/humanities/art-1010/xdc974a79:italian-art-before-world-war-i/art-great-war/a/italian-futurism-an-introduction 
 
-[^coenmunsgrove03futurism]: Coen, Ester, and John Musgrove. 2003. “Futurism.” Oxford art online. DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1093/gao/9781884446054.article.T030277 
+[^coenmunsgrove03futurism]: Coen, Ester, and John Musgrove. 2003. “Futurism.” *Oxford art online*. DOI: https://doi-org.lib-ezproxy.concordia.ca/10.1093/gao/9781884446054.article.T030277 
 
-[^luisettisomigli09futurism]: Luisetti, Federico, and Luca Somigli. “A Century of Futurism: Introduction.” Annali d’Italianistica 27, (2009): 13-21. JSTOR, https://www.jstor.org/stable/24016244
+[^luisettisomigli09futurism]: Luisetti, Federico, and Luca Somigli. “A Century of Futurism: Introduction.” *Annali d’Italianistica* 27, (2009): 13-21. JSTOR, https://www.jstor.org/stable/24016244
 
 ## GAN
 

@@ -128,6 +128,18 @@ Some museums have incorporated new technologies in the recent decade by [digital
 [^graphql24basics]: 2024. "GraphQL is better than REST." How to GraphQL. Accessed February 26, 2024. https://www.howtographql.com/basics/1-graphql-is-the-better-rest/. 
 [^meta15graphql]: Byron, Lee. 2015. "GraphQL: A data query language." Engineering at Meta. Accessed February 26, 2024. https://engineering.fb.com/2015/09/14/core-infra/graphql-a-data-query-language/
 [siegel18APIs]: Siegel, Camille. 2018. "APIs and the art world: Working together for digital collaboration." Axway. https://blog.axway.com/product-insights/amplify-platform/application-integration/apis-art-world.
+## Artificial life
+
+Artificial life is a field of research ranging from computer science to biology. Its goal is to simulate various forms of life, in mathematical, computer and/or robotic form. [^Langton89systems] Artificial life thus allows the more in-depth study of the principles of life, its creation and new applications. [^Bedau&Packard94evolution]
+
+[^Langton89systems]: Langton, C. G. (1989). Artificial life. In Artificial life (pp. 1-47). Springer, Boston, MA2
+https://faculty.washington.edu/lynnhank/Langton.pdf 
+
+[^Bedau&Packard94evolution]: Bedau, M. A., & Packard, N. H. (1994). Measurement of evolutionary activity, teleology, and life. Artificial life, 1(1-2), 11-221
+https://people.reed.edu/~mab/publications/papers/alife2.pdf
+
+Farnell R. (2000). Attempting Immortality : AI, A-Life, and the Post-humain in Greg Egan’s Permutation City
+
 ## Asset
 
 The definition of asset in a general context is rooted in the business and economics. In a paper on the definition of a brand asset, the term is defined as a symbol that helps identify goods or services that differentiates it from its competitors.[^tollington98asset]

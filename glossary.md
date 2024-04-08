@@ -397,11 +397,26 @@ Cryptocurrency is a type of digital or virtual currency that uses cryptography f
 
 ## CSS (Cascading Style Sheet)
 ### Definition
+CSS, or Cascading Style Sheet, is a language used to style HTML or XML documents. CSS gives developpers and designers the power to change the presentation of a webpage/website [^meyer01css]. They can personnalize everything from fonts, to colors, to the layout [^robbins02css]. More experienced developpers can even play around with the behavior of a page. CSS is usually written independently from the HTML files in a file of type ".css". CSS was created to allow HTML files to be exlusively markup [^g04css].  
+
+There are 3 ways to add CSS to a webpage [^w3school03css]:
+1. **External**: CSS is written in an external file and then linked to its respective HTML file with a \<link> tag within the \<head>. Ex:  
+\<head>  
+\<link rel="stylesheet" href="thecssfile.css">  
+\</head>
+2. **Internal**: CSS is written just as if it was in a separate file, but directly in the HTML file within a \<style> tag. Ex:  
+\<style>  
+body {  
+  color: black;  
+  padding: 0px;  
+}  
+\</style>
+3. **Inline**: CSS properties are written inline with the tag they are directly modifying. This way is usually reserved for properties that need to be prioritized in loading. It is not recommended otherwise as it can reduce code readability. Ex:  
+\<body>  
+\<p style="color:black; padding:5px;">This is a paragraph.\</p>  
+\</body>  
 
 
-(under construction + placeholder for my sources)
-- [^meyer01css]
-- [^robbins02css]
 
 ### Examples
 
@@ -411,6 +426,8 @@ Cryptocurrency is a type of digital or virtual currency that uses cryptography f
 
 [^meyer01css]:Meyer, Eric A. 2006. "CSS: The Definitive Guide: The Definitive Guide." O'Reilly Media, Inc.
 [^robbins02css]:Robbins, Jennifer Niederst. 2012. "Learning web design: A beginner's guide to HTML, CSS, JavaScript, and web graphics." O'Reilly Media, Inc.
+[^g04css]:G, Domantas. 2023. "What is CSS?" Hostinger, Accessed 27-01-2024, https://www.hostinger.com/tutorials/what-is-css.
+[^w3school03css]:W3Schools. "CSS How To." W3Schools, Accessed 27-01-2024, https://www.w3schools.com/css/css_howto.asp.
 
 
 
@@ -1816,26 +1833,38 @@ ChatGPT4 to help me find references and to translate some texts.
 ## UI (User Interface)
 ### Definition
 
-UI, also known as User Interface, is the human-computer point of contact in any  digital device, application, or software [^coursera01ui].
+UI, also known as User Interface, is the human-computer point of contact in any digital device, application, or software [^coursera01ui]. Those points of interaction can include screens, keyboards, computer mice, remote controls, etc., but UI is most commonly referred to in terms of website or software application design [^Churchville02ui]. UI design is all about the communication between the user and the product [^mckay04ui]. 
 
-(under construction + placeholder for my sources)
-- [^harris02ui]
-- [^mckay03ui]
-- [^kristiadi04ui]
+Contrary to UX (user experience), which is present throughout the entire creation process, UI design specifically focuses interactions between the user and the product [^harris03ui]. UI designers work with navigational elements, input controls, information components, and containers. They design the colors, size, appearance, and overall style of those elements. 
 
-### Examples
 
-### Difference Between UX and UI
-| UX  | UI  |
-| --- | --- |
-| -   | -   |
-| -   | -   |
+### Differences between UX and UI
+| UX                                      | UI                                  |
+|-----------------------------------------|-------------------------------------|
+| Entire process of creation              | Focusing on the looks             |
+| How does the interaction make them feel | What does the user interact with  |
+| Make the purpose of the buttons clear   | Give the buttons an attractive visual |
+| User's journey from start to end        | User's interaction with a specific element |
+| Easy to use | Easy on the eye
+| "Analytical and technical field" [^kristiadi05ui] | "Graphic design" [^kristiadi05ui]  | 
+
+#### Examples
+1. Imagine the newest bathrooms at Concordia University where the hand dryer and the faucet are connected in the shape of a T. Now imagine if they were a website. The UI designers did a wonderful job creating a design that seamlessly fits with the rest of the bathroom. It is generally nice to look at. It's usability on the other hand, is lacking. The UX designers failed to take into account that when the dryers turn on, the water in the sink is splashed right back at the user.
+
+### What do they have in common?
+UX and UI designers often work together to assure their product's:
+- Usability
+- Interactivity
+- Behavior
+- Effortless experience
 
 
 [^coursera01ui]: Coursera Staff. 2023. “What Is Ui Design? Definition, Tips, Best Practices.” Coursera. https://www.coursera.org/articles/ui-design. 
-[^harris02ui]: Harris, Patricia. 2017. "What Is User Interface Design?" The Rosen Publishing Group, Inc.
-[^mckay03ui]: McKay, Everett N. 2013. "UI is communication: How to design intuitive, user centered interfaces by focusing on effective communication" Newnes.
-[^kristiadi04ui]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
+[^Churchville02ui]:Churchville, Fred. 2023. "User Interface (UI)." SearchAppArchitecture. Accessed 26-01-2024. https://www.techtarget.com/searchapparchitecture/definition/user-interface-UI.
+[^harris03ui]: Harris, Patricia. 2017. "What Is User Interface Design?" The Rosen Publishing Group, Inc.
+[^mckay04ui]: McKay, Everett N. 2013. "UI is communication: How to design intuitive, user centered interfaces by focusing on effective communication" Newnes.
+[^kristiadi05ui]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
+
 
 
 
@@ -1891,22 +1920,35 @@ Users play an important role in the context of new media as they interact with t
 ## UX (User Experience)
 ### Definition
 
-UX, also known as UX design or User Experience, is a concept in the field of human-computer interaction [^yablonski01ux].
+UX, also known as UX design or User Experience, is a concept in the field of human-computer interaction [^yablonski01ux]. UX refers to the the process of designing a product or service that meets a user's needs and provides a meagninful overall experience. The process includes research that  stretches across multiple domains like engineering, marketing, and production teams.
 
-(under construction)
-- [^berni02ux]
+UX designers research the way users interact with and use prodcuts. They need to understand the users' mind in order to understand their needs. They take into account factors such as predispositions, needs, motivation, and mood of the user in order to build the complexity, purpose, usability, accessibility and functionnality of the product [^berni02ux]. They make sure that the product meets the business goals and objectives by outlining the product's abilities and limitations. 
 
-### Examples
+### Differences between UX and UI
+| UX                                      | UI                                  |
+|-----------------------------------------|-------------------------------------|
+| Entire process of creation [^idf04ux]               | Focusing on the looks             |
+| How does the interaction make them feel | What does the user interact with  |
+| Make the purpose of the buttons clear   | Give the buttons an attractive visual |
+| User's journey from start to end        | User's interaction with a specific element |
+| Easy to use | Easy on the eye
+| "Analytical and technical field" [^kristiadi03ux] | "Graphic design" [^kristiadi03ux]  | 
 
-### Difference Between UX and UI
-| UX  | UI  |
-| --- | --- |
-| -   | -   |
-| -   | -   |
+#### Examples
+1. Imagine the newest bathrooms at Concordia University where the hand dryer and the faucet are connected in the shape of a T. Now imagine if they were a website. The UI designers did a wonderful job creating a design that seamlessly fits with the rest of the bathroom. It is generally nice to look at. It's usability on the other hand, is lacking. The UX designers failed to take into account that when the dryers turn on, the water in the sink is splashed right back at the user.
+
+### What do they have in common?
+UX and UI designers often work together to assure their product's:
+- Usability
+- Interactivity
+- Behavior
+- Effortless experience
 
 
 [^yablonski01ux]: Yablonski, Jon. Laws of UX. 2024. " O'Reilly Media, Inc."
 [^berni02ux]: Berni, Aurora, and Yuri Borgianni. 2021. "From the definition of user experience to a framework to classify its applications in design." Proceedings of the Design Society 1 (2021): 1627-1636.
+[^idf04ux]: Interaction Design Foundation. 2016. "UX Design." Interaction Design Foundation, Accessed 26-01-2024, https://www.interaction-design.org/literature/topics/ux-design.
+[^kristiadi03ux]: Kristiadi, Dedy Prasetya, Yogi Udjaja, Budiman Supangat, Randy Yoga Prameswara, Harco Leslie Hendric Spits Warnars, Yaya Heryadi, and Worapan Kusakunniran. 2017. "The effect of UI, UX and GX on video games." In 2017 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), pp. 158-163. IEEE.
 
 ## Version Control
 

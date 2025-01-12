@@ -18,7 +18,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       
       - name: Concat document files
-        uses: bayssmekanique/action-md-concat@v1
+        uses: nerdoza/action-md-concat@v1
         with:
           srcDir: ./keywords
           destFile: ./glossary.md

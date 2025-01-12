@@ -17,7 +17,7 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       
-      - name: Concat document files
+      - name: Markdown Concatenate
         uses: nerdoza/action-md-concat@v1
         with:
           srcDir: ./keywords

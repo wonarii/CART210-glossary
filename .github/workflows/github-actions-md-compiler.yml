@@ -28,5 +28,5 @@ jobs:
           git config --local user.email "gabriel@vigliensoni.com"
           git config --local user.name "Gabriel Vigliensoni"
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Run: Concatenate .md files."
+          git diff --quiet && git diff --staged --quiet || git commit -m "Run: Concatenate all .md files."
           git push

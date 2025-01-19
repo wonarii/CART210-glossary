@@ -26,10 +26,6 @@ jobs:
           git commit -m "Update concatenated Markdown file" -a || echo "No changes to commit"
           git push
 
-      - name: Pull changes from remote
-        run: git pull origin master --rebase
-        
-
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

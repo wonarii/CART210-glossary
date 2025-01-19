@@ -18,7 +18,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       
       - name: Markdown Concatenate
-        uses: vigliensoni/action-md-concat@v1.1.3
+        uses: nerdoza/action-md-concat@v1.1.0
         with:
           srcDir: ./keywords
           destFile: ./glossary.md

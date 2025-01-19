@@ -6,5 +6,5 @@ Virtual environments are the technology which facilitates interactions between u
 
 [^ve1]: “What Are Virtual Environments? | IEEE Journals & Magazine | IEEE Xplore.” n.d. Accessed January 29, 2024. https://ieeexplore.ieee.org/abstract/document/250914.
 [^ve2]: Mine, Mark R. 1995. “Virtual Environment Interaction Techniques.”
-[^ve3]: Youngblut, Christine, Rob E Johnston, Sarah H Nash, Ruth A Wienclaw, and CraigA Will. n.d. “REVIEW OF VIRTUAL ENVIRONMENT INTERFACE TECHNOLOGY.”
+[^ve3]: Youngblut, Christine, Rob E Johnston, Sarah H Nash, Ruth A Wienclaw, and Craig A Will. 1996. “Review of Virtual Environment Interface Technology.” https://apps.dtic.mil/sti/tr/pdf/ADA314134.pdf
 [^reschke07wallpaper]: Reschke, Michael. 2007. “800x600 Wallpaper Blue Sky.png.” Wikimedia Commons. December 27. https://commons.wikimedia.org/wiki/File:800x600_Wallpaper_Blue_Sky.png.

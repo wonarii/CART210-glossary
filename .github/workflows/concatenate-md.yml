@@ -26,8 +26,7 @@ jobs:
           git commit -m "Update concatenated Markdown file" -a || echo "No changes to commit"
           git push
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master  # or any other branch you want to push to
+      - name: Push changes to master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push origin master

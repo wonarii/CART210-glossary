@@ -6,9 +6,9 @@ As of 2020, GitHub is the most important platform for collaborative Free/Libre O
 
 GitHub's development process is distributed, allowing developers to collaborate, discuss, and comment on code from various locations. This platform generates a wealth of textual, numerical, and collaborative data, making it a prime source for software engineering research.[^seker20open]
 
-[^seker20open]: Seker, Abdulkadir, Banu Diri, Halil Arslan, and Mehmet Fatih Amasyalı. 2020. “Open Source Software Development Challenges: A Systematic Literature Review on GitHub.” International Journal of Open Source Software and Processes (IJOSSP) 11, no. 4: 1-26. 
+[^seker20open]: Seker, Abdulkadir, Banu Diri, Halil Arslan, and Mehmet Fatih Amasyalı. 2020. “Open Source Software Development Challenges: A Systematic Literature Review on GitHub.” In _International Journal of Open Source Software and Processes (IJOSSP)_ 11, no. 4: 1-26. 
 
-[^zoller20topology]: Zöller, Nikolas, Jonathan H. Morgan, and Tobias Schröder. 2020. “A Topology of Groups: What GitHub Can Tell Us about Online Collaboration.” Technological Forecasting and Social Change 161: 120291​.
+[^zoller20topology]: Zöller, Nikolas, Jonathan H. Morgan, and Tobias Schröder. 2020. “A Topology of Groups: What GitHub Can Tell Us about Online Collaboration.” In _Technological Forecasting and Social Change_ 161: 120291​.
 
 [^github24wikis]: GitHub Docs. 2024. “About wikis.” Accessed January 2. https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis.
 

@@ -1,6 +1,11 @@
 ## CSS
 
-The is the template for the keyword CSS
+The Cascading Style Sheet or the CSS for short, is one of the components of building a website alongside with HTML (Hypertext Markup Language) and JS (Javcascript).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+CSS is the language that we use the style a HTML document, it is mostly describes as the visuals element of the HTML on screen devices[^ebersbach05css] 
 
+
+
+
+
+[^ebersbach05css]: W3Schools, "CSS Introduction," accessed January 21, 2025, https://www.w3schools.com/css/css_intro.asp.

@@ -23,12 +23,22 @@ Include a properly formatted bibliographic entry at the end of your entry. Follo
 
 ## Adding new terms
 
-- add the terms chosen as individual files inside the `keywords` folder of this repository
-- if using the GitHub UI, contributors can create new files as shown in the image
+- add your new media terms as individual markdown files inside the `keywords` folder of this repository
+- if using the GitHub UI, contributors can create new files as shown in the following images
 
-![Add file](images/01-add-file.png)
+- create a fork of the original repository in your account
+
+![Fork the repo](images/PR-01.png)
+
+![Fork the repo](images/PR-02.png)
+
+
+![Fork the repo](images/PR-03.png)
 
 - name each keyword file in lowercase and use the file extension `.md` (Markdown), as shown below
+
+
+
 
 ![Add filename](images/02-name-file.png)
 

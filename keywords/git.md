@@ -1,17 +1,19 @@
 ## Git
 
-Git is a free, [open source](#opensource.md), and dedicated [version control](#version_control.md) and source code management software. It was created in 2005, when Linus Torvalds, the same individual who initiated the development of the Linux kernel, and a group of volunteers working on its development had to quickly find a new version control system after a conflict happened with their previous source control management providers, BitKeeper. No longer being able to use this system without paying to use it, and with other free-to-use solutions not being able to fit their development needs, they instead created their own system.[^Geeksforgeeks-Git]
+Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It allows multiple developers to work on a project simultaneously without interfering with each other's contributions.[^chacon14progit]
 
-One of its main features is its ability to create branches[^Git-Git]; Different versions of the same code that are independant from each other, but still lets you copy the changes made in another branch into your own if needed. Another important feature is the staging state before a commit is fully completed, which allows you to select which changes will be included in a specific commit.
+Git was created by Linus Torvalds in 2005. The name ”Git” is British slang for a foolish or worthless person, which Torvalds humorously acknowledged, stating, “I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.”[^torvalds05kernel]
 
-Examples of repository hosting platforms that use Git include:[^Opensource-Git]
-- [GitHub](#github.md)
-- GitLab
-- Bitbucket
-- SourceForge
+In new media studies, Git is significant because it facilitates collaborative content creation and management. Its distributed nature allows creators from various locations to contribute to a project, promoting decentralized and collaborative workflows. This aligns with the principles of new media, which emphasize participatory culture and collective intelligence.[^jenkins06convergence]
 
-[^Geeksforgeeks-Git]: GeeksForGeeks. 2021. "History of Git." GeeksForGeeks. [https://www.geeksforgeeks.org/history-of-git/](https://www.geeksforgeeks.org/history-of-git/)
+Git underpins many modern development workflows and platforms. Services like [GitHub](../main/glossary.md#github), GitLab, and Bitbucket build upon Git to provide hosting, collaboration tools, and project management features. These platforms are integral to open-source projects, content management systems, and even digital art collaborations, reflecting Git's broad applicability in current media practices.
 
-[^Git-Git]: Git. "About." Git. Accessed March 1, 2024. [https://git-scm.com/about](https://git-scm.com/about)
+A paradigmatic example of Git use is the Linux Kernel Development. Git was initially developed by Linus Torvalds for managing the Linux kernel's source code. The original thread for defining the protocol is [still available](https://lkml.org/lkml/2005/4/6/121).
 
-[^Opensource-Git]: Opensource. 2018. "6 places to host your git repository." Opensource. [https://opensource.com/article/18/8/github-alternatives](https://opensource.com/article/18/8/github-alternatives)
+
+
+[^chacon14progit]: Chacon, Scott, and Ben Straub. 2014. _Pro Git_. 2nd ed. New York: Apress.
+
+[^jenkins06convergence]: Jenkins, Henry. 2006. _Convergence Culture: Where Old and New Media Collide_. New York: New York University Press.
+
+[^torvalds05kernel]: Torvalds, Linus. 2005. "Re: Kernel SCM saga..." _Linux Kernel Mailing List (LKML)_. April 7. https://lkml.org/lkml/2005/4/7/11.

@@ -47,6 +47,8 @@ After forking the repository, you will see that you have a forked version. In th
 
 Name your file markdown file. Markdown files have the file extension `.md`. If your keyword has more then one word (e.g., “surveillance capitalism”) do not use spaces, use a hyphen instead (i.e., `surveillance-capitalism.md`)
 
+Use lowercase for the filename of your entry, unless it is an acronym (e.g., `UNIX.md`, `GNU.md`)
+
 ![Fork the repo](images/PR-05.png)
 
 4. Add the content for your entry using [strict Markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Note that the title of the entry should be in `heading 2` followed by a space, that is `## Surveillance capitalism`. Write the rest in plain markdown.

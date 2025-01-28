@@ -47,7 +47,7 @@ After forking the repository, you will see that you have a forked version. In th
 
 Name your file markdown file. Markdown files have the file extension `.md`. If your keyword has more then one word (e.g., “surveillance capitalism”) do not use spaces, use a hyphen instead (i.e., `surveillance-capitalism.md`)
 
-Note: Use lowercase for the filename of your entries (i.e., `unix.md`)
+Note: Use lowercase for the filename of your entries, unless it is an acronym (i.e., `UNIX.md` or `GNU.md`)
 
 ![Fork the repo](images/PR-05.png)
 

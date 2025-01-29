@@ -26,6 +26,20 @@ Many contemporary operating systems, such as Linux and macOS, are derived from o
 
 [^mcilroy78unix]: McIlroy, M. D. 1978. "Unix Time-Sharing System: Foreword." _The Bell System Technical Journal_ 57 (6): 1899–1904.
 
+## Analytics
+
+Analytics refers to “the systematic computational analysis of data or statistics.”[^analyticsoxford] In new media, analytics involves the collection, measurement, and interpretation of digital interactions such as user engagement on websites, social media platforms, and streaming services to understand audience behavior and optimize content strategies.[^dong24study]
+
+Digital platforms rely on analytics to personalize content, optimize marketing campaigns, and improve user engagement. By analyzing trends in user behavior, media companies can refine their strategies to increase audience retention and monetization[^dong24study]. Cultural analytics, as conceptualized by Lev Manovich, extends these principles to the study of digital culture, using computational techniques to analyze large-scale patterns in visual and other forms of media.[^manovich17cultural]
+
+Contemporary analytics practices are deeply integrated into digital media technologies. Data analytics tools track user interactions, providing insights that influence content recommendation systems, targeted advertising, and search engine rankings. Platforms such as Google Analytics and social media insights dashboards help businesses and creators measure the impact of their content and refine their strategies accordingly.[^dong24study] In cultural analytics, computational methods allow researchers to examine trends in digital culture, such as the evolution of user-generated content to influence changes in interaction design across social media platforms.[^manovich17cultural]
+
+Analytics profoundly impacts digital culture by shaping how content is created, distributed, and consumed. Algorithm-driven recommendations influence media consumption habits, raising concerns about data privacy, surveillance, and algorithmic bias.[^dong24study] Additionally, cultural analytics offers new ways to study digital culture, allowing researchers to map the evolution of aesthetic and social trends at an unprecedented scale.[^manovich17cultural]
+
+[^analyticsoxford]: “Analytics.” n.d. In _New Oxford American Dictionary_. Apple Dictionary. 
+[^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
+[^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
+
 ## Git
 
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It allows multiple developers to work on a project simultaneously without interfering with each other's contributions.[^chacon14progit]

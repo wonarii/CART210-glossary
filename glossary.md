@@ -122,6 +122,21 @@ In the 21st century, computing continues to evolve, thus the role of middleware 
 [^2citation]: Naur, Peter, and Brian Randell, eds. 2001. _Report on a Conference Sponsored by the NATO Science Committee: NATO Software Engineering Conference 1968. Garmisch, Germany: NATO, 1969_. Edited and reformatted by Robert M. McClure, Arizona.
 [^3citation]: Youngblood, G. Michael. 2004. "Middleware." In _Handbook of Computer Networks and Distributed Systems: Middleware_, edited by Diane J. Cook and Sajal K. Das, 101-127. Hoboken, NJ: Wiley.
 
+# Search Engine Optimization
+
+
+Search Engine Optimization, also known as SEO, optimizes websites to help users find content faster and more efficiently. By developing SEO, websites are pushed to the top of the Search Engine Results Page (SERP), which allows users to engage with website content promptly. SEO also helps improve website traffic since users typically visit the top pages from their search query [^mailchimpSEO]. SEO is fundamental for web development since users rarely click on links found on the following result pages. 
+
+Search Engine Optimization helps search engines understand the content on a website so it can process the information to help people discover content. SEO is widely used in new media for digital marketing purposes [^zilincanSEO]. To allow businesses to thrive and gain a lot of engagement with their clients they must be easily found through search engines. It helps to increase the customer base and website credibility as well. There are two types of SEO: on page and off-page optimization [^santhoshSEO]. On page delves into modifying the content and structure of a webpage like the schema and source code and adding content-specific keywords[^zilincanSEO]. Off-page SEO delves into gathering a user base from outside platforms to link to the targeted web page.
+
+Search Engine Optimization is important in new media, since it shapes how users interact with digital content and determines what the user base sees. It structures content through SERPs and defines how it is interpreted within the digital space of the search engine[^mailchimpSEO].  SEO dictates how content is ranked, who can access it, and how algorithms influence its visibility and interpretation.
+
+[^mailchimpSEO]: Mail Chimp. “What Is SEO in Digital Marketing?” Mailchimp. Accessed January 29, 2025. https://mailchimp.com/marketing-glossary/seo/#:~:text=SEO%20means%20Search%20Engine%20Optimization,search%20engines%20rank%20them%20better.
+
+[^zilincanSEO]: Zilincan, Jakub. 2015. “Search Engine Optimization.” In Proceedings of the CBU International Conference, 3:506–10. Accessed January 29, 2025. https://doi.org/10.12955/cbup.v3.645
+
+[^santhoshSEO]:Santhosh, R.2018. “A Survey on Search Engine Optimization and Google's Search Engine Algorithms”. International Journal of Distributed and Cloud Computing 6, no. 1: 11. Accessed January 29, 2025. https://concordiauniversity.on.worldcat.org/atoztitles/link?genre=article&issn=23216840&title=International%20Journal%20of%20Distributed%20%26%20Cloud%20Computing&volume=6&issue=1&date=20180101&atitle=A%20Survey%20on%20Search%20Engine%20Optimization%20and%20Google%27s%20Search%20Engine%20Algorithms.&spage=11&pages=11-18&ID=doi:&id=pmid:&sid=EBSCO:Computers%20%26%20Applied%20Sciences%20Complete&au=Santhosh%2C%20R
+
 ## Virtual Environment
 
 Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 

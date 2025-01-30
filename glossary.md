@@ -40,6 +40,22 @@ Analytics profoundly impacts digital culture by shaping how content is created, 
 [^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
 [^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
 
+## Commons 
+
+Commons is a general term that refers to a resource shared by a group of people. These resources can range from small, localized systems (e.g., a family refrigerator) to community-level resources (e.g., sidewalks, playgrounds, libraries) and extend to global or transboundary systems (e.g., the deep seas, the atmosphere, the Internet, and scientific knowledge). The commons can be well-bounded (e.g., a community park or library), transboundary (e.g., the Danube River, migrating wildlife, the Internet), or without clear boundaries (e.g., knowledge, the ozone layer). [^hessOstrom]
+
+The salient characteristic of commons, as opposed to property, is that no single person has exclusive control over the use and disposition of any particular resource in the commons. Instead, resources governed by commons may be used or disposed of by anyone among some (more or less well-defined) number of persons, under rules that may range from “anything goes” to quite crisply articulated formal rules that are effectively enforced. [^benkler]
+
+The term “commons” originates from the English legal term for common land, historically used to describe shared agricultural or grazing lands. The modern conceptualization of the commons was popularized by ecologist Garrett Hardin in his 1968 article, [*The Tragedy of the Commons*](https://doi.org/10.1126/science.162.3859.1243). [^hardin] Hardin’s work highlighted the challenges of managing shared resources, sparking widespread academic and practical interest in the topic. Prior to Hardin’s article, references to “the commons,” “common pool resources,” or “common property” were rare in academic literature. [^laerhovenOstrom]
+
+If we link this concept of the commons to new media, we can notice how the commons is now a foundational element to the philosophy of open-source software, crowdsourced projects, and decentralized technologies. All of these systems are based on emphasizing shared resources and collective governance to contribute to community resilience and prefigure better futures. [^smith] [Wikis](#wiki) are one of the most popular types of digital commons. An example of this would be [Wikipedia](https://www.wikipedia.org/), which is a digital encyclopedia that relies on a collective of editors to modify or add information. [OpenStreetMap](https://www.openstreetmap.org/) is another similar concept that provides crowdsourced geographic data. 
+
+[^hessOstrom]: Hess, Charlotte, and Elinor Ostrom. 2007. *Understanding Knowledge as a Commons: From Theory to Practice.* MIT Press. 
+[^benkler]: Benkler, Yochai. 2006. *The Wealth of Networks: How Social Production Transforms Markets and Freedom*. Yale University Press. 
+[^hardin]: Hardin, Garrett. 1968. “The Tragedy of the Commons.” *Science* 162 (3859): 1243–1248. https://doi.org/10.1126/science.162.3859.1243.
+[^laerhovenOstrom]: Laerhoven, Frank Van, and Elinor Ostrom. 2007. “Traditions and Trends in the Study of the Commons.” *International Journal of the Commons* 1 (1): 3–28. https://doi.org/10.18352/ijc.76.
+[^smith]: Smith, E.T.  2024. "Practising Commoning." *The Commons Social Change Library*. Accessed January 29, 2025. https://commonslibrary.org/practising-commoning/#Introducing_%E2%80%98Commoning
+
 ## Git
 
 Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It allows multiple developers to work on a project simultaneously without interfering with each other's contributions.[^chacon14progit]

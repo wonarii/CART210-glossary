@@ -23,7 +23,7 @@ Include a properly formatted bibliographic entry at the end of your entry. Follo
 
 ## Adding new terms
 
-Add your new media terms as individual markdown files inside the `keywords` folder of this repository
+Add your new media terms as individual markdown files <mark>inside the `keywords` folder</mark> of this repository
 
 If using the GitHub UI, contributors can create new files as shown in the following images
 

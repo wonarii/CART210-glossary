@@ -28,22 +28,6 @@ In the context of new media, we can see these advancements as productive tools f
 
 [^ghosh]: Ghosh, Moumita & Arunachalam, Thirugnanam. 2021. _Introduction to Artificial Intelligence_. 10.1007/978-981-16-0415-7_2. 
 
-## UNIX
-
-UNIX is a multiuser, multitasking operating system developed in the late 1960s and early 1970s at AT&T's Bell Labs by Ken Thompson, Dennis Ritchie, and others. Known for its simplicity, portability, and powerful capabilities, UNIX has been influential in the development of many modern operating systems.[^raymond03art]
-
-UNIX was created at AT&T's Bell Labs in the late 1960s by Ken Thompson, Dennis Ritchie, and others. The name “UNIX” is a pun on “Multics,” an earlier operating system project, reflecting its creators' intent to develop a simpler, more streamlined system.[^salus94quarter]
-
-In new media studies, UNIX is significant because it provides a stable and flexible platform for various digital media applications. Its design principles have influenced the development of tools and systems that support multimedia processing, web hosting, and content creation. The UNIX philosophy of building simple, modular tools that can be combined in complex ways aligns with the collaborative and participatory nature of new media.[^mcilroy78unix]
-
-Many contemporary operating systems, such as Linux and macOS, are derived from or influenced by UNIX. These systems are widely used in media production, web development, and other digital content creation fields. The command-line interface and scripting capabilities of UNIX allow for efficient processing and manipulation of media files, making it a preferred choice for professionals in the industry.
-
-[^raymond03art]: Raymond, Eric S. 2003. _The Art of Unix Programming_. Addison-Wesley.
-
-[^salus94quarter]: Salus, Peter H. 1994. _A Quarter Century of Unix_. Addison-Wesley.
-
-[^mcilroy78unix]: McIlroy, M. D. 1978. "Unix Time-Sharing System: Foreword." _The Bell System Technical Journal_ 57 (6): 1899–1904.
-
 ## Analytics
 
 Analytics refers to “the systematic computational analysis of data or statistics.”[^analyticsoxford] In new media, analytics involves the collection, measurement, and interpretation of digital interactions such as user engagement on websites, social media platforms, and streaming services to understand audience behavior and optimize content strategies.[^dong24study]
@@ -195,6 +179,22 @@ Search Engine Optimization is important in new media, since it shapes how users 
 [^zilincanSEO]: Zilincan, Jakub. 2015. “Search Engine Optimization.” In Proceedings of the CBU International Conference, 3:506–10. Accessed January 29, 2025. https://doi.org/10.12955/cbup.v3.645
 
 [^santhoshSEO]:Santhosh, R.2018. “A Survey on Search Engine Optimization and Google's Search Engine Algorithms”. International Journal of Distributed and Cloud Computing 6, no. 1: 11. Accessed January 29, 2025. https://concordiauniversity.on.worldcat.org/atoztitles/link?genre=article&issn=23216840&title=International%20Journal%20of%20Distributed%20%26%20Cloud%20Computing&volume=6&issue=1&date=20180101&atitle=A%20Survey%20on%20Search%20Engine%20Optimization%20and%20Google%27s%20Search%20Engine%20Algorithms.&spage=11&pages=11-18&ID=doi:&id=pmid:&sid=EBSCO:Computers%20%26%20Applied%20Sciences%20Complete&au=Santhosh%2C%20R
+
+## UNIX
+
+UNIX is a multiuser, multitasking operating system developed in the late 1960s and early 1970s at AT&T's Bell Labs by Ken Thompson, Dennis Ritchie, and others. Known for its simplicity, portability, and powerful capabilities, UNIX has been influential in the development of many modern operating systems.[^raymond03art]
+
+UNIX was created at AT&T's Bell Labs in the late 1960s by Ken Thompson, Dennis Ritchie, and others. The name “UNIX” is a pun on “Multics,” an earlier operating system project, reflecting its creators' intent to develop a simpler, more streamlined system.[^salus94quarter]
+
+In new media studies, UNIX is significant because it provides a stable and flexible platform for various digital media applications. Its design principles have influenced the development of tools and systems that support multimedia processing, web hosting, and content creation. The UNIX philosophy of building simple, modular tools that can be combined in complex ways aligns with the collaborative and participatory nature of new media.[^mcilroy78unix]
+
+Many contemporary operating systems, such as Linux and macOS, are derived from or influenced by UNIX. These systems are widely used in media production, web development, and other digital content creation fields. The command-line interface and scripting capabilities of UNIX allow for efficient processing and manipulation of media files, making it a preferred choice for professionals in the industry.
+
+[^raymond03art]: Raymond, Eric S. 2003. _The Art of Unix Programming_. Addison-Wesley.
+
+[^salus94quarter]: Salus, Peter H. 1994. _A Quarter Century of Unix_. Addison-Wesley.
+
+[^mcilroy78unix]: McIlroy, M. D. 1978. "Unix Time-Sharing System: Foreword." _The Bell System Technical Journal_ 57 (6): 1899–1904.
 
 ## Virtual Environment
 

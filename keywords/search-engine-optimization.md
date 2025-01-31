@@ -1,4 +1,4 @@
-# Search Engine Optimization
+## Search Engine Optimization
 
 
 Search Engine Optimization, also known as SEO, optimizes websites to help users find content faster and more efficiently. By developing SEO, websites are pushed to the top of the Search Engine Results Page (SERP), which allows users to engage with website content promptly. SEO also helps improve website traffic since users typically visit the top pages from their search query [^mailchimpSEO]. SEO is fundamental for web development since users rarely click on links found on the following result pages. 

@@ -165,7 +165,7 @@ In the 21st century, computing continues to evolve, thus the role of middleware 
 [^2citation]: Naur, Peter, and Brian Randell, eds. 2001. _Report on a Conference Sponsored by the NATO Science Committee: NATO Software Engineering Conference 1968. Garmisch, Germany: NATO, 1969_. Edited and reformatted by Robert M. McClure, Arizona.
 [^3citation]: Youngblood, G. Michael. 2004. "Middleware." In _Handbook of Computer Networks and Distributed Systems: Middleware_, edited by Diane J. Cook and Sajal K. Das, 101-127. Hoboken, NJ: Wiley.
 
-# Search Engine Optimization
+## Search Engine Optimization
 
 
 Search Engine Optimization, also known as SEO, optimizes websites to help users find content faster and more efficiently. By developing SEO, websites are pushed to the top of the Search Engine Results Page (SERP), which allows users to engage with website content promptly. SEO also helps improve website traffic since users typically visit the top pages from their search query [^mailchimpSEO]. SEO is fundamental for web development since users rarely click on links found on the following result pages. 

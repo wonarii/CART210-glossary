@@ -21,9 +21,9 @@ Some of the most notable blogging platforms include [HuffPost](https://www.huffp
 
 
 
-[^rebecca2weblog]: Blood, Rebecca. 2000. "Weblogs: A History and Perspective". http://www.rebeccablood.net/essays/weblog_history.html.
-[^herring5weblog]: Herring, Susan C., Lois Ann Scheidt, Elijah Wright, and Sabrina Bonus. 2005. “Weblogs as a Bridging Genre.” Information Technology & People 18 (2): 142–71. https://doi.org/10.1108/09593840510601513.
-[^miller4weblog]: Miller, Carolyn R., and Dawn Shepherd. 2004. "Blogging as Social Action: A Genre Analysis of the Weblog." Into the Blogosphere: Rhetoric, Community, and Culture of Weblogs. https://conservancy.umn.edu/items/6065cb61-5392-4cee-8d2a-11199caeba6e.
+[^rebecca2weblog]: Blood, Rebecca. 2000. _"Weblogs: A History and Perspective"_. http://www.rebeccablood.net/essays/weblog_history.html.
+[^herring5weblog]: Herring, Susan C., Lois Ann Scheidt, Elijah Wright, and Sabrina Bonus. 2005. _“Weblogs as a Bridging Genre.” Information Technology & People 18_ (2): 142–71. https://doi.org/10.1108/09593840510601513.
+[^miller4weblog]: Miller, Carolyn R., and Dawn Shepherd. 2004. _"Blogging as Social Action: A Genre Analysis of the Weblog."_ Into the Blogosphere: Rhetoric, Community, and Culture of Weblogs. https://conservancy.umn.edu/items/6065cb61-5392-4cee-8d2a-11199caeba6e.
 
 
 

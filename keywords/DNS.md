@@ -6,7 +6,7 @@ Each computer and server have their own IP address, a series of numbers, similar
 To be able to connect to another computer through the internet, it was required to know the IP address. An IP address is a series of 
 numbers that would point to the location of the site, similar to how our home addresses tell us where we are geographically.
 
-In the past, to find this specific number, a hosts.txt file had a table with the name of the host linked to their IP address. 
+In the past, to find this specific number, a `hosts.txt` file had a table with the name of the host linked to their IP address. 
 However, this file had to be updated every time a new “location” was created. With the rise of the Internet, it quickly fell behind. [^cocoran11branding]
 To fix this issue, Paul Mockapetris invented the domain name system. 
 This system takes domain names and translates them into IP addresses for the browser to use. [^cloudflare25DNS] The system is divided into different categories and levels to help organization and navigation.
@@ -23,7 +23,7 @@ Without the DNS, new media that uses the online world as it’s main platform to
 The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
 
 
-[^cocoran11branding]: Cocoran, Ian. 2011. The Art of Digital Branding. Rev. ed. New York: Allworth Press.
+[^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
 [^cloudflare25DNS]: Cloudflare. 2025. What is DNS| How DNS works.
-[^veaandreubonastre19origins]: Vea, Andreu, and Oscar M. Bonastre. 2019. “Origins of the Domain Name System.” IEEE Annals of the History of Computing 41, no. 2.
+[^veaandreubonastre19origins]: Vea, Andreu, and Oscar M. Bonastre. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41, no. 2.
 

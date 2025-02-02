@@ -42,6 +42,43 @@ Analytics profoundly impacts digital culture by shaping how content is created, 
 [^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
 [^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
 
+## Blog
+A blog, short for "weblog," is an online platform where individuals or groups publish content in reverse chronological order.
+Blogs combine written entries, multimedia, and hyperlinks, serving as a medium for personal expression, journalism, marketing, and community engagement. 
+The term "weblog" was coined by Jorn Barger in 1997 to describe his site, Robot Wisdom, which curated links and commentary.
+It was humorously shortened to "blog" by Peter Merholz in 1999, and the term gained widespread adoption.
+Initially created by web enthusiasts, blogs now feature contributions from experienced professionals and amateurs sharing insights and experiences. [^rebecca2weblog]
+
+Blogs play a vital role in shaping new media by serving as accessible platforms for information sharing and communication.
+They democratize content creation, enabling individuals to bypass traditional media gatekeepers, such as publishers and editors, and share their insights and experiences directly with a global audience.
+This open nature fosters a participatory culture, allowing readers to engage with content through comments, shares, and links, creating a dynamic dialogue between authors and their audience.
+**Blogs blur the lines between public and private spheres, creating a unique space for personal expression and public discourse**.[^herring5weblog] 
+Furthermore, blogs are essential for mass communication in today's fast-paced digital landscape, providing quick access to varied information, from personal opinions to expert analysis.
+They have evolved from simple link-sharing platforms to comprehensive tools for self-publishing and community building, highlighting their integral role in the evolution of new media.
+In essence, blogs are foundational to the modern information ecosystem, shaping how knowledge is produced, shared, and consumed.[^miller4weblog]
+
+Over the years blogs have evolved into diverse formats, including microblogs (Twitter), vlogs (video blogs), and corporate blogs. They are integrated into content marketing strategies and social media ecosystems.
+Blogs paved the way for user-generated content platforms like YouTube and Instagram, which rely on similar participation and community-building principles.
+Some of the most notable blogging platforms include [HuffPost](https://www.huffpost.com/) (formerly The Huffington Post), which evolved from a blog into a major news outlet. [Boing Boing](https://boingboing.net/) stands out as an influential technology and culture blog, while [Gizmodo](https://gizmodo.com/) has become a leading source for gadgets and tech news.
+
+
+
+
+
+[^rebecca2weblog]: Blood, Rebecca. 2000. _"Weblogs: A History and Perspective"_. http://www.rebeccablood.net/essays/weblog_history.html.
+[^herring5weblog]: Herring, Susan C., Lois Ann Scheidt, Elijah Wright, and Sabrina Bonus. 2005. _“Weblogs as a Bridging Genre.” Information Technology & People 18_ (2): 142–71. https://doi.org/10.1108/09593840510601513.
+[^miller4weblog]: Miller, Carolyn R., and Dawn Shepherd. 2004. _"Blogging as Social Action: A Genre Analysis of the Weblog."_ Into the Blogosphere: Rhetoric, Community, and Culture of Weblogs. https://conservancy.umn.edu/items/6065cb61-5392-4cee-8d2a-11199caeba6e.
+
+
+
+
+
+
+
+
+
+ 
+
 ## Commons 
 
 Commons is a general term that refers to a resource shared by a group of people. These resources can range from small, localized systems (e.g., a family refrigerator) to community-level resources (e.g., sidewalks, playgrounds, libraries) and extend to global or transboundary systems (e.g., the deep seas, the atmosphere, the Internet, and scientific knowledge). The commons can be well-bounded (e.g., a community park or library), transboundary (e.g., the Danube River, migrating wildlife, the Internet), or without clear boundaries (e.g., knowledge, the ozone layer). [^hessOstrom]
@@ -57,6 +94,61 @@ If we link this concept of the commons to new media, we can notice how the commo
 [^hardin]: Hardin, Garrett. 1968. “The Tragedy of the Commons.” *Science* 162 (3859): 1243–1248. https://doi.org/10.1126/science.162.3859.1243.
 [^laerhovenOstrom]: Laerhoven, Frank Van, and Elinor Ostrom. 2007. “Traditions and Trends in the Study of the Commons.” *International Journal of the Commons* 1 (1): 3–28. https://doi.org/10.18352/ijc.76.
 [^smith]: Smith, E.T.  2024. "Practising Commoning." *The Commons Social Change Library*. Accessed January 29, 2025. https://commonslibrary.org/practising-commoning/#Introducing_%E2%80%98Commoning
+
+## CSS
+
+### Intro
+
+The Cascading Style Sheets, or CSS for short, is one of the core components of building a website, alongside HTML (Hypertext Markup Language) and JavaScript (JS). Together, these three technologies are often referred to as "the cornerstone of the World Wide Web."[^ebersbach01css]
+
+CSS is the language used for styling HTML documents. It defines the visual appearance of HTML on various devices, such as screens, printers, or other display mediums.[^ebersbach02css] In other words, CSS is responsible for handling visuals like text color, background styles, buttons, user interface elements, and much more. These features are present on virtually all modern websites. It also enables interactive effects, such as hover states on buttons or cards, and optimizes visuals for different screen sizes—from small smartphones to large desktop monitors. Many people compare CSS to the skin on the HTML skeleton,[^ebersbach03css] or, as I like to say, the sweet icing on the cake.
+
+
+### A Brief History of CSS
+
+The concept of CSS emerged in the early 1990s to address the limitations of early web design. At that time, the web was primarily built with HTML for structure, and visual design capabilities were quite limited. The goal was to create a system that separated content (HTML) from presentation (CSS), allowing for more visually appealing websites.
+
+In 1994, Håkon Wium Lie, a Norwegian web pioneer, and Bert Bos, a Dutch programmer, proposed the idea of CSS. Their specification introduced the idea of separating HTML as the structure for web content and CSS as the language for styling and formatting that content. This foundational idea became a critical step in the evolution of web design.[^ebersbach04css]
+
+The first official CSS specification, CSS1, was published by the World Wide Web Consortium (W3C) in 1996, laying the foundation for modern web development with basic text colors, fonts and backgrounds. In 1998, CSS2 introduced new features, such as the "position" property for improved control over webpage layout and support for media types to optimize designs for different devices. In 2011, CSS2.1 was released, providing greater stability, improved browser compatibility, and enhanced accessibility across most browsers (except Internet Explorer).Currently, we use CSS3, which introduced a modular specification approach. This version brought transformative features like animations, gradients, flexbox, and many more tools for modern web design. Looking ahead, CSS4 is under development, with goals to enhance web design capabilities further, including responsive design improvements, advanced typography options, and a more robust grid system.[^ebersbach04css]
+
+
+### How to apply CSS in HTML
+
+As established, CSS is used for formatting the visual presentation of HTML. Here’s a visual example of how CSS is set up:  
+![Fork the repo](../images/01exampleCSS.png)[^ebersbach05css]
+
+
+#### Let's break it down
+
+- We start with the **selector**, which in this case is `h1`. In our CSS, we are modifying the `h1` selector from our HTML.
+- Next, we define a **declaration block**, which contains the styles we want to apply to the selected element.
+- A **property** refers to the specific style we want to modify (e.g., `color`, `background`, `width`).
+- A **value** is the specific setting applied to a property (e.g., `color: red; background: yellow; width: 10px`).
+
+In the visual example, we are applying styles to our `h1` selector. The declaration block sets the text color to red and the background color to yellow.[^ebersbach05css]
+
+In order to stylized our website, we must make a connection between both HTML and CSS.
+![Fork the repo](../images/02exampleCSS.png)[^ebersbach06css]
+
+This image represents the external method of linking a CSS file to an HTML file to style the website. This method is easier to manage when handling CSS declarations. *(You can also apply CSS internally, but it tends to be messier.)*
+
+
+
+[^ebersbach01css]: Wikipedia. 2025. "CSS." Last modified January 21, 2025. https://en.wikipedia.org/wiki/CSS
+[^ebersbach02css]: W3Schools, "CSS Introduction," accessed January 21, 2025, https://www.w3schools.com/css/css_intro.asp
+[^ebersbach03css]: Nology Team, "HTML, CSS, and JavaScript: The Anatomy of a Website," last modified February 6, 2020, accessed January 21, 2025, https://nology.io/news/html-css-and-javascript-the-anatomy-of-a-website/
+[^ebersbach04css]: Anupama Ra. "History of CSS: The Evolution of Web Design." AlmaBetter. Accessed January 28, 2025. https://www.almabetter.com/bytes/articles/history-of-css
+[^ebersbach05css]: Eric Meyer and Estelle Weyl, CSS: The Definitive Guide (Sebastopol, CA: O'Reilly Media, 2023), 3
+[^ebersbach06css]: Keith J. Grant, CSS in Depth, 2nd ed. (Shelter Island, NY: Manning Publications, 2023), 6.
+
+BONUS: Last fall session, I created a website to help both students and curious learners learn the basics of CSS and HTML: https://hybrid.concordia.ca/hu_sia/GG-Web_developer/
+
+
+## Other keywords that conects:
+#### [Check the HTML here](./html.md)
+#### [Check the PHP here](./php.md)
+
 
 ## Git
 

@@ -1,6 +1,6 @@
 ## API
 
-API short for Application Programming Interface is as described as "interface that is defined in terms of a set of functions and procedures and enables a program [...] within an application."[^simon] Simon work explains how API allows existing or new business capability from across a network with it being an on-demand service for usage from multitudes of applications and software.
+API short for Application Programming Interface is as described as "interface that is defined in terms of a set of functions and procedures and enables a program [...] within an application."[^simon] Simon and Jean explain how using an API allows existing or new business capability from across a network with it being an on-demand service for usage from multitudes of applications and software.
 
 API are varied and have different concepts to it, in the text “A Systematic Review of API Evolution Literature” as an example “when the concept of information was first coined by Parnas in 1972, it was based on interfaces among modules, which today would be called API’s” [^Lamothe]
 

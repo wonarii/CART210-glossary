@@ -1,5 +1,7 @@
 ## Computer
 
+### Historical Summary and Definition
+
 "Computer" is first and foremost is a word that gets its origins from the latin word "Computare", roughly translated as "to calculate", or perhaps "someone who computes". 
 The word started being widely recognized some time around the 1600's, and was used comfortably to describe human mathematicians of that era. [^rojas_hashagen_2002_first]
 
@@ -19,16 +21,27 @@ His machine consisted of a long strip of tape with seperated symbols that were m
 Today the child of this idea is known as binary and widely used as part of the the basis of all of our programming knowledge. [^mol_2024_turing]
 
 In a similar, if more physical sense, John Von Neumann created the "Von Neumann Architecture" in 1945. 
-This was the model for a computer's organization that now forms the basis of most modern computers.
+This was the model for a computer's organization that now forms the basis of most modern computers, acting as our introductions to the concept of CPU's (Central Processing Unit), RAM (Random-Access Memory), Input / Output Devices, and of course storing commands using memory. [^o'regan_2018_neumann]
 
-why is the term significant in new media? 
-how does it relate to current technologies or media practices? 
-what are paradigmatic examples that illustrate the term or technology? 
-identify the person or group that coined, designed, or popularized the term or technology, if applicable.
+### Relation to New Media and Modern Definition
 
+As the idea of a computer became more widely known, understood, and of course used, it became engrained in nearly every bit of our culture.
+The term "computer" is incredibly significant to new media because it has been cemented as a foundational concept to the way we interact with, and produce media today.
+This term has never been just about the device itself but is instead a vehicle for technologies that create and transform data into interactive experiences.
 
+For a grand majority of the modern peoples, their media, whether focused on education or entertainment, is the shared data we find on the internet.
+In this case, computers act as our access to said data, allowing us to take, make, and change its form.
+While a simple instrument would allow us to access a specific, or perhaps on some occasions numerous, forms of art, the computer allows us to access and transform a whole new world of information in an unimaginable number of ways. [^kay_1991_computers]
+
+Graphic Design, Video Editing, Web Development, Social Entertainment Environments, and finally in great deal AI, all have computers to thank for their existence and continued development.
+Our ability to govern, communicate, and collaberate has been increased significantly with this rise in technological understanding, and the ability to "compute" is no doubt what lead us to that understanding.
+
+Paradigmatic examples of the use of computers that we often take for granted are Social Media Platforms, Streaming Services, and Video Games.
+In conclusion, the computer is not only central to the production of new media but also to its constantly ongoing distribution.
 
 [^rojas_hashagen_2002_first]:
 [^garfinkel_grunspan_2018_abacus]:
 [^pugh_heide_2013_card]:
 [^mol_2024_turing]:
+[^o'regan_2018_neumann]:
+[^kay_1991_computers]:

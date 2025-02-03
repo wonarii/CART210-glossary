@@ -5,10 +5,10 @@ This colorspace is usually used in screens and digital devices. Although differe
 Although RGB is universal, the colors are display dependent, meaning that the colors for a same hexadecimal may appear differently on different screens (3). [^ibraheem12understanding] This is mostly due to variations in the manufacturing of the different layers of the screen, as well as the display technology used (LED vs OLED) (4). [^benq22why]
 
 
-[^zelazko225rgbcolor] Zelazko, Alicja. “RGB Colour Model | Description, Development, Uses, Science, & Facts.” Encyclopedia Britannica, February 1, 2025. https://www.britannica.com/science/RGB-color-model.
+[^zelazko225rgbcolor]: Zelazko, Alicja. “RGB Colour Model | Description, Development, Uses, Science, & Facts.” Encyclopedia Britannica, February 1, 2025. https://www.britannica.com/science/RGB-color-model.
 
-[^christensson19rgb] Christensson, Per. “RGB,” May 17, 2019. https://techterms.com/definition/rgb#google_vignette.
+[^christensson19rgb]: Christensson, Per. “RGB,” May 17, 2019. https://techterms.com/definition/rgb#google_vignette.
 
-[^ibraheem12understanding] Ibraheem, Noor, Mokhtar Mohammed Hasan, Rafiqul Zaman Khan, and Pramod Kumar Mishra. “Understanding Color Models: A Review.” ARPN Journal of Science and Technology 2, no. 3 (January 1, 2012). https://www.researchgate.net/publication/266462481_Understanding_Color_Models_A_Review.
+[^ibraheem12understanding]: Ibraheem, Noor, Mokhtar Mohammed Hasan, Rafiqul Zaman Khan, and Pramod Kumar Mishra. “Understanding Color Models: A Review.” ARPN Journal of Science and Technology 2, no. 3 (January 1, 2012). https://www.researchgate.net/publication/266462481_Understanding_Color_Models_A_Review.
 
-[^benq22why] BenQ. “Why Don’t Colors Look the Same Across Different Devices?” BenQ, June 27, 2022. https://www.benq.com/en-ca/knowledge-center/knowledge/why-dont-colors-look-the-same-across-different-devices.html.
+[^benq22why]: BenQ. “Why Don’t Colors Look the Same Across Different Devices?” BenQ, June 27, 2022. https://www.benq.com/en-ca/knowledge-center/knowledge/why-dont-colors-look-the-same-across-different-devices.html.

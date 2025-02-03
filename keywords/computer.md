@@ -7,7 +7,7 @@ The word started being widely recognized some time around the 1600's, and was us
 
 It was also around this time that different tools that could help with computing would start to appear, for example William Oughtred's slide rule, a mechanical analog device primarily used for multiplication, division, roots, logarithms, and trigonometry.
 This word however, would see a paradigm shift of its use around the turn of the 17th - 18th century, as a computation moved towards mechanics and automation. 
-In 1822, Charles Babbage would complete one of his inventions, announcing it as the "Difference Engine", 	designed to compute and print mathematical tables via automated mechanial calculations. [^garfinkel_grunspan_2018_abacus]
+In 1822, Charles Babbage would complete one of his inventions, announcing it as the "Difference Engine", 	designed to compute and print mathematical tables via automated mechanial calculations. [^garfinkel_grunspan_2019_abacus]
 
 This invention could be the described as the precursor to the idea of the "Analytical Engine", largly known as the first mechanical computer ever made, though Babbage would never complete or build the machine as he envisioned it, passing in 1871.
 The 19th century brought a series of groundbreaking innovations in the world of computation, paving the way for more modern computers. 
@@ -39,9 +39,9 @@ Our ability to govern, communicate, and collaberate has been increased significa
 Paradigmatic examples of the use of computers that we often take for granted are Social Media Platforms, Streaming Services, and Video Games.
 In conclusion, the computer is not only central to the production of new media but also to its constantly ongoing distribution.
 
-[^rojas_hashagen_2002_first]:
-[^garfinkel_grunspan_2018_abacus]:
-[^pugh_heide_2013_card]:
-[^mol_2024_turing]:
-[^o'regan_2018_neumann]:
-[^kay_1991_computers]:
+[^rojas_hashagen_2002_first]: Rojas, Raul, and Ulf Hashagen. 2002. _Classifications of Computing Machines. In The First Computers: History and Architectures_, MA: MIT Press.
+[^garfinkel_grunspan_2019_abacus]: Garfinkel, Simson L., and Rachel H. Grunspan. 2019. _The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science_, Union Square & Co.
+[^pugh_heide_2013_card]: Pugh, Emerson W., and Lars Heide. 2013. _Early punched card equipment: 1880-1951 [Scanning Our Past]_, IEEE.
+[^mol_2024_turing]: Mol, Liesbeth D., Edward N. Zalta, and Uri Nodelman. 2024. _The Stanford Encyclopedia of Philosophy (Winter 2024 Edition)_, Metaphysics Research Lab, Stanford University.
+[^o'regan_2018_neumann]: O'Regan, Gerard. 2018. _The Innovation in Computing Companion: A Compendium of Select, Pivotal Inventions_, Springer Nature Switzerland.
+[^kay_1991_computers]: Kay, Alan C. 1991. _Communications, Computers and Networks: How to Work, Play and Thrive in Cyberspace_, Scientific American.

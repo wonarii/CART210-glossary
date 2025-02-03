@@ -13,7 +13,7 @@ The training process for neural networks, while difficult to explain, briefly, t
 To conclude, since the first trainable neural network was demonstrated by Frank Rosenblatt in 1957[^thisisacitation6], neural networks have evolved into a technology with widespread applications. Today, they are integral to advancements in fields such as facial and speech recognition, financial and weather forecasting, or simply providing accurate predictions that inform decision-making[^thisisacitation1]. Their versatility and power continue to drive innovation, making them a cornerstone of modern artificial intelligence.
 
 [^thisisacitation1]: IBM. "What Is a Neural Network?" IBM
-[^thisisacitation2]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. MIT Press.
+[^thisisacitation2]: Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. _Deep Learning_. MIT Press. 436–444.
 [^thisisacitation3]: Haykin, Simon. 1999. _Neural Networks: A Comprehensive Foundation_. 2nd ed. Upper Saddle River, NJ: Prentice Hall
 [^thisisacitation4]: Lederer, Johannes. 2021. "Activation Functions in Artificial Neural Networks: A Systematic Overview." arXiv
 [^thisisacitation5]: Sharkawy, Abdel-Nasser. 2020. "Principle of Neural Network and Its Main Types: Review." Journal of Advances in Applied & Computational Mathematics

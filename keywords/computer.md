@@ -39,9 +39,9 @@ Our ability to govern, communicate, and collaberate has been increased significa
 Paradigmatic examples of the use of computers that we often take for granted are Social Media Platforms, Streaming Services, and Video Games.
 In conclusion, the computer is not only central to the production of new media but also to its constantly ongoing distribution.
 
-[^rojas_hashagen_2002_first]: Rojas, Raul, and Ulf Hashagen. 2002. _Classifications of Computing Machines. In The First Computers: History and Architectures_, MA: MIT Press.
+[^rojas_hashagen_2002_first]: Rojas, Raul, and Ulf Hashagen. 2002. _Classifications of Computing Machines. In The First Computers: History and Architectures_, pp. 1-2. MA: MIT Press.
 [^garfinkel_grunspan_2019_abacus]: Garfinkel, Simson L., and Rachel H. Grunspan. 2019. _The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science_, Union Square & Co.
-[^pugh_heide_2013_card]: Pugh, Emerson W., and Lars Heide. 2013. _Early punched card equipment: 1880-1951 [Scanning Our Past]_, IEEE.
+[^pugh_heide_2013_card]: Pugh, Emerson W., and Lars Heide. 2013. _Early punched card equipment: 1880-1951 [Scanning Our Past]_, pp. 546-552. IEEE.
 [^mol_2024_turing]: Mol, Liesbeth D., Edward N. Zalta, and Uri Nodelman. 2024. _The Stanford Encyclopedia of Philosophy (Winter 2024 Edition)_, Metaphysics Research Lab, Stanford University.
 [^o'regan_2018_neumann]: O'Regan, Gerard. 2018. _The Innovation in Computing Companion: A Compendium of Select, Pivotal Inventions_, Springer Nature Switzerland.
-[^kay_1991_computers]: Kay, Alan C. 1991. _Communications, Computers and Networks: How to Work, Play and Thrive in Cyberspace_, Scientific American.
+[^kay_1991_computers]: Kay, Alan C. 1991. _Communications, Computers and Networks: How to Work, Play and Thrive in Cyberspace_, pp. 138-149. Scientific American.

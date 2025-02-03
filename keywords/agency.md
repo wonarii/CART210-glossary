@@ -15,11 +15,11 @@ As well, agency often is brought up in anthropological discussions surrounding t
 
 
 
-[^ahearn99anthropology]: Ahearn, Laura M.  1999. “Agency.” Journal of Linguistic Anthropology 9, no. 1/2 12–15. http://www.jstor.org/stable/43102414.
+[^ahearn99anthropology]: Ahearn, Laura M.  1999. “Agency.” *Journal of Linguistic Anthropology* 9, no. 1/2 12–15. http://www.jstor.org/stable/43102414.
 
-[^nash05nature]: Nash, Linda. 2005. “The Agency of Nature or the Nature of Agency?” Environmental History 10, no. 1 67–69. http://www.jstor.org/stable/3985846. 
+[^nash05nature]: Nash, Linda. 2005. *“The Agency of Nature or the Nature of Agency?” Environmental History* 10, no. 1 67–69. http://www.jstor.org/stable/3985846. 
 
-[^utz08mediated]: Utz, Sonja, Martin Tanis, and Susan B. Barnes. 2008. Mediated interpersonal communication. Edited by Elly A. Konijn. Vol. 270. New York, NY: Routledge.
+[^utz08mediated]: Utz, Sonja, Martin Tanis, and Susan B. Barnes. 2008. *Mediated interpersonal communication*. Edited by Elly A. Konijn. Vol. 270. New York, NY: Routledge.
 
-[^willet08consumer]: Willett, Rebekah. 2008. Consumer citizens online: Structure, agency, and gender in online participation. MacArthur Foundation Digital Media and Learning Initiative.
+[^willet08consumer]: Willett, Rebekah. 2008. *Consumer citizens online: Structure, agency, and gender in online participation*. MacArthur Foundation Digital Media and Learning Initiative.
 

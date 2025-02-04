@@ -8,7 +8,7 @@ like social media advertising and influencer partnerships, to attract and keep c
 
 E-commerce’s relation to current technologies in the modern world is seen through the different platforms combining technologies like artificial intelligence (AI) and machine learning 
 with their e-commerce stores, to give the users a more personalized shopping experience, like having recommend products based off of what they have been browsing. Additionally, 
-live commerce was created as a combination of live streaming and online shopping, which has came out as a new trend to give a more interactive and immersive shopping experience. [^mdpi.com] 
+live commerce was created as a combination of live streaming and online shopping, which has came out as a new trend to give a more interactive and immersive shopping experience. [^sciencedirect.com] 
 The increase of mobile apps have also improved the accessibility by allowing users to shop anytime and anywhere. 
 
 The historical origins of e-commerce are rooted back to when the development of Electronic Data Interchange (EDI) in the 1960s were created, which then allowed for businesses 
@@ -25,8 +25,8 @@ way of being by making the need for fast and effiecent delivery systems and ware
 - Alibaba: Established by Jack Ma in 1999, Alibaba is a Chinese multinational conglomerate specializing in e-commerce, retail, and technology.
 - eBay: Launched in 1995 by Pierre Omidyar, eBay is an online auction and shopping website where individuals and businesses buy and sell a large variety of goods and services worldwide.
 
-[^britannica.com]: **"E-commerce | Definition, History, Types, Examples, & Facts."** *Britannica.* Accessed February 1, 2025. [https://www.britannica.com/money/e-commerce](https://www.britannica.com/money/e-commerce).  
-[^mdpi.com]: **"Live Commerce Platforms: A New Paradigm for E-Commerce Platform Economy."** *MDPI*, vol. 18, no. 2, 2023, pp. 49. [https://www.mdpi.com/0718-1876/18/2/49](https://www.mdpi.com/0718-1876/18/2/49).  
-[^researchgate.net]: **"History of E-Commerce."** *ResearchGate.* Accessed February 1, 2025. [https://www.researchgate.net/publication/314408412_History_of_E-Commerce](https://www.researchgate.net/publication/314408412_History_of_E-Commerce).  
+[^sciencedirect.com]: S Chen, A.M Degeratu, A Enders, V Katros, C Zott. “_E-Commerce and the Retail Process: A Review._” Journal of Retailing and Consumer Services, December 17, 2002. (https://www.sciencedirect.com/science/article/pii/S0969698902000620). 
+[^researchgate.net]: Tian, Yan. “_(PDF) History of e-Commerce._” ResearchGate, January 2007. (https://www.researchgate.net/publication/314408412_History_of_E-Commerce). 
+[^britannica.com]: Zwass, Vladimir. “_E-commerce | Definition, History, Types, Examples, & Facts._” Encyclopædia Britannica, December 17, 2024. [https://www.britannica.com/money/e-commerce].
 
 

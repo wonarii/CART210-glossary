@@ -8,8 +8,8 @@ and wooden box cameras to CDs and Instant Cameras. Eventually, all the content c
 
 More modern applications of Multimedia are thought to date back to the early 1960's, with interactive installations such as Ivan Sutherland and Bob Sproull's "The Ultimate Display".[^history30ultimate] The proposed installation involved a computer interpreting beams of light and outputting them into a small screen on a helmet.[^brown17virtual] The Ultimate Display was effectively the ancestor of modern virtual reality technologies, combining creative computation, physics and imagery to generate virtual objects. With the evolution of software and hardware in the 20th and 21st centuries, interactive programs like video games and social media emerged as some of the most commercial and prevalent forms of multimedia entertainment.
 
-[^Li21multimedia]: Li, Ze-Nian, Mark S. Drew, and Jiangchuan Liu. Fundamentals of Multimedia. Cham, Switzerland: Springer, 2021. 
+[^Li21multimedia]: Li, Ze-Nian, Mark S. Drew, and Jiangchuan Liu. 2021. Fundamentals of Multimedia. Cham, Switzerland: Springer
 
-[^history30ultimate]: “Multimedia: History Timeline.” History Timelines. Accessed January 30, 2025. https://historytimelines.co/timeline/multimedia-. 
+[^history30ultimate]: History Timelines. 2025. “Multimedia: History Timeline.” Accessed January 30, 2025. https://historytimelines.co/timeline/multimedia-. 
 
-[^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).
+[^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. 2017. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).

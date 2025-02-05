@@ -10,3 +10,4 @@ The term ‘avatar’ is not a new concept. According to the Myriam Webster dict
 [^Liu]: Lu, Jerry. 2019. “From Sci Fi to Commercialization: The Rise of Digital Avatars.” Medium. https://medium.com/hackernoon/from-sci-fi-to-commercialization-the-rise-of-digital-avatars-ea164495c377.
 [^PanSteed01]:Pan, Ye, and Anthony Steed.December 14, 2017. “The Impact of Self-Avatars on Trust and Collaboration in Shared Virtual Environments.” PLOS ONE 12, no. 12. https://doi.org/10.1371/journal.pone.0189078. 
 
+![Virtual environment](images/avatar-julia.png)

@@ -19,7 +19,7 @@ The creation of the DNS led to a much more accessible Internet. Rather than havi
 users could now use words that are much easier to remember and in most cases shorter to type out. 
 This made the Internet more appealing and accessible to the masses which led to an even bigger influx of users. [^cocoran11branding]
 
-Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names. (bbook)
+Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names.
 The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
 
 

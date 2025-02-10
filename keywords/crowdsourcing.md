@@ -22,7 +22,7 @@ Crowdsourcing was used many times after that all over the world but the term was
 
 Modern digital crowdsourcing was pioneered by Luis von Ahn, the creator of ReCAPTCHA and Duolingo, which leverage human input for AI training and translation.[^halton24wisdom] Today, crowdsourcing is used in so many different ways and is a fundamental part of many industries and will continue to play an important role in our world as it evolves further.
 
-![Crowdsourcing](../images/crowdsourcing-lapierrefurtado.png)
+![Crowdsourcing](images/crowdsourcing-lapierrefurtado.png)
 
 [^hargrave24crowdsourcing]: Hargrave, Marshall. 2024. “Crowdsourcing: Definition, How It Works, Types, and Examples.” Investopedia. October 17, 2024. https://www.investopedia.com/terms/c/crowdsourcing.asp.
 [^lebraty13crowdsourcing]: Lebraty, Jean-Fabrice, and Katia Lobre-Lebraty. 2013. _Crowdsourcing : One Step Beyond._ Hoboken, NJ: Wiley. http://site.ebrary.com/id/10756811. 

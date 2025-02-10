@@ -29,7 +29,7 @@ Information overload is critical in new media, influencing digital consumption a
 - **Enterprise Decision-Making** – Studies have found that managers and employees experiencing high information overload often make slower or suboptimal business decisions due to excessive data processing requirements [^he2020].
 
 ## Image
-![Information Overload](images/information-overload-Rowan.png)
+![Information Overload](images/information-overload-rowan.png)
 
 
 [^arnold2023]: Arnold, Miriam, Mascha Goldschmitt, and Thomas Rigotti. 2023. "Dealing with Information Overload: A Comprehensive Review." *Frontiers in Psychology* 14: 1122200. https://doi.org/10.3389/fpsyg.2023.1122200.  

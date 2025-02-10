@@ -23,4 +23,9 @@ In conclusion, PHP remains a foundational technology in new media, driving the i
 ---
 
 **Amanatidis, Theodoros**, and **Alexander Chatzigeorgiou**. “Studying the Evolution of PHP Web Applications.” *Information and Software Technology* 72 (April 1, 2016): 48–67. [DOI: 10.1016/j.infsof.2015.11.009](https://doi.org/10.1016/j.infsof.2015.11.009).
+
+Lockhart, Josh. *Modern PHP: New Features and Good Practices*. O’Reilly Media, Inc., 2015.
+
+“PHP.” In *Wikipedia*, February 9, 2025. [https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653](https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653)
+
 ```

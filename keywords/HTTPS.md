@@ -16,9 +16,14 @@ Additionally, HTTPS enhances trust and credibility. In an era of misinformation 
 
 Moreover, HTTPS is widely used across various new media platforms. Social networks, video streaming services, blogs, forums, and e-commerce websites rely on HTTPS to ensure safe user experiences. Secure communication is particularly crucial for online journalism and digital activism, where protecting the integrity of information and sources is paramount.
 
-In conclusion, HTTPS is an indispensable component of new media, providing security, trust, and improved visibility for online platforms. As the digital landscape continues to evolve, ensuring secure communication will remain fundamental to engaging with new media safely and effectively.
+In conclusion, HTTPS is an indispensable component of new media, providing security, trust, and improved visibility for online platforms. As the digital landscape evolves, ensuring secure communication will remain fundamental to engaging with new media safely and effectively.
 
 ---
 
 **Hellegren, Z. Isadora**. “A History of Crypto-Discourse: Encryption as a Site of Struggles to Define Internet Freedom.” *Internet Histories* 1, no. 4 (September 2, 2017): 285–311. [DOI: 10.1080/24701475.2017.1387466](https://doi.org/10.1080/24701475.2017.1387466).
+
+Fuchs, Christian. “New Media, Web 2.0 and Surveillance.” *Sociology Compass* 5, no. 2 (2011): 134–47. [https://doi.org/10.1111/j.1751-9020.2010.00354.x](https://doi.org/10.1111/j.1751-9020.2010.00354.x)
+
+“HTTPS.” In *Wikipedia*, January 24, 2025. [https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473](https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473)
+
 ```

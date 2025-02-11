@@ -1,6 +1,11 @@
+## Quantum computing
 Quantum computing is a branch of computing that challenges classical computation by leveraging principles of quantum mechanics to process information. Qubits are the core and can be both 0 and 1 simultaneously. Due to this, it can perform complex calculations exponentially faster than traditional computation. [^1citation]
+
 Another key concept is entanglement, which is a phenomenon where qubits become the state of one instantly affects the state of another. Distance here has no impact of their relation, so it makes this very powerful. [^2citation]
-At its origins, quantum computing was originated by  Richard Feynman in 1982 [^3citation]. However, it wasn’t until later in the late 20th century, that Shor’s algorithm demonstrating how quantum computers could efficiently factor large numbers[^4citation].Today, companies like IBM, Google, and startups such as Rigetti Computing are pioneering real-world quantum hardware and software applications [^5citation].
+At its origins, quantum computing was originated by  Richard Feynman in 1982 [^3citation]. 
+
+However, it wasn’t until later in the late 20th century, that Shor’s algorithm demonstrating how quantum computers could efficiently factor large numbers[^4citation].Today, companies like IBM, Google, and startups such as Rigetti Computing are pioneering real-world quantum hardware and software applications [^5citation].
+
 Despite its promise, quantum computing faces challenges today like decoherence. Building stable quantum computers requires overcoming these hurdles [^6citation] . 
 In the 21st century, computing continues to evolve,  and quantum computing is vital to that evolution. When designed and implemented effectively, it has the potential to redefine what is computationally possible.
  

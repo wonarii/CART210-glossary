@@ -10,8 +10,8 @@ Despite its promise, quantum computing faces challenges today like decoherence. 
 In the 21st century, computing continues to evolve,  and quantum computing is vital to that evolution. When designed and implemented effectively, it has the potential to redefine what is computationally possible.
  
 [^1citation]:  Nielsen, Michael A., and Isaac L. Chuang. 2010. _Quantum Computation and Quantum Information_. 10th ed. Cambridge: Cambridge University Press. ↩
-[^2citation]: Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" _Physical Review_ 47 (10): 777–80. https://doi.org/10.1103/PhysRev.47.777. ↩
+[^2citation]: Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" _Physical Review_ 47 (10): 777–780. https://doi.org/10.1103/PhysRev.47.777. ↩
 [^3citation]: Shor, Peter W. 1994. "Algorithms for Quantum Computation: Discrete Logarithms and Factoring." In _Proceedings of the 35th Annual Symposium on Foundations of Computer Science_, 124–34. Santa Fe, NM: IEEE. https://doi.org/10.1109/SFCS.1994.365700. ↩
-[^4citation]: Feynman, Richard P. 1982. "Simulating Physics with Computers." _International Journal of Theoretical Physics_ 21 (6): 467–88. https://doi.org/10.1007/BF02650179. ↩
-[^5citation]: Arute, Frank, et al. 2019. "Quantum Supremacy Using a Programmable Superconducting Processor." _Nature_ 574 (7779): 505–10. https://doi.org/10.1038/s41586-019-1666-5. ↩
+[^4citation]: Feynman, Richard P. 1982. "Simulating Physics with Computers." _International Journal of Theoretical Physics_ 21 (6): 467–488. https://doi.org/10.1007/BF02650179. ↩
+[^5citation]: Arute, Frank, et al. 2019. "Quantum Supremacy Using a Programmable Superconducting Processor." _Nature_ 574 (7779): 505–510. https://doi.org/10.1038/s41586-019-1666-5. ↩
 [^6citation]: Preskill, John. 2018. "Quantum Computing in the NISQ Era and Beyond." _Quantum_ 2 (79): 1–20. https://doi.org/10.22331/q-2018-08-06-79. ↩

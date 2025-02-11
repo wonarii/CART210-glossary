@@ -1,5 +1,8 @@
 ## Brain Interfaces
 
+![Brain Interfaces](images/brain-interfaces-prosper.png)
+Image taken from these sources[^brain][^waves][^eeg].
+
 Brain Interfaces, also often referred to as Brain-Computer Interfaces (BCI), are devices that measure brain activity and translate it into control signals for machines (such as computers) to execute tasks[^gentle2010]. In other words, BCI allow for a brain and a machine to directly communicate [^interface2022]. Using BCI, the execution of a task requires no movement or usage of muscles. 
 
 Brain-Computer Interfaces first rely on the captation of brain activity. This is achieved by using methods that detect the electrical signals generated in specific regions of the brain by networks of neurons communicating with eachother when a person performs a given cognitive task.  A non-invasive method of doing this is electroencephalography (EEG), which refers to reading brain activity by using electrodes placed on the scalp [^gentle2010]. Other more invasive methods exist, such as surgically implanted electrodes that are either placed on the surface of the cortex or penetrate brain tissue [^gentle2010]. 
@@ -14,3 +17,6 @@ This technology also has applications in the field of new media art. In fact, on
 [^gentle2010]: Graimann, Bernhard et al. 2010. "Brain-Computer Interfaces: A Gentle Introduction". In *Brain-Computer Interfaces:  Revolutionizing Human-Computer Interaction*, edited by Bernhard Graimann et al. Springer.
 [^interface2022]:Dehais, Frédéric and Fabien Lotte. 2022. "Brain-computer interfaces". In *Dictionnaire du numérique*, edited by Marie Cegarra-Cauli et al. ISTE Editions. 
 [^autodesk2018]: Dorfman, Peter. 2018. "2 heads -and a Brain-Computer Interface- are making waves in the art world." Autodesk. Last modified May 22, 2018.  https://www.autodesk.com/design-make/articles/brain-computer-interface 
+[^brain]: Unknown Author, Unknown year. "2-25161_human-brain-png-svg-free-human-brain.png". PNGKey. Unknown date. https://www.pngkey.com/png/detail/2-25161_human-brain-png-svg-free-human-brain.png
+[^waves]: Sirven, Joseph I. and Steven C. Schachter, 2013. "infect_2-s_0.gif". Epilepsy Foundation. August 22nd. https://www.epilepsy.com/sites/default/files/inline-images/infect_2_s_0.gif
+[^eeg]: Unknown Author, 2016. "eeg-2.jpg". AdaFruit Blog. August 31st. https://cdn-blog.adafruit.com/uploads/2016/08/eeg-2.jpg 

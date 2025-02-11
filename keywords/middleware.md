@@ -8,6 +8,8 @@ By far, the most important role of middleware is in cloud computing. The foundat
 
 In the 21st century, computing continues to evolve, thus the role of middleware is more important than ever. Done properly, middleware is a vital service that enable applications to communicate an across a wide range of platforms. Incorrectly chosen, middleware can slow down the process by producing bottleneck issues.[^4citation]
 
+![Middleware](images/middleware-kerasias.png)
+
 [^1citation]: Fersi, G. 2015. "Middleware for Internet of Things: A Study." In _2015 International Conference on Distributed Computing in Sensor Systems_, 230-235. Fortaleza, Brazil: IEEE. https://doi.org/10.1109/DCOSS.2015.43.
 [^2citation]: Naur, Peter, and Brian Randell, eds. 2001. _Report on a Conference Sponsored by the NATO Science Committee: NATO Software Engineering Conference 1968. Garmisch, Germany: NATO, 1969_. Edited and reformatted by Robert M. McClure, Arizona.
 [^3citation]: Youngblood, G. Michael. 2004. "Middleware." In _Handbook of Computer Networks and Distributed Systems: Middleware_, edited by Diane J. Cook and Sajal K. Das, 101-127. Hoboken, NJ: Wiley.

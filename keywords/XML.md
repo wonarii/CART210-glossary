@@ -1,4 +1,4 @@
-# XML
+## XML
 
 **XML (Extensible Markup Language)** is a flexible, text-based format for storing and transporting data. It uses a set of rules for encoding documents in a human-readable and machine-readable format.
 
@@ -22,15 +22,12 @@ XML is a foundational technology in new media, enabling structured content manag
 
 ---
 
-**van der Aalst, Wil M.P.**  
-*"Patterns and XPDL: A Critical Evaluation of the XML Process Definition Language."*  
-Department of Technology Management, Eindhoven University of Technology, The Netherlands.  
-February 2nd, 2025.  
-[PDF Document](http://www.workflowpatterns.com/documentation/documents/ce-xpdl.pdf)
+van der Aalst, Wil M.P. 2025. “Patterns and XPDL: A Critical Evaluation of the XML Process Definition Language.” *Department of Technology Management, Eindhoven University of Technology, The Netherlands*, February 2. PDF Document.
 
-Feng, Dujuan. “New Media Advertising Information Search Method Based on XML Technology.” *International Journal of High Speed Electronics and Systems*, October 18, 2024, 2540033. [https://doi.org/10.1142/S0129156425400336](https://doi.org/10.1142/S0129156425400336)
+Feng, Dujuan. 2024. “New Media Advertising Information Search Method Based on XML Technology.” *International Journal of High Speed Electronics and Systems*, October 18, 2540033. [https://doi.org/10.1142/S0129156425400336](https://doi.org/10.1142/S0129156425400336).
 
-“XML.” In *Wikipedia*, February 9, 2025. [https://en.wikipedia.org/w/index.php?title=XML&oldid=1274745213](https://en.wikipedia.org/w/index.php?title=XML&oldid=1274745213)
+Wikipedia. 2025. “XML.” *Wikipedia*, February 9, 2025. [https://en.wikipedia.org/w/index.php?title=XML&oldid=1274745213](https://en.wikipedia.org/w/index.php?title=XML&oldid=1274745213).
+
 
 
 

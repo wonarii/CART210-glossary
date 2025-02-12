@@ -1,4 +1,4 @@
-# PHP
+## PHP
 
 **PHP (Hypertext Preprocessor)** is a widely used, open-source scripting language designed primarily for web development. It is embedded into HTML to create dynamic web pages and can interact with databases, manage sessions, and process forms. 
 
@@ -6,7 +6,7 @@ PHP was created in 1993 by **Rasmus Lerdorf** as a set of **Common Gateway Inter
 
 ---
 
-# **PHP and Its Relevance to New Media**
+## **PHP and Its Relevance to New Media**
 
 In the digital age, new media encompasses various forms of online communication, including websites, social media platforms, streaming services, and interactive content. PHP (Hypertext Preprocessor) is crucial in enabling these digital experiences by serving as a powerful scripting language for web development. Its ability to process dynamic content, manage databases, and facilitate user interactions makes it indispensable in the evolving landscape of new media.
 
@@ -22,10 +22,11 @@ In conclusion, PHP remains a foundational technology in new media, driving the i
 
 ---
 
-**Amanatidis, Theodoros**, and **Alexander Chatzigeorgiou**. “Studying the Evolution of PHP Web Applications.” *Information and Software Technology* 72 (April 1, 2016): 48–67. [DOI: 10.1016/j.infsof.2015.11.009](https://doi.org/10.1016/j.infsof.2015.11.009).
+Amanatidis, Theodoros, and Alexander Chatzigeorgiou. 2016. “Studying the Evolution of PHP Web Applications.” *Information and Software Technology* 72 (April 1): 48–67. [https://doi.org/10.1016/j.infsof.2015.11.009](https://doi.org/10.1016/j.infsof.2015.11.009).
 
-Lockhart, Josh. *Modern PHP: New Features and Good Practices*. O’Reilly Media, Inc., 2015.
+Lockhart, Josh. 2015. *Modern PHP: New Features and Good Practices.* O’Reilly Media, Inc.
 
-“PHP.” In *Wikipedia*, February 9, 2025. [https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653](https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653)
+Wikipedia. 2025. “PHP.” *Wikipedia*, February 9, 2025. [https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653](https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653).
+
 
 ```

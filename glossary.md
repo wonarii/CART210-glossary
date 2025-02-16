@@ -234,7 +234,7 @@ Some of the most notable blogging platforms include [HuffPost](https://www.huffp
 
 ## Brain Interfaces
 
-![Brain Interfaces](/images/brain-interfaces-prosper.png)
+![Brain Interfaces](images/brain-interface-prosper.png)
 Image taken from these sources[^brain][^waves][^eeg].
 
 Brain Interfaces, also often referred to as Brain-Computer Interfaces (BCI), are devices that measure brain activity and translate it into control signals for machines (such as computers) to execute tasks[^gentle2010]. In other words, BCI allow for a brain and a machine to directly communicate [^interface2022]. Using BCI, the execution of a task requires no movement or usage of muscles. 

@@ -15,6 +15,6 @@ ________________________________________________________________________________
 
 [^Lamothe]: Lamothe, Guéhéneuc, and Shang, 2022. *“A Systematic Review of API Evolution Literature.”* @article https://dl.acm.org/doi/pdf/10.1145/3470133
 
-[^Biehl]: Beihl, Matthias. 2015. *API architecture.Vol.2.API-University Press. @book https://books.google.ca/books?id=6D64DwAAQBAJ&lpg=PA15&ots=zb5N9tMh6r&dq=%22api%20%22%20&lr&pg=PA15#v=onepage&q=%22api%20%22&f=false
+[^Biehl]: Beihl, Matthias. 2015. "_API architecture: The Big Picture for Building APIs_".API-University Series, Volume 2.CreateSpace Independent Publishing Platform. @book https://books.google.ca/books?id=6D64DwAAQBAJ&lpg=PA15&ots=zb5N9tMh6r&dq=%22api%20%22%20&lr&pg=PA15#v=onepage&q=%22api%20%22&f=false
 
 

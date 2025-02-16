@@ -694,11 +694,14 @@ Middleware first made its appearance in a 1968 NATO Software Engineering report.
 
 By far, the most important role of middleware is in cloud computing. The foundation for modern cloud-native architecture is middleware. It allows developers to safely and efficiently scale applications across hybrid environments. The main advantage of middleware is that it creates reliable core application features rather than handling complex system interactions that are error prone. The main disadvantage is that the initial setup and maintenance of middleware systems can be complex.[^3citation]
 
-In the 21st century, computing continues to evolve, thus the role of middleware is more important than ever. Done properly, middleware is a vital service that enable applications to communicate an across a wide range of platforms. Incorrectly chosen, middleware can slow down the process by producing bottleneck issues. 
+In the 21st century, computing continues to evolve, thus the role of middleware is more important than ever. Done properly, middleware is a vital service that enable applications to communicate an across a wide range of platforms. Incorrectly chosen, middleware can slow down the process by producing bottleneck issues.[^4citation]
+
+![Middleware](images/middleware-kerasias.png)
 
 [^1citation]: Fersi, G. 2015. "Middleware for Internet of Things: A Study." In _2015 International Conference on Distributed Computing in Sensor Systems_, 230-235. Fortaleza, Brazil: IEEE. https://doi.org/10.1109/DCOSS.2015.43.
 [^2citation]: Naur, Peter, and Brian Randell, eds. 2001. _Report on a Conference Sponsored by the NATO Science Committee: NATO Software Engineering Conference 1968. Garmisch, Germany: NATO, 1969_. Edited and reformatted by Robert M. McClure, Arizona.
 [^3citation]: Youngblood, G. Michael. 2004. "Middleware." In _Handbook of Computer Networks and Distributed Systems: Middleware_, edited by Diane J. Cook and Sajal K. Das, 101-127. Hoboken, NJ: Wiley.
+[^4citation]:Daily Mail. 2018. "Hawaii Man Gets Trapped in Gap Between Two Buildings." _Daily Mail_, March 21, 2018. https://www.dailymail.co.uk/news/article-5542715/Hawaii-man-gets-trapped-gap-two-buildings.html.
 
 ## MP3
 
@@ -799,6 +802,41 @@ Although the term originated from a software context and is most commonly used i
 [^linux]: "Linux." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Linux.
 
 [^opensource]: "Open Source Software." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Open_source_software.
+
+## Quantum computing
+Quantum computing is a branch of computing that challenges classical computation by leveraging principles of quantum mechanics to process information. Qubits are the core and can be both 0 and 1 simultaneously. Due to this, it can perform complex calculations exponentially faster than traditional computation. [^1citation]
+
+Another key concept is entanglement, which is a phenomenon where qubits become the state of one instantly affects the state of another. Distance here has no impact of their relation, so it makes this very powerful. [^2citation]
+At its origins, quantum computing was originated by  Richard Feynman in 1982 [^3citation]. 
+
+However, it wasn’t until later in the late 20th century, that Shor’s algorithm demonstrating how quantum computers could efficiently factor large numbers[^4citation].Today, companies like IBM, Google, and startups such as Rigetti Computing are pioneering real-world quantum hardware and software applications [^5citation].
+
+Despite its promise, quantum computing faces challenges today like decoherence. Building stable quantum computers requires overcoming these hurdles [^6citation] . 
+In the 21st century, computing continues to evolve,  and quantum computing is vital to that evolution. When designed and implemented effectively, it has the potential to redefine what is computationally possible.
+ 
+[^1citation]:  Nielsen, Michael A., and Isaac L. Chuang. 2010. _Quantum Computation and Quantum Information_. 10th ed. Cambridge: Cambridge University Press. ↩
+[^2citation]: Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" _Physical Review_ 47 (10): 777–780. https://doi.org/10.1103/PhysRev.47.777. ↩
+[^3citation]: Shor, Peter W. 1994. "Algorithms for Quantum Computation: Discrete Logarithms and Factoring." In _Proceedings of the 35th Annual Symposium on Foundations of Computer Science_, 124–34. Santa Fe, NM: IEEE. https://doi.org/10.1109/SFCS.1994.365700. ↩
+[^4citation]: Feynman, Richard P. 1982. "Simulating Physics with Computers." _International Journal of Theoretical Physics_ 21 (6): 467–488. https://doi.org/10.1007/BF02650179. ↩
+[^5citation]: Arute, Frank, et al. 2019. "Quantum Supremacy Using a Programmable Superconducting Processor." _Nature_ 574 (7779): 505–510. https://doi.org/10.1038/s41586-019-1666-5. ↩
+[^6citation]: Preskill, John. 2018. "Quantum Computing in the NISQ Era and Beyond." _Quantum_ 2 (79): 1–20. https://doi.org/10.22331/q-2018-08-06-79. ↩
+
+## Quantum Cryptography
+
+Quantum cryptography has a goal to secure communications and uses principles of quantum mechanics to do so. This opposes the traditional way of using computational mathematical abilities. Quantum cryptography provides information-theoretic security based on the fundamental laws of physics [^1citation].
+
+Quantum Key Distribution (QKD) is the basis of this type of cryptography. It’s a technique that enables two parties to share encryption keys in a way that is provably secure against any computational attack. In other words, it’s a system that allows quantum-encoded information to be sent, and it can also alert the communicating parties if there are any issues [^2citation].
+
+The idea of quantum cryptography originated in the early 1970s, but it was formally introduced in 1984 by Charles H. Bennett and Gilles Brassard [^3citation]. Since then, this field has expanded into real-world applications, including the Micius satellite, which enabled the first intercontinental quantum-secured video call [^4citation].
+
+Despite its promise, quantum cryptography faces challenges, including photon loss in optical fibers. However, ongoing research into quantum repeaters and satellite-based is expected to address these limitations[^5citation]. 
+
+[^1citation]: Bennett, Charles H., and Gilles Brassard. 1984. "Quantum Cryptography: Public Key Distribution and Coin Tossing." In _Proceedings of IEEE International Conference on Computers, Systems, and Signal Processing_, 175–179. Bangalore, India: IEEE.
+[^2citation]: Ekert, Artur K. 1991. "Quantum Cryptography Based on Bell’s Theorem." _Physical Review Letters_ 67 (6): 661–663. https://doi.org/10.1103/PhysRevLett.67.661.
+[^3citation]: Gisin, Nicolas, Grégoire Ribordy, Wolfgang Tittel, and Hugo Zbinden. 2002. "Quantum Cryptography." _Reviews of Modern Physics_ 74 (1): 145–195. https://doi.org/10.1103/RevModPhys.74.145.
+[^4citation]: Liao, Sheng-Kai, Wen-Qi Cai, and Juan Yin et al. 2017. "Satellite-to-Ground Quantum Key Distribution." _Nature_ 549 (7670): 43–47. https://doi.org/10.1038/nature23655.
+[^5citation]: Pirandola, Stefano, Ulrik L. Andersen, and Leonardo Banchi et al. 2020. "Advances in Quantum Cryptography." _Advances in Optics and Photonics_ 12 (4): 1012–1036. https://doi.org/10.1364/AOP.361502.
+
 
 ## RGB
 RGB colorspace stands for “Red, Green Blue” colorspace, which is considered an “additive” color model. It is considered additive due to the range of colors being created by adding wavelengths of the main colors together in different proportions. [^zelazko225rgbcolor]

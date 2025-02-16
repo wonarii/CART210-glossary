@@ -203,6 +203,24 @@ Analytics profoundly impacts digital culture by shaping how content is created, 
 [^dong24study]: Dong, Jiaqi. 2024. “A Study on the Application of Data Analytics in New Media Communication.” _Media and Communication Research_ 5 (3). https://doi.org/10.23977/mediacr.2024.050314. 
 [^manovich17cultural]: Manovich, Lev. 2017. “Cultural Analytics, Social Computing and Digital Humanities.” In _Amsterdam University Press eBooks_, 55–68. https://doi.org/10.25969/mediarep/12514.
 
+## AR
+
+Augmented Reality (AR) integrates digital content into the real world, engaging multiple senses. Unlike Virtual Reality (VR), which immerses users in a fully computer-generated environment, AR blends virtual elements with real-world settings, enhancing how users perceive and interact with their surroundings.[^Pesce21AR] AR is highly relevant to new media because it transforms digital content into interactive, engaging experiences. By merging physical and digital environments, AR creates new ways for users to connect, explore, and engage with their surroundings in real time.
+
+The fundamental concept of AR lies in the combination of two sources of information—real and digital—merged into a single viewing space. Although AR may seem like a recent technological development, its history dates back to 1892 with Pepper’s Ghost, a stage illusion that is considered a precursor to AR. This technique involved projecting images into the real world, creating the illusion of objects existing in physical space.
+
+In 1962, Ivan Sutherland created the first modern VR system, which projected computer-generated images onto the real world using a head-mounted display.[^Peddie23AR] Over time, AR technology continued to evolve, and with the rise of devices like smartphones and tablets, it became far more accessible. Through apps on these devices, users can now interact with virtual objects or use AR for purposes such as navigation, gaming, and shopping. This marked a significant step in AR’s integration into everyday life.
+
+A key feature of AR is its ability to allow users to see and interact with their physical environment while experiencing digital enhancements. According to the book VR/AR: Foundations and Methods of Extended Realities, Wolfgang Broll suggests that there are three main types of AR: Video See-Through AR, Optical See-Through AR, and Projection-Based AR.[^Doerner22AR] (Although there is no official classification system, this is one of the ways to categorize them.) In Video See-Through AR, the real world is captured by a video camera, and the image is superimposed with virtual content before being displayed on an output device. Optical See-Through AR, on the other hand, allows users to directly view the real world through an optical device, with virtual content overlaid in real-time. Lastly, Projection-Based AR applies virtual content directly onto objects in the real environment using projection mapping.
+
+As AR technology continues to evolve, the possibilities for how it can be applied expand, making it an exciting field to watch. While we cannot predict exactly how AR will develop in the future, one potential direction is the merging of AR with VR to create a hybrid experience known as mixed reality. This convergence may offer even more immersive and interactive experiences, further blurring the lines between the digital and physical worlds.
+
+[^Pesce21AR]: Pesce, Mark. 2021. Augmented Reality : Unboxing Tech’s next Big Thing. Cambridge, UK: Polity Press.
+
+[^Peddie23AR]: Peddie. Jon. 2023. _Augmented Reality: where we will all live. Second edition. Cham: Springer.
+
+[^Doerner22AR]: Doerner, Ralf, Wolfgang Broll, Paul Grimm, and Bernhard Jung, eds. 2022. Virtual and Augmented Reality (VR/AR): Foundations and Methods of Extended Realities (XR). Cham Switzerland: Springer.
+
 ## Avatar
 The term ‘avatar’ is not a new concept. According to the Myriam Webster dictionary, it comes from the Sanskrit word referring to a deity's descent or incarnation on earth, and later evolved to refer to any embodiment or personification of an idea, entity or philosophy. [^MiramWebster01Defintion] However, more recently, the first thing that comes to mind when we hear the word avatar is closer to B. Coleman’s definition in her book *Hello Avatar*, where she describes them as “a computer-generated figure controlled by a person via a computer. It is often a graphical representation of a person with which one can interact in real time” .[^Coleman]
 	Coleman, however, expands further on her definition, adding that the avatar also "includes the many modes of representation we employ that make up the different roles we play and places we go".[^Coleman]  Jerry Liu explains is his article “From Sci Fi to Commercialization: The Rise of Digital Avatars,” that the idea of an avatar is not just referencing the self, but also “digital influencers” and “digital celebrities”, including examples such as 1990s band *The Gorillaz*, international digital superstar Hatsune Miku and AI created influencers such as Lil Miquella.[^Liu]
@@ -568,6 +586,75 @@ Cyberspace is new representation of the physical world. It contains its own new 
 
 [^nist12information]: “NIST: Information Security” *NIST.gov*. Last modified September, 2012. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 
 
+## DNS
+
+DNS stands for Domain Name System. It was invented by Paul Mockapetris in 1983. [^cocoran11branding]
+
+Each computer and server have their own IP address, a series of numbers, similar to how houses have addresses for their locations. 
+To be able to connect to another computer through the internet, it was required to know the IP address. An IP address is a series of 
+numbers that would point to the location of the site, similar to how our home addresses tell us where we are geographically.
+
+In the past, to find this specific number, a `hosts.txt` file had a table with the name of the host linked to their IP address. 
+However, this file had to be updated every time a new “location” was created. With the rise of the Internet, it quickly fell behind. [^cocoran11branding]
+To fix this issue, Paul Mockapetris invented the domain name system. 
+This system takes domain names and translates them into IP addresses for the browser to use. [^cloudflare25DNS] The system is divided into different categories and levels to help organization and navigation.
+While most top-level domains categorize sites by geographical location, they also have a few to signify the site’s purpose. For example, “ca” is for canadian sites, “com” is for commercial sites and “org” is for non-profit organizations.
+You could also add subdomains for even more specificity. They just have to be separated by a dot. Example: https://library.concordia.ca/
+The “.ca” part is the top-level domain and there’s the subdomain “.concordia”.
+This helps connect sites to each other and signify relationships between different pages. [^cocoran11branding]
+
+The creation of the DNS led to a much more accessible Internet. Rather than having to remember and type long strings of numbers to reach other sites, 
+users could now use words that are much easier to remember and in most cases shorter to type out. 
+This made the Internet more appealing and accessible to the masses which led to an even bigger influx of users. [^cocoran11branding]
+
+Without the DNS, new media that uses the online world as it’s main platform to be shared or diffused may not have been as accessible. The domain name, or name used to find a website has become an important part of that site’s identity. Websites are recognized by their domain names.
+The DNS also paved the way for the World Wide Web and helped the Internet become what it is today. [^veaandreubonastre19origins]
+
+![DNS](images/DNS-wong.png)
+Computer image (left) from : 
+[bert b](https://unsplash.com/@bertsz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-macintosh-computer-Zd6PL6PSW5E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
+
+House image (right) from: 
+[Luke Stackpoole](https://unsplash.com/@withluke?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-and-white-house-surround-green-grass-field-eWqOgJ-lfiI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+
+
+[^cocoran11branding]: Cocoran, Ian. 2011. _The Art of Digital Branding. Rev. ed._ New York: Allworth Press.
+[^cloudflare25DNS]: Cloudflare. 2025. What is DNS| How DNS works.
+[^veaandreubonastre19origins]: Bonastre, Oscar M., and Andreu Vea. 2019. “Origins of the Domain Name System.” _IEEE Annals of the History of Computing_ 41 (2): 48–60. https://doi.org/10.1109/MAHC.2019.2913116.
+
+
+## E-Commerce
+
+E-commerce (electronic commerce) is a term for buying and selling stuff through the internet. The increase of e-commerce over the years has been helped a lot by the increase of digital 
+payment systems that have secure transactions and logistics networks. E-commerce’s significance in new media is shown by how it has completely changed the normal ways that the retail 
+systems managed by allowing businesses to reach everyone everywhere on a global scale, without the need for a physical place. It allows for digital technologies like phones and computers 
+to provide people with more convenience, variety, and better pricing. The large amount of popularity for e-commerce has also started to bring the use of new media marketing strategies, 
+like social media advertising and influencer partnerships, to attract and keep customers. 
+
+E-commerce’s relation to current technologies in the modern world is seen through the different platforms combining technologies like artificial intelligence (AI) and machine learning 
+with their e-commerce stores, to give the users a more personalized shopping experience, like having recommend products based off of what they have been browsing. Additionally, 
+live commerce was created as a combination of live streaming and online shopping, which has came out as a new trend to give a more interactive and immersive shopping experience. [^sciencedirect.com] 
+The increase of mobile apps have also improved the accessibility by allowing users to shop anytime and anywhere. 
+
+The historical origins of e-commerce are rooted back to when the development of Electronic Data Interchange (EDI) in the 1960s were created, which then allowed for businesses 
+to exchange docunemnts and files like purchases that happen nowadays through the internet, getting rid of the need for paper. [^britannica.com] In 1979, Michael Aldrich lead the way for 
+this kind of work by attaching a television to a transaction processing computer through a telephone line, which brought about the idea of teleshopping.[^researchgate.net] The 1990s were 
+when the World Wide Web and the advancements in internet security like Secure Socket Layers (SSL), allowed online retail platforms to start making a name for themselves.
+
+E-commerce’s influence on contemporary digital culture and society has greatly changed the user’s behaviors by changing their preferences towards online shopping because of its convenience and often 
+has lower prices. It also has influenced the gig businesses, with platforms like Etsy that allows people to monetize their crafts.On top of this, e-commerce has changed the supply chain’s 
+way of being by making the need for fast and effiecent delivery systems and warehousing solutions very important.
+
+### Paradigmatic Examples:
+- Amazon: Founded by Jeff Bezos in 1994, Amazon started as an online bookstore and has evolved into the world's largest e-commerce platform.
+- Alibaba: Established by Jack Ma in 1999, Alibaba is a Chinese multinational conglomerate specializing in e-commerce, retail, and technology.
+- eBay: Launched in 1995 by Pierre Omidyar, eBay is an online auction and shopping website where individuals and businesses buy and sell a large variety of goods and services worldwide.
+
+[^sciencedirect.com]: S Chen, A.M Degeratu, A Enders, V Katros, C Zott. “_E-Commerce and the Retail Process: A Review._” Journal of Retailing and Consumer Services, December 17, 2002. (https://www.sciencedirect.com/science/article/pii/S0969698902000620). 
+[^researchgate.net]: Tian, Yan. “_(PDF) History of e-Commerce._” ResearchGate, January 2007. (https://www.researchgate.net/publication/314408412_History_of_E-Commerce). 
+[^britannica.com]: Zwass, Vladimir. “_E-commerce | Definition, History, Types, Examples, & Facts._” Encyclopædia Britannica, December 17, 2024. [https://www.britannica.com/money/e-commerce].
+
 ## Facial Recognition 
 
 Facial recognition is a biometric technology that identifies or verifies individuals by analyzing facial features. It captures and processes facial data to convert it into a digital format for comparison using specialized algorithms.[^zhao03face]
@@ -824,6 +911,31 @@ Although the term originated from a software context and is most commonly used i
 [^linux]: "Linux." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Linux.
 
 [^opensource]: "Open Source Software." Wikipedia. February 2, 2025. https://en.wikipedia.org/wiki/Open_source_software.
+
+## RGB
+RGB colorspace stands for “Red, Green Blue” colorspace, which is considered an “additive” color model. It is considered additive due to the range of colors being created by adding wavelengths of the main colors together in different proportions. [^zelazko225rgbcolor]
+This colorspace is usually used in screens and digital devices. Although different color depths exist for different screens, the most common way of referring to RGB colors is the HEX notation, characterized by 6 hexadecimal (0 to F) values. [^christensson19rgb] This notation is used due to the 24-bit color (256 values per color) being the nearest to the color spectrum visible to humans, making two hexadecimals per color perfectly represent those colors. [^christensson19rgb]
+
+The idea of RGB colorspace was created because of a previous finding by Thomas Young in 1802, who proposed that the human eye had three cone cells. The colors corresponding to those cone cells were later discovered in 1851 by Hermann von Helmholtz. From there, in 1861, James Clerk Maxwell proposed the RGB color model, demonstrating it with photography plates of an image (of a tartan ribbon) that were taken with different filters. [^rhyne17applying] From then on, the RGB colorspace has been what we consider as the "light" colorspace. Other species who have different color cones in their eyes will see color differently than us, therefore would necessitate a different colorspace model. 
+
+Although RGB is universal, the colors are display dependent, meaning that the colors for a same hexadecimal may appear differently on different screens. [^ibraheem12understanding] This is mostly due to variations in the manufacturing of the different layers of the screen, as well as the display technology used (LED vs OLED). [^benq22why]
+
+The theory of RGB is very useful in new media, as the use of screens and lights are very common. Utilising different colors and color mixes in new media will necessitate a basic knowledge in RGB colorspace, as well as some knowledge of CMYK (Cyan, Magenta, Yellow, Black), and other models such as HSI (Hue, Saturation, Intensity), used for digital illustration, or RYB (Red, Yellow, Blue), used for painting. RBG and HSI have also been used together in Deep learning to optimize image denoising (using two colorspaces to add more data and therefore more definition to the denoising)[^Deng24rgb]
+
+![RGB](images/RGB-godfroy.png)
+Colorwheel image taken from a screenshot of the procreate colorwheel tool.
+
+[^zelazko225rgbcolor]: Zelazko, Alicja. 2025. “RGB Colour Model | Description, Development, Uses, Science, & Facts.” Encyclopedia Britannica, https://www.britannica.com/science/RGB-color-model.
+
+[^christensson19rgb]: Christensson, Per. 2019. “RGB,” https://techterms.com/definition/rgb#google_vignette.
+
+[^ibraheem12understanding]: Ibraheem, Noor, Mokhtar Mohammed Hasan, Rafiqul Zaman Khan, and Pramod Kumar Mishra. 2012. “Understanding Color Models: A Review.” *ARPN Journal of Science and Technology 2* (3): 265–275.
+
+[^benq22why]: BenQ. 2022. “Why Don’t Colors Look the Same Across Different Devices?” https://www.benq.com/en-ca/knowledge-center/knowledge/why-dont-colors-look-the-same-across-different-devices.html.
+
+[^rhyne17applying]: Rhyne, Theresa-Marie. 2017. "Applying Color Theory to Digital Media and Visualization." *Boca Raton, FL : CRC Press, Taylor & Francis Group* : p.4
+
+[^Deng24rgb]: K. Deng, P. Wang and Y. Qian, "RGB Images Enhancing Hyperspectral Image Denoising with Diffusion Model," ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 2960-2964
 
 ## Search Engine Optimization
 

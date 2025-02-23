@@ -11,10 +11,8 @@ An API when it comes to new media is significant as it can allow the user to be 
 
 
 ____________________________________________________________________________________________________________________________________________________________________________________
-[^simon]: Simon, Jean Paul,2021. *“APIs, the Glue under the Hood. Looking for the ‘API Economy.’”* @article https://www.emerald.com/insight/content/doi/10.1108/DPRG-10-2020-0147/full/html?casa_token=Svdmh3KUawsAAAAA:vC1thqAijzeXv47PoKi6yQ5mgEXXVgVJqxBYH4o_OWnkK1bVk4Tobm4xTBrOSyDMf3noDZlyPZKtrps2-USJ6pV5VCIVgr8la-rJBPT6Tux5c-fzPws
-
-[^Lamothe]: Lamothe, Guéhéneuc, and Shang, 2022. *“A Systematic Review of API Evolution Literature.”* @article https://dl.acm.org/doi/pdf/10.1145/3470133
-
+[^simon]: Simon, Jean Paul. 2021. “APIs, the Glue Under the Hood. Looking for the ‘API Economy.’” Digital Policy Regulation and Governance 23 (5): 489–508. @article https://doi.org/10.1108/dprg-10-2020-0147.
+[^Lamothe]:Lamothe, Maxime, Yann-Gaël Guéhéneuc, and Weiyi Shang. 2021. *“A Systematic Review of API Evolution Literature.”* ACM Computing Surveys 54 (8): 1–36.8. @article https://dl.acm.org/doi/pdf/10.1145/3470133
 [^Biehl]: Beihl, Matthias. 2015. "_API architecture: The Big Picture for Building APIs_".API-University Series, Volume 2.CreateSpace Independent Publishing Platform. @book https://books.google.ca/books?id=6D64DwAAQBAJ&lpg=PA15&ots=zb5N9tMh6r&dq=%22api%20%22%20&lr&pg=PA15#v=onepage&q=%22api%20%22&f=false
 
 

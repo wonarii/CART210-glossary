@@ -34,8 +34,10 @@ Despite its benefits, the Internet faces significant challenges, including:
 - **Blockchain & Decentralized Networks** – Emerging technologies like blockchain operate on Internet protocols to enable secure, transparent transactions without central authorities [^clark1988].  
 
 ### References  
+### References  
 
-[^clark1988]: Clark, David D. 1988. *The Design Philosophy of the DARPA Internet Protocols*. ACM SIGCOMM Computer Communication Review 18 (4): 106–114.  
-[^saltzer1984]: Saltzer, Jerome H., David P. Reed, and David D. Clark. 1984. *End-to-End Arguments in System Design*. ACM Transactions on Computer Systems 2 (4): 277–288.  
+[^clark1988]: Clark, David D. 1988. "The Design Philosophy of the DARPA Internet Protocols." *ACM SIGCOMM Computer Communication Review* 18 (4): 106–114.  
+[^saltzer1984]: Saltzer, Jerome H., David P. Reed, and David D. Clark. 1984. "End-to-End Arguments in System Design." *ACM Transactions on Computer Systems* 2 (4): 277–288.  
 [^abbate1999]: Abbate, Janet. 1999. *Inventing the Internet*. Cambridge, MA: MIT Press.  
-[^leiner2009]: Leiner, Barry M., et al. 2009. *A Brief History of the Internet*. ACM SIGCOMM Computer Communication Review 39 (5): 22–31.  
+[^leiner2009]: Leiner, Barry M., Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, and Stephen Wolff. 2009. "A Brief History of the Internet." *ACM SIGCOMM Computer Communication Review* 39 (5): 22–31. https://doi.org/10.1145/1629607.1629613.  
+

@@ -740,6 +740,19 @@ More modern applications of Multimedia are thought to date back to the early 196
 
 [^brown17virtual]: Brown, Johnathan, Elisa White, and Akshya Boopalan. 2017. “Looking for the Ultimate Display: A Brief History of Virtual Reality.” Boundaries of Self and Reality Online, March 3, 2017. https://www.sciencedirect.com/science/article/abs/pii/B9780128041574000128#:~:text=A%20computer%20interpreted%20the%20beams,Sturman%20%26%20Zeltzer%2C%201994).
 
+![Natural language processing](images/naturallanguageprocessing-vlamis.png)[^deepmind]
+
+Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on the interaction between computers and human language.[^NLPIBM] It involves developing algorithms and models that enable computers to interpret, analyze, and generate human language in a way that is both meaningful and contextually relevant. By leveraging techniques from computational linguistics and machine learning, NLP facilitates tasks such as text classification, language translation, sentiment analysis, and conversational agent development.
+
+The field of NLP has undergone significant evolution over the past decades. Early approaches were largely rule-based, relying on hand-crafted linguistic rules to process language.[^speechandlanguageprocessing] Over time, statistical methods were introduced, which paved the way for more scalable approaches. In recent years, the emergence of deep learning—especially transformer-based architectures like BERT has revolutionized NLP by enabling models to capture nuanced contextual information in language data.[^bert]
+
+Applications of NLP span a wide range of areas. For instance, machine translation systems like Google Translate use deep [neural networks](../main/glossary.md#neural-networks) to improve language translation, making it more accurate. Virtual assistants like Siri and Alexa rely on NLP to understand and respond naturally to spoken language. In business, sentiment analysis tools process text from social media, reviews, and surveys to extract insights on public opinion and consumer sentiment.[^speechandlanguageprocessing] Most recently, generative AI chatbots are one of the most significant advancements in NLP, as they act as a culimnation of decades of research and development into computational linguistics.
+
+[^deepmind]: Cockx, Wes and Google DeepMind. 2023. *An Artist’s Illustration of Artificial Intelligence.* Pexels. https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-language-models-which-generate-text-it-was-created-by-wes-cockx-as-part-of-the-visualising-ai-project-l-18069694/.
+[^bert]: Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. “BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding.” arXiv. https://doi.org/10.48550/arXiv.1810.04805.
+[^speechandlanguageprocessing]: Jurafsky, Dan, and James H. Martin. 2009. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. 2nd ed. Prentice Hall Series in Artificial Intelligence. Upper Saddle River, N.J: Pearson Prentice Hall.
+[^NLPIBM]: Stryker, Cole, and Jim Holdsworth. n.d. “What Is NLP (Natural Language Processing)? | IBM.” IBM. Accessed February 19, 2025. https://www.ibm.com/think/topics/natural-language-processing.
+
 ## Neural Networks
 
 A neural network is a sophisticated form of machine learning and subset of deep learning, designed to emulate the structure and functionality of the human brain[^thisisacitation1]. These systems, often referred to as “Artificial Neural Networks” (ANN) [^thisisacitation2], are inspired by the biological processes of neurons in the brain. They are composed of dense interconnected layers of nodes consisting of an input layer, multiple hidden layers for processing information, and an output layer[^thisisacitation3].
@@ -898,6 +911,41 @@ Many contemporary operating systems, such as Linux and macOS, are derived from o
 
 [^mcilroy78unix]: McIlroy, M. D. 1978. "Unix Time-Sharing System: Foreword." _The Bell System Technical Journal_ 57 (6): 1899–1904.
 
+## User Interface (UI)
+A user interface (UI) is the medium through which humans interact with devices. It includes physical tools like keyboards and touchscreens as well as visual elements such as icons, buttons and animations. Some more concrete example include a computer mouse, remote control and virtual reality headsets.[^hashemi24ui]
+
+### History of UI
+Early humans used hieroglyphs to communicate. They are universally understood symbols and modern UI design uses this practice with its emphasis on icons and emojis to indicate an action. The typewriter was a pivotal innovation during the age of the machine as it introduced a tactile user interface. This later influenced the design of computer keyboards and digital text interfaces.[^reidworld] However, more concrete work on the user interface began with the development of a graphical user interface (GUI) based on Douglas Engelbart’s work on interactive computing in 1968. He was inspired by calls for technological advancements to do social good after World War II. Xerox PARC further refined GUI concepts, leading to commercial adaptations like Apple's Macintosh and Microsoft Windows. These innovations made computing from a command-line system that was only accessible to experts into a more intuitive and visual experience for everyday users. However, commercial interests began to influence user interface design. The priority is ease of use and market dominance over the original vision of deeper human-computer interactions.[^barnes10history]
+
+### UI Today
+User interface (UI) is essential in today's increasingly digital world because it determines how users interact with technology. UI is directly tied to modern digital experiences. With the shift from Web 1.0 to Web 3.0, interfaces have adapted to allow more participation and personalization. Now, UI has advanced to natural user interfaces (NUI), which include voice commands, motion gestures and even biological signal recognition. This allows for more human-like interactions with technology. UI is evolving in industries like gaming, mobile devices and smart applications as human needs change.[^sharma21ui] It does so based on user experience which is another facet of human-computer interaction.[^hashemi24ui]
+
+![User Interface](images/userinterface-chakrabarty.png) [^dell25keyboard][^tisanti16mouse][^rethin23humam][^wongios][^kamushken20figma][^elius20macintosh][^dev13microsoft]
+
+[^dell25keyboard]: Dell. 2025. “Dell Wireless Keyboard KB500 Product Image.” Dell Canada. Accessed February 9, 2025. https://www.dell.com/en-ca/shop/dell-wireless-keyboard-kb500/apd/580-aklj/pc-accessories.
+
+[^tisanti16mouse]: TiSanti. 2016. "Old Computer Mouse." iStock. Accessed February 9, 2025. https://www.istockphoto.com/photos/old-computer-mouse.
+
+[^rethin23humam]: Rethinagiri, G. M. 2023. "Human-Computer Interaction with Computer Vision: Challenges and Innovations." Medium. Accessed February 9, 2025. https://medium.com/@gmrethinagiri1507681/human-computer-interaction-with-computer-vision-challenges-and-innovations-b99c24c8e6ff.
+
+[^rr20mouse]: RR Auction. 2020. "Ground-breaking Engelbart 3-button computer mouse goes to auction." New Atlas. Accessed February 9, 2025. https://newatlas.com/computers/first-computer-mouse-engelbart-sale/.
+
+[^wongios]: Wong, Lauren. n.d. "iOS: The User Interface Design Journey." Sush Labs. Accessed February 9, 2025. https://www.sushlabs.com/blog/ios-the-ui-design-journey.
+
+[^kamushken20figma]: Kamushken, Roman. 2020. "Best Figma Plugins for 2020 Which Deserve Your Attention." Medium. Accessed February 9, 2025. https://kamushken.medium.com/best-figma-plugins-for-2020-which-deserve-your-attention-d542cc56aee0.
+
+[^elius20macintosh]: Eliuseev, Dmitrii. 2020. "The 1984 Apple Macintosh: How Does It Look Today?" UX Design. Accessed February 9, 2025. https://uxdesign.cc/the-1984-apple-macintosh-how-does-it-look-today-d08dde79da05.
+
+[^dev13microsoft]: DevToolsGuy. 2013. "An Introduction to the Microsoft 'Modern UI' Design Philosophy." Infragistics Blog. Accessed February 10, 2025.
+
+[^hashemi24ui]: Hashemi-Pour, Cameron, and Fred Churchville. 2024. “User Interface (UI).” TechTarget. https://www.techtarget.com/searchapparchitecture/definition/user-interface-UI.
+
+[^reidworld]: Reid, Danielle. n.d. “The World Is Our Interface: The Evolution of UI Design.” Toptal. https://www.toptal.com/designers/ui/touch-the-world-is-our-interface.
+
+[^barnes10history]: Barnes, Susan B. 2010. "User Friendly: A Short History of the Graphical User Interface." _Sacred Heart University Review_ 16 (1): 4.
+
+[^sharma21ui]: Sharma, Vatsal, and A. Kumar Tiwari. 2021. "A study on user interface and user experience designs and its tools." _World Journal of Research and Review (WJRR)_ 12, (6): 41-45.
+
 ## Virtual Environment
 
 Virtual environments are the technology which facilitates interactions between users and computer-generated artificial environments.[^ve3] These interactive computer displays are designed to create the illusion that the user has been transported to a different location.[^ve1] In a virtual world, the user can use their senses and their body in a similar way to the real world. They can turn their head to see their surroundings, trace sounds to the direction they are coming from, and use their hands to pick up virtual objects [^ve2]. Virtual environments are thus the most natural form of interaction between humans and computers.[^ve2] 
@@ -916,6 +964,7 @@ Virtual worlds like online games and platforms are spaces where artists experime
 
 Virtuality is the idea that something can have an effect or be experienced even if it isn't physically real. For instance, in a meeting where most committee members aren't physically there, the meeting can still happen because everyone is "virtually" present, maybe through video calls or other digital tools. Even though the people aren't in the same room, their presence is still felt, and the meeting can go on as planned [^norton72what]. Virtuality is powerful because it can fill in for what’s missing in the real world and still allow things to function as if they were real. It helps us continue with important activities, even if the real-world conditions aren't perfect.
 
+![Virtuality](images/virtuality-sherwin.png)
 
 [^doyle15art]: Doyle, Denise. 2015. “Art, Virtual Worlds and the Emergent Imagination.” *Leonardo* 48 (3): 244–50. http://www.jstor.org/stable/43832994.
 

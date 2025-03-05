@@ -1,6 +1,6 @@
 ## Cyberspace
 
-![Cyberspace image](../images/cyberspace-ryanbujold.png)
+![Cyberspace image](images/cyberspace-ryanbujold.png)
 
 It is a space where computers can interact with each other and share their data and content with each other. A reality that is computer generated, computer accessed and virtual. It is the place we are in during our communications through computers. It is a complete virtualisation of our physical world. [^bauwens94cyberspace]
 

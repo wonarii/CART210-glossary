@@ -711,6 +711,92 @@ Information overload is critical in new media, influencing digital consumption a
 
 [^noyes1995]: Noyes, J. M., and P. J. Thomas. 1995. “Information Overload: An Overview.” *IEEE Colloquium on Information Overload*.  
 
+## Network Security  
+
+Network security refers to the set of technologies, policies, and practices designed to protect digital communications, data integrity, and confidentiality from cyber threats. With the increasing reliance on interconnected systems, securing networks has become a critical concern for individuals, businesses, and governments. Effective network security involves multiple layers of defense to protect infrastructure, detect threats, and mitigate attacks [^huang2010].  
+
+### Core Principles of Network Security  
+
+Several fundamental principles guide the implementation of network security:  
+
+- **Confidentiality** – Ensuring that sensitive data is accessible only to authorized individuals. Encryption techniques such as the **Advanced Encryption Standard (AES)** help safeguard data from unauthorized access [^zhao2024].  
+- **Integrity** – Protecting information from unauthorized modification or tampering. Cryptographic hash functions and digital signatures ensure that data remains unaltered during transmission [^maasaoui2022].  
+- **Availability** – Maintaining reliable access to network resources. Protection against **Distributed Denial of Service (DDoS)** attacks ensures that network services remain operational even under heavy cyber threats [^cheng2010].  
+
+### Key Network Security Technologies  
+
+Network security employs various technologies to protect systems and data, including:  
+
+- **Firewalls** – Acting as a barrier between trusted and untrusted networks, firewalls filter incoming and outgoing traffic based on predefined security rules [^huang2010].  
+- **Intrusion Detection and Prevention Systems (IDPS)** – These systems monitor network traffic for suspicious activities, alert administrators, and take preventive actions when necessary [^zhao2024].  
+- **Virtual Private Networks (VPNs)** – Encrypting data transmissions over public networks to enhance privacy and security, especially in remote work environments [^maasaoui2022].  
+- **Zero Trust Security** – A modern security approach where no entity—internal or external—is trusted by default, requiring continuous authentication and verification of users and devices [^cheng2010].  
+
+### Challenges and Emerging Threats  
+
+As network security evolves, new threats continue to emerge, requiring constant adaptation. Some of the most pressing challenges include:  
+
+- **Ransomware and Malware** – Malicious software that encrypts or steals data, often demanding payment for its release [^zhao2024].  
+- **Phishing Attacks** – Social engineering techniques used to trick users into revealing sensitive information, such as login credentials [^maasaoui2022].  
+- **5G and IoT Vulnerabilities** – The expansion of **Internet of Things (IoT)** devices and **5G networks** introduces new attack vectors that require advanced security measures [^cheng2010].  
+
+### Examples  
+
+- **The WannaCry Ransomware Attack (2017)** – Exploited a vulnerability in Windows operating systems, affecting thousands of organizations globally, including healthcare and financial sectors [^maasaoui2022].  
+- **SolarWinds Supply Chain Attack (2020)** – A sophisticated attack compromising enterprise networks by injecting malicious code into software updates [^cheng2010].  
+- **DDoS Attack on GitHub (2018)** – One of the largest recorded DDoS attacks, which peaked at 1.35 terabits per second, demonstrating the need for robust network security defenses [^zhao2024].  
+
+### References  
+
+[^huang2010]: Huang, Scott C.-H., David MacCallum, and Ding-Zhu Du. 2010. *Network Security*. New York: Springer.  
+[^zhao2024]: Zhao, Dongmei, Guoqing Ji, Yiling Zhang, Xunzheng Han, and Shuiguang Zeng. 2024. “A Network Security Situation Prediction Method Based on SSA-GResNeSt.” *IEEE Transactions on Network and Service Management* 21 (3): 3498–3509.  
+[^maasaoui2022]: Maasaoui, Zineb, Anfal Hathah, Hasnae Bilil, Van Sy Mai, Abdella Battou, and Ahmed Ibath. 2022. “Network Security Traffic Analysis Platform - Design and Validation.” *IEEE International Conference on Computer Systems and Applications*.  
+[^cheng2010]: Cheng, X., and S.C.-H. Huang. 2010. “Security Protocols and Cryptography in Network Security.” *Springer Science+Business Media*.  
+
+## The Internet
+
+The Internet is a vast, decentralized network of interconnected computers that enables global communication, information sharing, and digital interaction. It is built on a foundation of standardized communication protocols, primarily the **Transmission Control Protocol/Internet Protocol (TCP/IP)**, which ensures the seamless exchange of data across diverse systems [^clark1988]. The Internet evolved from early research initiatives, notably the **ARPANET**, developed in the late 1960s to facilitate communication between academic and military institutions [^leiner2009]. Over time, it expanded into a ubiquitous infrastructure supporting a wide range of applications, from web browsing to cloud computing.  
+
+### Core Architectural Principles  
+
+The Internet's success is largely attributed to key design principles that have shaped its evolution:  
+
+- **Packet-Switching** – Instead of relying on a dedicated communication channel, data is broken into packets that travel independently across the network before being reassembled at the destination. This ensures efficiency and fault tolerance [^abbate1999].  
+- **End-to-End Principle** – The network itself remains simple, while intelligence and complexity are handled at the edges (i.e., the devices communicating over the network). This principle fosters flexibility and innovation by allowing new applications to be built without requiring changes to the core infrastructure [^saltzer1984].  
+- **Layered Architecture** – The Internet is structured into multiple layers, including the physical, network, transport, and application layers. Each layer performs a specific function, enabling interoperability and scalability [^clark1988].  
+
+### Impact on Society  
+
+The Internet has transformed nearly every aspect of modern life, serving as the foundation for digital economies, communication platforms, and knowledge dissemination. Some key societal impacts include:  
+
+- **Information Access** – With search engines and online databases, knowledge is more accessible than ever, revolutionizing education, research, and journalism [^leiner2009].  
+- **Digital Communication** – Email, instant messaging, and social media have reshaped interpersonal and mass communication, making global interaction instantaneous and ubiquitous [^abbate1999].  
+- **E-commerce & Digital Markets** – Online marketplaces such as Amazon, Alibaba, and Shopify have disrupted traditional commerce, enabling businesses of all sizes to reach global audiences [^leiner2009].  
+- **Cloud Computing & Big Data** – The Internet supports vast computational and storage infrastructures, driving advancements in artificial intelligence, automation, and data analytics [^clark1988].  
+
+### Challenges and Future Considerations  
+
+Despite its benefits, the Internet faces significant challenges, including:  
+
+- **Security & Privacy Risks** – Cyber threats, including hacking, data breaches, and surveillance, raise concerns about online safety and digital rights [^clark1988].  
+- **Digital Divide** – While the Internet connects billions of people, disparities in access persist, particularly in developing regions with limited infrastructure [^abbate1999].  
+- **Decentralization vs. Control** – Governments and corporations influence how the Internet operates, leading to debates over net neutrality, censorship, and monopolization [^saltzer1984].  
+
+### Examples  
+
+- **The World Wide Web** – Invented by Tim Berners-Lee in 1989, the Web is an application of the Internet that enables hyperlinked content, forming the foundation of modern websites and digital services [^leiner2009].  
+- **Streaming & Social Media** – Platforms like Netflix, YouTube, and Twitter leverage Internet infrastructure to provide on-demand content and real-time interactions, shaping digital culture [^abbate1999].  
+- **Blockchain & Decentralized Networks** – Emerging technologies like blockchain operate on Internet protocols to enable secure, transparent transactions without central authorities [^clark1988].  
+
+### References  
+### References  
+
+[^clark1988]: Clark, David D. 1988. "The Design Philosophy of the DARPA Internet Protocols." *ACM SIGCOMM Computer Communication Review* 18 (4): 106–114.  
+[^saltzer1984]: Saltzer, Jerome H., David P. Reed, and David D. Clark. 1984. "End-to-End Arguments in System Design." *ACM Transactions on Computer Systems* 2 (4): 277–288.  
+[^abbate1999]: Abbate, Janet. 1999. *Inventing the Internet*. Cambridge, MA: MIT Press.  
+[^leiner2009]: Leiner, Barry M., Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Larry G. Roberts, and Stephen Wolff. 2009. "A Brief History of the Internet." *ACM SIGCOMM Computer Communication Review* 39 (5): 22–31. https://doi.org/10.1145/1629607.1629613.  
+
+
 ## Linux
 
 ![LinuxKeywordImage](/images/linux-dumont.png)

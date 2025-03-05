@@ -49,7 +49,7 @@ Evolving Cybersecurity Landscape: The rise of AI and digital platforms increases
    2.9 Apply password management
    2.10 Use email domain protection
 
-![Ransomware](../images/ransomware-bolin.png)
+![Ransomware](images/ransomware-bolin.png)
 
 
 

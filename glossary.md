@@ -696,7 +696,7 @@ Thousands of versions of Linux exist [^atea25distrowatch], commonly referred to 
 
 Due to Linux's offered freedom, Linux has become a common tool among creatives. From the Raspberri PI engineers, to the young Chromebook students, anyone with a computer can have immediate access to a multitude of complex and usable tools. Linux is more then a tool, it is a community of like minded thinkers who share a passion for freedom of expression. Linux is **the** public paintbrush, the one to seperate user from state and enterprise. It is pure technological freedom, which infinite modubility[^rankin05linux]. 
 
-![Linux Logo](../images/Linux-Symbol-1933970093.png)
+![Linux Logo](images/Linux-Symbol-1933970093.png)
 
 ---
 

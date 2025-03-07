@@ -10,6 +10,105 @@ For each keyword, cite at least three references. Ensure that at least two of th
 To make your contributions and suggest changes, follow the instructions in the repository's [README](https://github.com/concordia-dcart/CART210-glossary/blob/main/README.md) file.
 
 ---
+## HTTPS
+
+**HTTPS (Hypertext Transfer Protocol Secure)** is an extension of **HTTP (Hypertext Transfer Protocol)** that uses encryption to secure data exchanged between a user's browser and a web server. Through **SSL/TLS** protocols, it ensures data confidentiality, integrity, and authentication.
+
+**Netscape** developed HTTPS in 1994 to secure online transactions for its browser. Initially, it used **SSL (Secure Sockets Layer)** for encryption. Over time, SSL was replaced by **TLS (Transport Layer Security)**, a more secure and efficient protocol. HTTPS became essential as online commerce and sensitive data exchanges grew, gaining widespread adoption in the 2000s and now a standard for safe browsing.
+
+---
+
+## **The Importance of HTTPS in New Media**
+
+In the digital age, new media has transformed how information is shared, consumed, and created. Securing data transmission from social media platforms to online journalism and e-commerce has become crucial. HTTPS (HyperText Transfer Protocol Secure) is a key technology enabling secure online communication. HTTPS plays a significant role in ensuring privacy, security, and trust in new media, making it an essential standard for modern websites and online interactions.
+
+First and foremost, HTTPS provides encryption, protecting user data from cyber threats such as hacking, phishing, and eavesdropping. Unlike HTTP, which transmits data in plain text, HTTPS uses SSL/TLS encryption to safeguard sensitive information. This is particularly vital in new media environments where personal data, login credentials, and payment details are frequently exchanged. Users engaging with social media, news sites, or digital content platforms benefit from this added layer of security.
+
+Additionally, HTTPS enhances trust and credibility. In an era of misinformation and cybersecurity threats, users are more cautious about which websites they interact with. A website with HTTPS displays a padlock icon in the browser, signalling that it is secure and trustworthy. Search engines like Google also prioritize HTTPS-enabled sites in rankings, reinforcing its importance for content creators, businesses, and media organizations looking to reach wider audiences.
+
+Moreover, HTTPS is widely used across various new media platforms. Social networks, video streaming services, blogs, forums, and e-commerce websites rely on HTTPS to ensure safe user experiences. Secure communication is particularly crucial for online journalism and digital activism, where protecting the integrity of information and sources is paramount.
+
+In conclusion, HTTPS is an indispensable component of new media, providing security, trust, and improved visibility for online platforms. As the digital landscape evolves, ensuring secure communication will remain fundamental to engaging with new media safely and effectively.
+
+
+
+
+[^hellegren17crypto]: Hellegren, Z. Isadora. 2017. “A History of Crypto-Discourse: Encryption as a Site of Struggles to Define Internet Freedom.” _Internet Histories_ 1 (4): 285–311. https://doi.org/10.1080/24701475.2017.1387466.  
+
+[^fuchs11newmedia]: Fuchs, Christian. 2011. “New Media, Web 2.0 and Surveillance.” _Sociology Compass_ 5 (2): 134–47. https://doi.org/10.1111/j.1751-9020.2010.00354.x.  
+
+[^wikipedia25https]: Wikipedia. 2025. “HTTPS.” _Wikipedia_, January 24, 2025. https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473.  
+
+
+
+
+## PHP
+
+**PHP (Hypertext Preprocessor)** is a widely used, open-source scripting language designed primarily for web development. It is embedded into HTML to create dynamic web pages and can interact with databases, manage sessions, and process forms. 
+
+PHP was created in 1993 by **Rasmus Lerdorf** as a set of **Common Gateway Interface (CGI)** scripts to track visitors to his online resume. Initially called "Personal Home Page Tools," it evolved into **PHP/FI (Personal Home Page / Forms Interpreter)** in 1995. By 1997, it became the fully-fledged PHP language. PHP 3, released in 1998, marked its first major version, and it has continuously evolved with regular updates to improve performance, security, and functionality.
+
+---
+
+## **PHP and Its Relevance to New Media**
+
+In the digital age, new media encompasses various forms of online communication, including websites, social media platforms, streaming services, and interactive content. PHP (Hypertext Preprocessor) is crucial in enabling these digital experiences by serving as a powerful scripting language for web development. Its ability to process dynamic content, manage databases, and facilitate user interactions makes it indispensable in the evolving landscape of new media.
+
+One of PHP’s primary applications in new media is within **Content Management Systems (CMS)**. Platforms such as WordPress, Drupal, and Joomla utilize PHP, allowing users to create, manage, and publish digital content effortlessly. These systems enable individuals and businesses to maintain an online presence without requiring extensive programming knowledge. The flexibility and scalability of PHP-based CMS platforms contribute significantly to the proliferation of digital media.
+
+Additionally, PHP has been pivotal in developing **social media platforms**. Facebook, one of the largest social networks, was initially built using PHP, highlighting its ability to handle vast amounts of user-generated content and real-time interactions. Although Facebook has since modified its backend, PHP remains a cornerstone in many social networking sites, prioritizing user engagement and content sharing.
+
+The language is also essential in **streaming services**, where it helps deliver video, audio, and other interactive media. Websites like YouTube, Twitch, and other multimedia platforms rely on backend scripting to manage content distribution, handle user logins, and provide seamless streaming experiences. PHP’s integration with databases like MySQL ensures that media content is efficiently stored, retrieved, and delivered to users.
+
+Furthermore, **e-commerce and forum-based websites** benefit from PHP’s capabilities. Platforms like Etsy, WooCommerce, and various online marketplaces use PHP to manage transactions, user authentication, and dynamic product displays. Community forums, including those designed for problem-solving and knowledge sharing, also leverage PHP to facilitate discussions and user interactions.
+
+In conclusion, PHP remains a foundational technology in new media, driving the interactivity and functionality of modern websites and digital platforms. Its versatility, efficiency, and database compatibility make it a preferred choice for developers looking to create engaging online experiences. As new media evolves, PHP’s role in shaping the digital landscape will likely persist, ensuring dynamic and interactive web applications for users worldwide.
+
+---
+
+[^amanatidis16php]: Amanatidis, Theodoros, and Alexander Chatzigeorgiou. 2016. “Studying the Evolution of PHP Web Applications.” _Information and Software Technology_ 72 (April 1): 48–67. https://doi.org/10.1016/j.infsof.2015.11.009.  
+
+[^lockhart15php]: Lockhart, Josh. 2015. _Modern PHP: New Features and Good Practices._ O’Reilly Media, Inc.  
+
+[^wikipedia25php]: Wikipedia. 2025. “PHP.” _Wikipedia_, February 9, 2025. https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653.  
+
+---
+
+## XML
+
+**XML (Extensible Markup Language)** is a flexible, text-based format for storing and transporting data. It uses a set of rules for encoding documents in a human-readable and machine-readable format.
+
+The **World Wide Web Consortium (W3C)** developed XML in the late 1990s to address the need for a universal data format on the Internet. It was officially released in 1998 as a simplified version of **SGML (Standard Generalized Markup Language)**, aiming to make data more portable across platforms and applications. Over time, XML became integral for web services, configuration files, and data storage.
+
+## The Role of XML in New Media
+
+In the evolving landscape of new media, **XML (Extensible Markup Language)** plays a crucial role in efficiently structuring, organizing, and transmitting data. As digital communication and multimedia platforms expand, XML provides a standardized format that enables seamless integration across different systems, making it an essential tool for modern content management and distribution.
+
+One of XML’s primary new media applications is **web content management**. Many content management systems (CMS) use XML to structure and store data, allowing easy updates and interoperability between different platforms. By providing a standardized format, XML ensures that digital content remains accessible and adaptable across various devices and screen sizes, making it easier to manage websites dynamically.
+
+Another critical application is **RSS feeds**, which utilize XML to distribute news and updates in a structured format. Many websites, blogs, and news outlets rely on XML-based RSS feeds to deliver real-time content to users and aggregators, ensuring that information reaches audiences efficiently. This capability has transformed how people consume news and digital content by automating the process of content syndication.
+
+XML is widely used in multimedia applications in addition to text-based media. SMIL (Synchronized Multimedia Integration Language) and SVG (Scalable Vector Graphics) leverage XML to create interactive and scalable media experiences. These formats allow developers to build animations, interactive graphics, and other rich media content while maintaining cross-platform compatibility.
+
+Furthermore, XML is integral to data exchange in web services. Many APIs, including those that power social media, streaming platforms, and e-commerce sites, use XML to structure and transmit data between servers and clients. SOAP (Simple Object Access Protocol) and RESTful web services frequently employ XML to ensure seamless data communication across different systems.
+
+### Conclusion
+
+XML is a foundational technology in new media, enabling structured content management, automated content distribution, rich multimedia experiences, and efficient data exchange. As digital media continues to evolve, XML remains a vital tool for ensuring interoperability, scalability, and accessibility in the ever-changing digital landscape.
+
+---
+
+[^vanderaalst25xml]: van der Aalst, Wil M.P. 2025. “Patterns and XPDL: A Critical Evaluation of the XML Process Definition Language.” _Department of Technology Management, Eindhoven University of Technology, The Netherlands_, February 2. PDF Document.  
+
+[^feng24xml]: Feng, Dujuan. 2024. “New Media Advertising Information Search Method Based on XML Technology.” _International Journal of High Speed Electronics and Systems_, October 18, 2540033. https://doi.org/10.1142/S0129156425400336.  
+
+[^wikipedia25xml]: Wikipedia. 2025. “XML.” _Wikipedia_, February 9, 2025. https://en.wikipedia.org/w/index.php?title=XML&oldid=1274745213.  
+
+
+
+
+
+
 ## Agency 
 
 Agency seems to have two meanings. On one hand, it refers simply to an organized body of people working for or under a larger form of institution, such as a governmental or political institution. On the other hand is a meaning deep rooted in philosophy and anthropology. Laura Ahearn in the Journal of Linguistic Anthropology explains that;

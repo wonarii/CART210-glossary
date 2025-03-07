@@ -20,9 +20,6 @@ In conclusion, HTTPS is an indispensable component of new media, providing secur
 
 
 
---- 
-
-### References  
 
 [^hellegren17crypto]: Hellegren, Z. Isadora. 2017. “A History of Crypto-Discourse: Encryption as a Site of Struggles to Define Internet Freedom.” _Internet Histories_ 1 (4): 285–311. https://doi.org/10.1080/24701475.2017.1387466.  
 
@@ -31,4 +28,4 @@ In conclusion, HTTPS is an indispensable component of new media, providing secur
 [^wikipedia25https]: Wikipedia. 2025. “HTTPS.” _Wikipedia_, January 24, 2025. https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473.  
 
 
----
+

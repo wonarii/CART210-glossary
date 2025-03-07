@@ -15,6 +15,6 @@ and reinforcing shared beliefs[^biluc20growing].
 The study demonstrates how internet platforms can accelerate these groups' growth and influence by facilitating the spread of their viewpoints while nurturing a powerful sense of community and shared purpose.
 
 
-[^bell05creating]: Bell, Steven J. “Creating Community Online.” American Libraries 36, no. 4 (2005): 68–71. http://www.jstor.org/stable/25649539.
-[^biluc20growing]: Bliuc, Ana-Maria, John Betts, Matteo Vergani, Muhammad Iqbal, and Kevin Dunn. “The Growing Power of Online Communities of the Extreme-Right: Deriving Strength, Meaning, and Direction from Significant Socio-Political Events ‘in Real Life.’” International Centre for Counter-Terrorism, 2020. http://www.jstor.org/stable/resrep25261.
-[^faraj11network]: Faraj, Samer, and Steven L. Johnson. “Network Exchange Patterns in Online Communities.” Organization Science 22, no. 6 (2011): 1464–80. http://www.jstor.org/stable/41303137.
+[^bell05creating]: Bell, Steven J. 2005. “Creating Community Online.” American Libraries 36, no. 4: 68–71. http://www.jstor.org/stable/25649539.
+[^biluc20growing]: Bliuc, Ana-Maria, John Betts, Matteo Vergani, Muhammad Iqbal, and Kevin Dunn. 2020. “The Growing Power of Online Communities of the Extreme-Right: Deriving Strength, Meaning, and Direction from Significant Socio-Political Events ‘in Real Life.’” International Centre for Counter-Terrorism. http://www.jstor.org/stable/resrep25261.
+[^faraj11network]: Faraj, Samer, and Steven L. Johnson. 2011. “Network Exchange Patterns in Online Communities.” Organization Science 22, no. 6: 1464–80. http://www.jstor.org/stable/41303137.

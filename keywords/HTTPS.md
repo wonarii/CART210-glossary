@@ -24,10 +24,11 @@ In conclusion, HTTPS is an indispensable component of new media, providing secur
 
 ### References  
 
-Hellegren, Z. Isadora. 2017. “A History of Crypto-Discourse: Encryption as a Site of Struggles to Define Internet Freedom.” *Internet Histories* 1 (4): 285–311. [https://doi.org/10.1080/24701475.2017.1387466](https://doi.org/10.1080/24701475.2017.1387466).  
+[^hellegren17crypto]: Hellegren, Z. Isadora. 2017. “A History of Crypto-Discourse: Encryption as a Site of Struggles to Define Internet Freedom.” _Internet Histories_ 1 (4): 285–311. https://doi.org/10.1080/24701475.2017.1387466.  
 
-Fuchs, Christian. 2011. “New Media, Web 2.0 and Surveillance.” *Sociology Compass* 5 (2): 134–47. [https://doi.org/10.1111/j.1751-9020.2010.00354.x](https://doi.org/10.1111/j.1751-9020.2010.00354.x).  
+[^fuchs11newmedia]: Fuchs, Christian. 2011. “New Media, Web 2.0 and Surveillance.” _Sociology Compass_ 5 (2): 134–47. https://doi.org/10.1111/j.1751-9020.2010.00354.x.  
 
-Wikipedia. 2025. “HTTPS.” *Wikipedia*, January 24, 2025. [https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473](https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473).  
+[^wikipedia25https]: Wikipedia. 2025. “HTTPS.” _Wikipedia_, January 24, 2025. https://en.wikipedia.org/w/index.php?title=HTTPS&oldid=1271559473.  
+
 
 ---

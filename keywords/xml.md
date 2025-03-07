@@ -4,7 +4,7 @@
 
 The **World Wide Web Consortium (W3C)** developed XML in the late 1990s to address the need for a universal data format on the Internet. It was officially released in 1998 as a simplified version of **SGML (Standard Generalized Markup Language)**, aiming to make data more portable across platforms and applications. Over time, XML became integral for web services, configuration files, and data storage.
 
-## The Role of XML in New Media
+### The Role of XML in New Media
 
 In the evolving landscape of new media, **XML (Extensible Markup Language)** plays a crucial role in efficiently structuring, organizing, and transmitting data. As digital communication and multimedia platforms expand, XML provides a standardized format that enables seamless integration across different systems, making it an essential tool for modern content management and distribution.
 
@@ -16,11 +16,9 @@ XML is widely used in multimedia applications in addition to text-based media. S
 
 Furthermore, XML is integral to data exchange in web services. Many APIs, including those that power social media, streaming platforms, and e-commerce sites, use XML to structure and transmit data between servers and clients. SOAP (Simple Object Access Protocol) and RESTful web services frequently employ XML to ensure seamless data communication across different systems.
 
-### Conclusion
-
 XML is a foundational technology in new media, enabling structured content management, automated content distribution, rich multimedia experiences, and efficient data exchange. As digital media continues to evolve, XML remains a vital tool for ensuring interoperability, scalability, and accessibility in the ever-changing digital landscape.
 
----
+
 
 [^vanderaalst25xml]: van der Aalst, Wil M.P. 2025. “Patterns and XPDL: A Critical Evaluation of the XML Process Definition Language.” _Department of Technology Management, Eindhoven University of Technology, The Netherlands_, February 2. PDF Document.  
 

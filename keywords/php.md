@@ -4,9 +4,9 @@
 
 PHP was created in 1993 by **Rasmus Lerdorf** as a set of **Common Gateway Interface (CGI)** scripts to track visitors to his online resume. Initially called "Personal Home Page Tools," it evolved into **PHP/FI (Personal Home Page / Forms Interpreter)** in 1995. By 1997, it became the fully-fledged PHP language. PHP 3, released in 1998, marked its first major version, and it has continuously evolved with regular updates to improve performance, security, and functionality.
 
----
 
-## **PHP and Its Relevance to New Media**
+
+### **PHP and Its Relevance to New Media**
 
 In the digital age, new media encompasses various forms of online communication, including websites, social media platforms, streaming services, and interactive content. PHP (Hypertext Preprocessor) is crucial in enabling these digital experiences by serving as a powerful scripting language for web development. Its ability to process dynamic content, manage databases, and facilitate user interactions makes it indispensable in the evolving landscape of new media.
 
@@ -20,7 +20,7 @@ Furthermore, **e-commerce and forum-based websites** benefit from PHP’s capabi
 
 In conclusion, PHP remains a foundational technology in new media, driving the interactivity and functionality of modern websites and digital platforms. Its versatility, efficiency, and database compatibility make it a preferred choice for developers looking to create engaging online experiences. As new media evolves, PHP’s role in shaping the digital landscape will likely persist, ensuring dynamic and interactive web applications for users worldwide.
 
----
+
 
 [^amanatidis16php]: Amanatidis, Theodoros, and Alexander Chatzigeorgiou. 2016. “Studying the Evolution of PHP Web Applications.” _Information and Software Technology_ 72 (April 1): 48–67. https://doi.org/10.1016/j.infsof.2015.11.009.  
 
@@ -28,4 +28,4 @@ In conclusion, PHP remains a foundational technology in new media, driving the i
 
 [^wikipedia25php]: Wikipedia. 2025. “PHP.” _Wikipedia_, February 9, 2025. https://en.wikipedia.org/w/index.php?title=PHP&oldid=1274907653.  
 
----
+

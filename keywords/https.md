@@ -6,7 +6,7 @@
 
 ---
 
-## **The Importance of HTTPS in New Media**
+### **The Importance of HTTPS in New Media**
 
 In the digital age, new media has transformed how information is shared, consumed, and created. Securing data transmission from social media platforms to online journalism and e-commerce has become crucial. HTTPS (HyperText Transfer Protocol Secure) is a key technology enabling secure online communication. HTTPS plays a significant role in ensuring privacy, security, and trust in new media, making it an essential standard for modern websites and online interactions.
 
